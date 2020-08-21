@@ -1,0 +1,73 @@
+"well"	"Hours"	"Minutes"	"value"	"Strain"	"volume"	"condition"	"Phages"	"bacteria"
+"A1"	68.2	4040	0.1108	"Yi6"	20	"3 Phages"	"Bill, SDS2, Ump"	0.05
+"A10"	68.2	4040	0.1177	"Yi6"	20	"3 Phages"	"Carl, Ump, SDS2"	0.05
+"A11"	68.2	4040	0.111	"Yi6"	20	"3 Phages"	"Carl, Ump, SDS2"	0.05
+"A12"	68.2	4040	0.1187	"Yi6"	20	"3 Phages"	"Carl, Ump, SDS2"	0.05
+"A2"	68.2	4040	0.1164	"Yi6"	20	"3 Phages"	"Bill, SDS2, Ump"	0.05
+"A3"	68.2	4040	0.1157	"Yi6"	20	"3 Phages"	"Bill, SDS2, Ump"	0.05
+"A4"	68.2	4040	0.1272	"Yi6"	20	"3 Phages"	"Bill, SDS2, Ump"	0.05
+"A9"	68.2	4040	0.1125	"Yi6"	20	"3 Phages"	"Carl, Ump, SDS2"	0.05
+"B1"	68.2	4040	0.7583	"Yi6"	20	"Host
+Control"	"Host Control"	0.05
+"B10"	68.2	4040	0.5989	"Yi6"	20	"Host
+Control"	"Host Control"	0.05
+"B11"	68.2	4040	0.7003	"Yi6"	20	"Host
+Control"	"Host Control"	0.05
+"B12"	68.2	4040	0.7132	"Yi6"	20	"Host
+Control"	"Host Control"	0.05
+"B2"	68.2	4040	0.6689	"Yi6"	20	"Host
+Control"	"Host Control"	0.05
+"B3"	68.2	4040	0.6502	"Yi6"	20	"Host
+Control"	"Host Control"	0.05
+"B4"	68.2	4040	0.7121	"Yi6"	20	"Host
+Control"	"Host Control"	0.05
+"B9"	68.2	4040	0.6867	"Yi6"	20	"Host
+Control"	"Host Control"	0.05
+"C1"	68.2	4040	0.1209	"Yi6"	20	"2 Phages"	"SDS2, Ump"	0.05
+"C10"	68.2	4040	0.193	"Yi6"	20	"2 Phages"	"SDS2, Ump"	0.05
+"C11"	68.2	4040	0.1161	"Yi6"	20	"2 Phages"	"SDS2, Ump"	0.05
+"C12"	68.2	4040	0.1206	"Yi6"	20	"2 Phages"	"SDS2, Ump"	0.05
+"C2"	68.2	4040	0.3696	"Yi6"	20	"2 Phages"	"SDS2, Ump"	0.05
+"C3"	68.2	4040	0.2289	"Yi6"	20	"2 Phages"	"SDS2, Ump"	0.05
+"C4"	68.2	4040	0.1227	"Yi6"	20	"2 Phages"	"SDS2, Ump"	0.05
+"C9"	68.2	4040	0.1158	"Yi6"	20	"2 Phages"	"SDS2, Ump"	0.05
+"D1"	68.2	4040	0.1147	"Yi6"	20	"2 Phages"	"Bill, Ump"	0.05
+"D10"	68.2	4040	0.1149	"Yi6"	20	"2 Phages"	"Carl, Ump"	0.05
+"D11"	68.2	4040	0.1121	"Yi6"	20	"2 Phages"	"Carl, Ump"	0.05
+"D12"	68.2	4040	0.1134	"Yi6"	20	"2 Phages"	"Carl, Ump"	0.05
+"D2"	68.2	4040	0.1141	"Yi6"	20	"2 Phages"	"Bill, Ump"	0.05
+"D3"	68.2	4040	0.2827	"Yi6"	20	"2 Phages"	"Bill, Ump"	0.05
+"D4"	68.2	4040	0.1163	"Yi6"	20	"2 Phages"	"Bill, Ump"	0.05
+"D9"	68.2	4040	0.1114	"Yi6"	20	"2 Phages"	"Carl, Ump"	0.05
+"E1"	68.2	4040	0.1109	"Yi6"	20	"2 Phages"	"Bill, SDS2"	0.05
+"E10"	68.2	4040	0.1125	"Yi6"	20	"2 Phages"	"Carl, SDS2"	0.05
+"E11"	68.2	4040	0.1129	"Yi6"	20	"2 Phages"	"Carl, SDS2"	0.05
+"E12"	68.2	4040	0.1096	"Yi6"	20	"2 Phages"	"Carl, SDS2"	0.05
+"E2"	68.2	4040	0.1069	"Yi6"	20	"2 Phages"	"Bill, SDS2"	0.05
+"E3"	68.2	4040	0.1096	"Yi6"	20	"2 Phages"	"Bill, SDS2"	0.05
+"E4"	68.2	4040	0.1094	"Yi6"	20	"2 Phages"	"Bill, SDS2"	0.05
+"E9"	68.2	4040	0.1082	"Yi6"	20	"2 Phages"	"Carl, SDS2"	0.05
+"F1"	68.2	4040	0.9571	"Yi6"	20	"1 Phage"	"Ump"	0.05
+"F10"	68.2	4040	0.2092	"Yi6"	20	"1 Phage"	"Ump"	0.05
+"F11"	68.2	4040	0.254	"Yi6"	20	"1 Phage"	"Ump"	0.05
+"F12"	68.2	4040	0.3338	"Yi6"	20	"1 Phage"	"Ump"	0.05
+"F2"	68.2	4040	0.2657	"Yi6"	20	"1 Phage"	"Ump"	0.05
+"F3"	68.2	4040	0.6474	"Yi6"	20	"1 Phage"	"Ump"	0.05
+"F4"	68.2	4040	0.2817	"Yi6"	20	"1 Phage"	"Ump"	0.05
+"F9"	68.2	4040	1.3237	"Yi6"	20	"1 Phage"	"Ump"	0.05
+"G1"	68.2	4040	0.1071	"Yi6"	20	"1 Phage"	"SDS2"	0.05
+"G10"	68.2	4040	0.1091	"Yi6"	20	"1 Phage"	"SDS2"	0.05
+"G11"	68.2	4040	0.1184	"Yi6"	20	"1 Phage"	"SDS2"	0.05
+"G12"	68.2	4040	0.1056	"Yi6"	20	"1 Phage"	"SDS2"	0.05
+"G2"	68.2	4040	0.1054	"Yi6"	20	"1 Phage"	"SDS2"	0.05
+"G3"	68.2	4040	0.1167	"Yi6"	20	"1 Phage"	"SDS2"	0.05
+"G4"	68.2	4040	0.1081	"Yi6"	20	"1 Phage"	"SDS2"	0.05
+"G9"	68.2	4040	0.1075	"Yi6"	20	"1 Phage"	"SDS2"	0.05
+"H1"	68.2	4040	0.4337	"Yi6"	20	"1 Phage"	"Bill"	0.05
+"H10"	68.2	4040	0.5769	"Yi6"	20	"1 Phage"	"Carl"	0.05
+"H11"	68.2	4040	0.5476	"Yi6"	20	"1 Phage"	"Carl"	0.05
+"H12"	68.2	4040	0.6523	"Yi6"	20	"1 Phage"	"Carl"	0.05
+"H2"	68.2	4040	0.3611	"Yi6"	20	"1 Phage"	"Bill"	0.05
+"H3"	68.2	4040	0.4645	"Yi6"	20	"1 Phage"	"Bill"	0.05
+"H4"	68.2	4040	0.544	"Yi6"	20	"1 Phage"	"Bill"	0.05
+"H9"	68.2	4040	0.5526	"Yi6"	20	"1 Phage"	"Carl"	0.05

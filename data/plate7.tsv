@@ -1,0 +1,97 @@
+"well"	"Hours"	"Minutes"	"value"	"Strain"	"volume"	"condition"	"Phages"	"bacteria"
+"A1"	73.3	4340	0.131	"V587"	20	"3 Phages"	"Carl, Bob, Ben"	0.05
+"A10"	73.3	4340	0.154	"V587"	20	"3 Phages"	"Carl, Car, Bill"	0.05
+"A11"	73.3	4340	0.203	"V587"	20	"3 Phages"	"Carl, Car, Bill"	0.05
+"A12"	73.3	4340	0.263	"V587"	20	"3 Phages"	"Carl, Car, Bill"	0.05
+"A2"	73.3	4340	0.146	"V587"	20	"3 Phages"	"Carl, Bob, Ben"	0.05
+"A3"	73.3	4340	0.148	"V587"	20	"3 Phages"	"Carl, Bob, Ben"	0.05
+"A4"	73.3	4340	0.147	"V587"	20	"3 Phages"	"Carl, Bob, Ben"	0.05
+"A5"	73.3	4340	0.149	"V587"	20	"3 Phages"	"Carl, Bob, Ben"	0.05
+"A6"	73.3	4340	0.148	"V587"	20	"3 Phages"	"Carl, Bob, Ben"	0.05
+"A7"	73.3	4340	0.271	"V587"	20	"3 Phages"	"Carl, Car, Bill"	0.05
+"A8"	73.3	4340	0.165	"V587"	20	"3 Phages"	"Carl, Car, Bill"	0.05
+"A9"	73.3	4340	0.153	"V587"	20	"3 Phages"	"Carl, Car, Bill"	0.05
+"B1"	73.3	4340	0.61	"V587"	20	"Host Control"	"Host Control"	0.05
+"B10"	73.3	4340	0.594	"V587"	20	"Host Control"	"Host Control"	0.05
+"B11"	73.3	4340	0.621	"V587"	20	"Host Control"	"Host Control"	0.05
+"B12"	73.3	4340	0.757	"V587"	20	"Host Control"	"Host Control"	0.05
+"B2"	73.3	4340	0.516	"V587"	20	"Host Control"	"Host Control"	0.05
+"B3"	73.3	4340	0.463	"V587"	20	"Host Control"	"Host Control"	0.05
+"B4"	73.3	4340	0.485	"V587"	20	"Host Control"	"Host Control"	0.05
+"B5"	73.3	4340	0.477	"V587"	20	"Host Control"	"Host Control"	0.05
+"B6"	73.3	4340	0.511	"V587"	20	"Host Control"	"Host Control"	0.05
+"B7"	73.3	4340	0.547	"V587"	20	"Host Control"	"Host Control"	0.05
+"B8"	73.3	4340	0.61	"V587"	20	"Host Control"	"Host Control"	0.05
+"B9"	73.3	4340	0.545	"V587"	20	"Host Control"	"Host Control"	0.05
+"C1"	73.3	4340	0.164	"V587"	20	"2 Phages"	"Bob, Ben"	0.05
+"C10"	73.3	4340	0.169	"V587"	20	"2 Phages"	"Car, Bill"	0.05
+"C11"	73.3	4340	0.194	"V587"	20	"2 Phages"	"Car, Bill"	0.05
+"C12"	73.3	4340	0.212	"V587"	20	"2 Phages"	"Car, Bill"	0.05
+"C2"	73.3	4340	0.177	"V587"	20	"2 Phages"	"Bob, Ben"	0.05
+"C3"	73.3	4340	0.178	"V587"	20	"2 Phages"	"Bob, Ben"	0.05
+"C4"	73.3	4340	0.171	"V587"	20	"2 Phages"	"Bob, Ben"	0.05
+"C5"	73.3	4340	0.174	"V587"	20	"2 Phages"	"Bob, Ben"	0.05
+"C6"	73.3	4340	0.156	"V587"	20	"2 Phages"	"Bob, Ben"	0.05
+"C7"	73.3	4340	0.442	"V587"	20	"2 Phages"	"Car, Bill"	0.05
+"C8"	73.3	4340	0.214	"V587"	20	"2 Phages"	"Car, Bill"	0.05
+"C9"	73.3	4340	0.18	"V587"	20	"2 Phages"	"Car, Bill"	0.05
+"D1"	73.3	4340	0.162	"V587"	20	"2 Phages"	"Carl, Ben"	0.05
+"D10"	73.3	4340	0.197	"V587"	20	"2 Phages"	"Carl, Bill"	0.05
+"D11"	73.3	4340	0.239	"V587"	20	"2 Phages"	"Carl, Bill"	0.05
+"D12"	73.3	4340	0.246	"V587"	20	"2 Phages"	"Carl, Bill"	0.05
+"D2"	73.3	4340	0.18	"V587"	20	"2 Phages"	"Carl, Ben"	0.05
+"D3"	73.3	4340	0.176	"V587"	20	"2 Phages"	"Carl, Ben"	0.05
+"D4"	73.3	4340	0.187	"V587"	20	"2 Phages"	"Carl, Ben"	0.05
+"D5"	73.3	4340	0.188	"V587"	20	"2 Phages"	"Carl, Ben"	0.05
+"D6"	73.3	4340	0.18	"V587"	20	"2 Phages"	"Carl, Ben"	0.05
+"D7"	73.3	4340	0.215	"V587"	20	"2 Phages"	"Carl, Bill"	0.05
+"D8"	73.3	4340	0.234	"V587"	20	"2 Phages"	"Carl, Bill"	0.05
+"D9"	73.3	4340	0.369	"V587"	20	"2 Phages"	"Carl, Bill"	0.05
+"E1"	73.3	4340	0.266	"V587"	20	"2 Phages"	"Carl, Bob"	0.05
+"E10"	73.3	4340	0.189	"V587"	20	"2 Phages"	"Carl, Car"	0.05
+"E11"	73.3	4340	0.25	"V587"	20	"2 Phages"	"Carl, Car"	0.05
+"E12"	73.3	4340	0.261	"V587"	20	"2 Phages"	"Carl, Car"	0.05
+"E2"	73.3	4340	0.215	"V587"	20	"2 Phages"	"Carl, Bob"	0.05
+"E3"	73.3	4340	0.223	"V587"	20	"2 Phages"	"Carl, Bob"	0.05
+"E4"	73.3	4340	0.204	"V587"	20	"2 Phages"	"Carl, Bob"	0.05
+"E5"	73.3	4340	0.225	"V587"	20	"2 Phages"	"Carl, Bob"	0.05
+"E6"	73.3	4340	0.217	"V587"	20	"2 Phages"	"Carl, Bob"	0.05
+"E7"	73.3	4340	0.219	"V587"	20	"2 Phages"	"Carl, Car"	0.05
+"E8"	73.3	4340	0.218	"V587"	20	"2 Phages"	"Carl, Car"	0.05
+"E9"	73.3	4340	0.219	"V587"	20	"2 Phages"	"Carl, Car"	0.05
+"F1"	73.3	4340	0.262	"V587"	20	"1 Phage"	"Ben"	0.05
+"F10"	73.3	4340	0.177	"V587"	20	"1 Phage"	"Bill"	0.05
+"F11"	73.3	4340	0.385	"V587"	20	"1 Phage"	"Bill"	0.05
+"F12"	73.3	4340	0.431	"V587"	20	"1 Phage"	"Bill"	0.05
+"F2"	73.3	4340	0.236	"V587"	20	"1 Phage"	"Ben"	0.05
+"F3"	73.3	4340	0.235	"V587"	20	"1 Phage"	"Ben"	0.05
+"F4"	73.3	4340	0.202	"V587"	20	"1 Phage"	"Ben"	0.05
+"F5"	73.3	4340	0.215	"V587"	20	"1 Phage"	"Ben"	0.05
+"F6"	73.3	4340	0.224	"V587"	20	"1 Phage"	"Ben"	0.05
+"F7"	73.3	4340	0.221	"V587"	20	"1 Phage"	"Bill"	0.05
+"F8"	73.3	4340	0.378	"V587"	20	"1 Phage"	"Bill"	0.05
+"F9"	73.3	4340	0.23	"V587"	20	"1 Phage"	"Bill"	0.05
+"G1"	73.3	4340	0.276	"V587"	20	"1 Phage"	"Bob"	0.05
+"G10"	73.3	4340	0.396	"V587"	20	"1 Phage"	"Car"	0.05
+"G11"	73.3	4340	0.407	"V587"	20	"1 Phage"	"Car"	0.05
+"G12"	73.3	4340	0.489	"V587"	20	"1 Phage"	"Car"	0.05
+"G2"	73.3	4340	0.202	"V587"	20	"1 Phage"	"Bob"	0.05
+"G3"	73.3	4340	0.203	"V587"	20	"1 Phage"	"Bob"	0.05
+"G4"	73.3	4340	0.199	"V587"	20	"1 Phage"	"Bob"	0.05
+"G5"	73.3	4340	0.207	"V587"	20	"1 Phage"	"Bob"	0.05
+"G6"	73.3	4340	0.224	"V587"	20	"1 Phage"	"Bob"	0.05
+"G7"	73.3	4340	0.437	"V587"	20	"1 Phage"	"Car"	0.05
+"G8"	73.3	4340	0.462	"V587"	20	"1 Phage"	"Car"	0.05
+"G9"	73.3	4340	0.365	"V587"	20	"1 Phage"	"Car"	0.05
+"H1"	73.3	4340	0.212	"V587"	20	"1 Phage"	"Carl"	0.05
+"H10"	73.3	4340	0.189	"V587"	20	"1 Phage"	"Carl"	0.05
+"H11"	73.3	4340	0.255	"V587"	20	"1 Phage"	"Carl"	0.05
+"H12"	73.3	4340	0.303	"V587"	20	"1 Phage"	"Carl"	0.05
+"H2"	73.3	4340	0.255	"V587"	20	"1 Phage"	"Carl"	0.05
+"H3"	73.3	4340	0.226	"V587"	20	"1 Phage"	"Carl"	0.05
+"H4"	73.3	4340	0.223	"V587"	20	"1 Phage"	"Carl"	0.05
+"H5"	73.3	4340	0.226	"V587"	20	"1 Phage"	"Carl"	0.05
+"H6"	73.3	4340	0.296	"V587"	20	"1 Phage"	"Carl"	0.05
+"H7"	73.3	4340	0.231	"V587"	20	"1 Phage"	"Carl"	0.05
+"H8"	73.3	4340	0.285	"V587"	20	"1 Phage"	"Carl"	0.05
+"H9"	73.3	4340	0.234	"V587"	20	"1 Phage"	"Carl"	0.05

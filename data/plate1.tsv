@@ -1,0 +1,108 @@
+"well"	"Hours"	"Minutes"	"value"	"Strain"	"volume"	"condition"	"Phages"	"bacteria"
+"A1"	69.5	4170	0.136	"Yi6"	"10"	"3 Phages"	"Ben, CCS2, Ump"	0.05
+"A10"	69.5	4170	0.112	"Yi6"	"25"	"3 Phages"	"Ben, CCS2, Ump"	0.15
+"A12"	69.5	4170	0.121	"Yi6"	"50"	"3 Phages"	"Ben, CCS2, Ump"	0.15
+"A2"	69.5	4170	0.099	"Yi6"	"10"	"3 Phages"	"Ben, CCS2, Ump"	0.05
+"A3"	69.5	4170	0.105	"Yi6"	"25"	"3 Phages"	"Ben, CCS2, Ump"	0.05
+"A4"	69.5	4170	0.109	"Yi6"	"25"	"3 Phages"	"Ben, CCS2, Ump"	0.05
+"A5"	69.5	4170	0.111	"Yi6"	"50"	"3 Phages"	"Ben, CCS2, Ump"	0.05
+"A6"	69.5	4170	0.11	"Yi6"	"50"	"3 Phages"	"Ben, CCS2, Ump"	0.05
+"A7"	69.5	4170	0.109	"Yi6"	"10"	"3 Phages"	"Ben, CCS2, Ump"	0.15
+"A8"	69.5	4170	0.124	"Yi6"	"10"	"3 Phages"	"Ben, CCS2, Ump"	0.15
+"A9"	69.5	4170	0.116	"Yi6"	"25"	"3 Phages"	"Ben, CCS2, Ump"	0.15
+"B1"	69.5	4170	0.382	"Yi6"	NA	"Host
+Control"	"Host Control"	0.05
+"B10"	69.5	4170	0.769	"Yi6"	NA	"Host
+Control"	"Host Control"	0.15
+"B11"	69.5	4170	0.714	"Yi6"	NA	"Host
+Control"	"Host Control"	0.15
+"B12"	69.5	4170	0.906	"Yi6"	NA	"Host
+Control"	"Host Control"	0.15
+"B2"	69.5	4170	0.841	"Yi6"	NA	"Host
+Control"	"Host Control"	0.05
+"B3"	69.5	4170	0.724	"Yi6"	NA	"Host
+Control"	"Host Control"	0.05
+"B4"	69.5	4170	0.799	"Yi6"	NA	"Host
+Control"	"Host Control"	0.05
+"B5"	69.5	4170	0.784	"Yi6"	NA	"Host
+Control"	"Host Control"	0.05
+"B6"	69.5	4170	0.844	"Yi6"	NA	"Host
+Control"	"Host Control"	0.05
+"B7"	69.5	4170	0.591	"Yi6"	NA	"Host
+Control"	"Host Control"	0.15
+"B8"	69.5	4170	0.799	"Yi6"	NA	"Host
+Control"	"Host Control"	0.15
+"B9"	69.5	4170	0.801	"Yi6"	NA	"Host
+Control"	"Host Control"	0.15
+"C1"	69.5	4170	0.576	"Yi6"	"10"	"2 Phages"	"CCS2, Ump"	0.05
+"C10"	69.5	4170	0.697	"Yi6"	"25"	"2 Phages"	"CCS2, Ump"	0.15
+"C11"	69.5	4170	0.715	"Yi6"	"50"	"2 Phages"	"CCS2, Ump"	0.15
+"C12"	69.5	4170	0.75	"Yi6"	"50"	"2 Phages"	"CCS2, Ump"	0.15
+"C2"	69.5	4170	0.529	"Yi6"	"10"	"2 Phages"	"CCS2, Ump"	0.05
+"C3"	69.5	4170	0.557	"Yi6"	"25"	"2 Phages"	"CCS2, Ump"	0.05
+"C4"	69.5	4170	0.61	"Yi6"	"25"	"2 Phages"	"CCS2, Ump"	0.05
+"C5"	69.5	4170	0.258	"Yi6"	"50"	"2 Phages"	"CCS2, Ump"	0.05
+"C6"	69.5	4170	0.235	"Yi6"	"50"	"2 Phages"	"CCS2, Ump"	0.05
+"C7"	69.5	4170	0.64	"Yi6"	"10"	"2 Phages"	"CCS2, Ump"	0.15
+"C8"	69.5	4170	0.677	"Yi6"	"10"	"2 Phages"	"CCS2, Ump"	0.15
+"C9"	69.5	4170	0.647	"Yi6"	"25"	"2 Phages"	"CCS2, Ump"	0.15
+"D1"	69.5	4170	0.165	"Yi6"	"10"	"2 Phages"	"Ben, CCS2"	0.05
+"D10"	69.5	4170	0.111	"Yi6"	"25"	"2 Phages"	"Ben, CCS2"	0.15
+"D11"	69.5	4170	0.117	"Yi6"	"50"	"2 Phages"	"Ben, CCS2"	0.15
+"D12"	69.5	4170	0.126	"Yi6"	"50"	"2 Phages"	"Ben, CCS2"	0.15
+"D2"	69.5	4170	0.116	"Yi6"	"10"	"2 Phages"	"Ben, CCS2"	0.05
+"D3"	69.5	4170	0.119	"Yi6"	"25"	"2 Phages"	"Ben, CCS2"	0.05
+"D4"	69.5	4170	0.117	"Yi6"	"25"	"2 Phages"	"Ben, CCS2"	0.05
+"D5"	69.5	4170	0.113	"Yi6"	"50"	"2 Phages"	"Ben, CCS2"	0.05
+"D6"	69.5	4170	0.108	"Yi6"	"50"	"2 Phages"	"Ben, CCS2"	0.05
+"D7"	69.5	4170	0.106	"Yi6"	"10"	"2 Phages"	"Ben, CCS2"	0.15
+"D8"	69.5	4170	0.12	"Yi6"	"10"	"2 Phages"	"Ben, CCS2"	0.15
+"D9"	69.5	4170	0.11	"Yi6"	"25"	"2 Phages"	"Ben, CCS2"	0.15
+"E1"	69.5	4170	0.173	"Yi6"	"10"	"2 Phages"	"Ben, Ump"	0.05
+"E10"	69.5	4170	0.11	"Yi6"	"25"	"2 Phages"	"Ben, Ump"	0.15
+"E11"	69.5	4170	0.11	"Yi6"	"50"	"2 Phages"	"Ben, Ump"	0.15
+"E12"	69.5	4170	0.112	"Yi6"	"50"	"2 Phages"	"Ben, Ump"	0.15
+"E2"	69.5	4170	0.108	"Yi6"	"10"	"2 Phages"	"Ben, Ump"	0.05
+"E3"	69.5	4170	0.102	"Yi6"	"25"	"2 Phages"	"Ben, Ump"	0.05
+"E4"	69.5	4170	0.106	"Yi6"	"25"	"2 Phages"	"Ben, Ump"	0.05
+"E5"	69.5	4170	0.309	"Yi6"	"50"	"2 Phages"	"Ben, Ump"	0.05
+"E6"	69.5	4170	0.153	"Yi6"	"50"	"2 Phages"	"Ben, Ump"	0.05
+"E7"	69.5	4170	0.108	"Yi6"	"10"	"2 Phages"	"Ben, Ump"	0.15
+"E8"	69.5	4170	0.111	"Yi6"	"10"	"2 Phages"	"Ben, Ump"	0.15
+"E9"	69.5	4170	0.107	"Yi6"	"25"	"2 Phages"	"Ben, Ump"	0.15
+"F1"	69.5	4170	0.109	"Yi6"	"10"	"1 Phage"	"Ump"	0.05
+"F10"	69.5	4170	0.239	"Yi6"	"25"	"1 Phage"	"Ump"	0.15
+"F11"	69.5	4170	0.214	"Yi6"	"50"	"1 Phage"	"Ump"	0.15
+"F12"	69.5	4170	0.221	"Yi6"	"50"	"1 Phage"	"Ump"	0.15
+"F2"	69.5	4170	0.132	"Yi6"	"10"	"1 Phage"	"Ump"	0.05
+"F3"	69.5	4170	0.444	"Yi6"	"25"	"1 Phage"	"Ump"	0.05
+"F4"	69.5	4170	0.139	"Yi6"	"25"	"1 Phage"	"Ump"	0.05
+"F5"	69.5	4170	0.222	"Yi6"	"50"	"1 Phage"	"Ump"	0.05
+"F6"	69.5	4170	0.261	"Yi6"	"50"	"1 Phage"	"Ump"	0.05
+"F7"	69.5	4170	0.168	"Yi6"	"10"	"1 Phage"	"Ump"	0.15
+"F8"	69.5	4170	0.438	"Yi6"	"10"	"1 Phage"	"Ump"	0.15
+"F9"	69.5	4170	0.336	"Yi6"	"25"	"1 Phage"	"Ump"	0.15
+"G1"	69.5	4170	0.565	"Yi6"	"10"	"1 Phage"	"CCS2"	0.05
+"G10"	69.5	4170	0.692	"Yi6"	"25"	"1 Phage"	"CCS2"	0.15
+"G11"	69.5	4170	0.673	"Yi6"	"50"	"1 Phage"	"CCS2"	0.15
+"G12"	69.5	4170	0.819	"Yi6"	"50"	"1 Phage"	"CCS2"	0.15
+"G2"	69.5	4170	0.554	"Yi6"	"10"	"1 Phage"	"CCS2"	0.05
+"G3"	69.5	4170	0.607	"Yi6"	"25"	"1 Phage"	"CCS2"	0.05
+"G4"	69.5	4170	0.652	"Yi6"	"25"	"1 Phage"	"CCS2"	0.05
+"G5"	69.5	4170	0.675	"Yi6"	"50"	"1 Phage"	"CCS2"	0.05
+"G6"	69.5	4170	0.646	"Yi6"	"50"	"1 Phage"	"CCS2"	0.05
+"G7"	69.5	4170	0.687	"Yi6"	"10"	"1 Phage"	"CCS2"	0.15
+"G8"	69.5	4170	0.667	"Yi6"	"10"	"1 Phage"	"CCS2"	0.15
+"G9"	69.5	4170	0.698	"Yi6"	"25"	"1 Phage"	"CCS2"	0.15
+"H1"	69.5	4170	0.29	"Yi6"	"10"	"1 Phage"	"Ben"	0.05
+"H10"	69.5	4170	0.523	"Yi6"	"25"	"1 Phage"	"Ben"	0.15
+"H11"	69.5	4170	0.285	"Yi6"	"50"	"1 Phage"	"Ben"	0.15
+"H12"	69.5	4170	0.367	"Yi6"	"50"	"1 Phage"	"Ben"	0.15
+"H2"	69.5	4170	0.595	"Yi6"	"10"	"1 Phage"	"Ben"	0.05
+"H3"	69.5	4170	0.474	"Yi6"	"25"	"1 Phage"	"Ben"	0.05
+"H4"	69.5	4170	0.444	"Yi6"	"25"	"1 Phage"	"Ben"	0.05
+"H5"	69.5	4170	0.333	"Yi6"	"50"	"1 Phage"	"Ben"	0.05
+"H6"	69.5	4170	0.567	"Yi6"	"50"	"1 Phage"	"Ben"	0.05
+"H7"	69.5	4170	0.37	"Yi6"	"10"	"1 Phage"	"Ben"	0.15
+"H8"	69.5	4170	0.604	"Yi6"	"10"	"1 Phage"	"Ben"	0.15
+"H9"	69.5	4170	0.431	"Yi6"	"25"	"1 Phage"	"Ben"	0.15
