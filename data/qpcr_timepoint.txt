@@ -135,3 +135,19 @@ YI6	Yi6-1_Cocktail 7 (Bill+Ump)	no host	Ump	0h	9.8589515	9.096031333	9.349925
 YI6	Yi6-1_Cocktail 7 (Bill+Ump)	no host	Ump	24h	7.71388	7.344394	7.778725
 YI6	Yi6-1_Cocktail 7 (Bill+Ump)	no host	Ump	48h	10.156593	9.4689385	8.7054875
 YI6	Yi6-1_Cocktail 7 (Bill+Ump)	no host	Ump	72h	7.932834667	8.042312	8.924391667
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	with host	Ump	0h	9.264384	8.563292	
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	with host	Ump	24h	12.57456267	13.57658	
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	with host	Ump	48h	9.363625333	9.533296	
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	with host	Ump	72h	9.635738667	8.19834	
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	no host	Ump	0h	8.697748	8.361608	
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	no host	Ump	24h	8.595305333	7.129094667	
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	no host	Ump	48h	9.576514	8.441641333	
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	no host	Ump	72h	8.905834667	7.577281333	
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	with host	SDS1	0h	10.05775333	10.12804567	9.67331
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	with host	SDS1	24h	12.84524767	12.56984	11.48447
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	with host	SDS1	48h	11.97293133	12.12273467	11.77202
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	with host	SDS1	72h	12.25640533	12.07087967	11.95265
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	no host	SDS1	0h	10.208709	10.24097433	9.74945
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	no host	SDS1	24h	9.982851667	9.880294	9.97463
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	no host	SDS1	48h	10.27554433	10.32048533	9.83288
+YI6	Yi6-1_Cocktail 8 (SDS1+Ump)	no host	SDS1	72h	10.329704	10.225994	9.96248
