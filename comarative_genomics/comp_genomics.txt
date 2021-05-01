@@ -1,0 +1,55 @@
+
+# Prokka Sipho
+
+for file in *.fasta;
+do
+name=${file%%.fasta}
+
+prokka \
+--outdir /dat/prokka_output2/$name \
+--genus Caudovirales \
+--cpus 8 \
+$file
+
+mv /dat/prokka_output2/$name/*.gff /dat/gffs2/sipho/$name.gff
+
+done
+
+# Prokka Myo
+
+for file in *.fasta;
+do
+name=${file%%.fasta}
+
+prokka \
+--outdir /dat/prokka_output2/$name \
+--genus Caudovirales \
+--cpus 8 \
+$file
+
+mv /dat/prokka_output2/$name/*.gff /dat/gffs2/myo/$name.gff
+
+done
+
+# Sipho Roary
+
+roary \
+-p 8 \
+-o sipho_clustered \
+-f /dat/roary_output/sipho/ \
+-cd 90 \
+-i 50 \
+-e -n \
+/dat/gffs2/sipho/*.gff
+
+
+# Sipho Roary
+
+roary \
+-p 8 \
+-o myo_clustered \
+-f /dat/roary_output/myo/ \
+-cd 85 \
+-i 50 \
+-e -n \
+/dat/gffs/myo/*.gff

@@ -1,0 +1,408 @@
+FT   variation       97
+FT                   /colour=4
+FT                   /gene=group_145
+FT                   /taxa="P13_phage"
+FT   variation       53
+FT                   /colour=3
+FT                   /gene=group_107
+FT                   /taxa="CCS3 P13_phage P2_phage SDS1"
+FT   variation       11
+FT                   /colour=3
+FT                   /gene=group_72
+FT                   /taxa="CCS3 P11_phage SDS2 Toy"
+FT   variation       12
+FT                   /colour=8
+FT                   /gene=group_117
+FT                   /taxa="P11_phage SDS2 Toy"
+FT   variation       9
+FT                   /colour=3
+FT                   /gene=group_63
+FT                   /taxa="CCS2 P13_phage P2_phage P9_phage"
+FT   variation       84
+FT                   /colour=3
+FT                   /gene=group_113
+FT                   /taxa="CCS3 P13_phage P9_phage SDS1"
+FT   variation       4
+FT                   /colour=8
+FT                   /gene=group_144
+FT                   /taxa="P13_phage P2_phage P9_phage"
+FT   variation       65
+FT                   /colour=7
+FT                   /gene=group_58
+FT                   /taxa="CCS3 P11_phage P9_phage SDS2 Toy"
+FT   variation       77
+FT                   /colour=16
+FT                   /gene=group_40
+FT                   /taxa="CCS2 CCS3 P11_phage P13_phage P2_phage P9_phage SDS1"
+FT   variation       28
+FT                   /colour=10
+FT                   /gene=group_49
+FT                   /taxa="CCS2 CCS3 P13_phage P2_phage P9_phage SDS1"
+FT   variation       39
+FT                   /colour=3
+FT                   /gene=group_56
+FT                   /taxa="CCS3 P11_phage SDS2 Toy"
+FT   variation       25
+FT                   /colour=3
+FT                   /gene=group_76
+FT                   /taxa="CCS3 P11_phage SDS2 Toy"
+FT   variation       42
+FT                   /colour=8
+FT                   /gene=group_78
+FT                   /taxa="P13_phage P9_phage SDS1"
+FT   variation       95
+FT                   /colour=9
+FT                   /gene=group_120
+FT                   /taxa="SDS2 Toy"
+FT   variation       72
+FT                   /colour=15
+FT                   /gene=group_106
+FT                   /taxa="CCS3 P11_phage P13_phage P2_phage P9_phage SDS1 SDS2 Toy"
+FT   variation       41
+FT                   /colour=9
+FT                   /gene=group_116
+FT                   /taxa="P11_phage P9_phage"
+FT   variation       87
+FT                   /colour=9
+FT                   /gene=group_108
+FT                   /taxa="CCS3 SDS2"
+FT   variation       54
+FT                   /colour=7
+FT                   /gene=group_118
+FT                   /taxa="P11_phage P13_phage P2_phage P9_phage SDS1"
+FT   variation       93
+FT                   /colour=4
+FT                   /gene=group_151
+FT                   /taxa="SDS2"
+FT   variation       101
+FT                   /colour=8
+FT                   /gene=group_134
+FT                   /taxa="P11_phage P2_phage SDS1"
+FT   variation       94
+FT                   /colour=9
+FT                   /gene=group_119
+FT                   /taxa="SDS2 Toy"
+FT   variation       19
+FT                   /colour=16
+FT                   /gene=group_64
+FT                   /taxa="CCS2 CCS3 P11_phage P13_phage P2_phage P9_phage SDS2"
+FT   variation       47
+FT                   /colour=7
+FT                   /gene=group_32
+FT                   /taxa="CCS2 CCS3 P11_phage SDS2 Toy"
+FT   variation       2
+FT                   /colour=4
+FT                   /gene=group_135
+FT                   /taxa="P11_phage"
+FT   variation       6
+FT                   /colour=4
+FT                   /gene=group_152
+FT                   /taxa="Toy"
+FT   variation       70
+FT                   /colour=9
+FT                   /gene=group_112
+FT                   /taxa="CCS3 SDS2"
+FT   variation       21
+FT                   /colour=16
+FT                   /gene=group_62
+FT                   /taxa="CCS2 P11_phage P13_phage P2_phage P9_phage SDS1 SDS2"
+FT   variation       43
+FT                   /colour=8
+FT                   /gene=group_73
+FT                   /taxa="CCS3 SDS2 Toy"
+FT   variation       14
+FT                   /colour=15
+FT                   /gene=group_86
+FT                   /taxa="CCS2 CCS3 P13_phage P2_phage P9_phage SDS1 SDS2 Toy"
+FT   variation       29
+FT                   /colour=15
+FT                   /gene=nrdH
+FT                   /taxa="CCS2 CCS3 P13_phage P2_phage P9_phage SDS1 SDS2 Toy"
+FT   variation       46
+FT                   /colour=15
+FT                   /gene=group_6
+FT                   /taxa="CCS2 CCS3 P11_phage P13_phage P9_phage SDS1 SDS2 Toy"
+FT   variation       13
+FT                   /colour=3
+FT                   /gene=group_111
+FT                   /taxa="CCS3 P11_phage SDS2 Toy"
+FT   variation       63
+FT                   /colour=3
+FT                   /gene=group_140
+FT                   /taxa="P13_phage P2_phage P9_phage SDS1"
+FT   variation       45
+FT                   /colour=7
+FT                   /gene=group_66
+FT                   /taxa="CCS2 P11_phage P13_phage P9_phage SDS1"
+FT   variation       80
+FT                   /colour=15
+FT                   /gene=group_82
+FT                   /taxa="CCS2 P11_phage P13_phage P2_phage P9_phage SDS1 SDS2 Toy"
+FT   variation       98
+FT                   /colour=4
+FT                   /gene=group_156
+FT                   /taxa="Toy"
+FT   variation       86
+FT                   /colour=4
+FT                   /gene=group_130
+FT                   /taxa="CCS3"
+FT   variation       33
+FT                   /colour=7
+FT                   /gene=group_91
+FT                   /taxa="CCS2 P13_phage P2_phage P9_phage SDS1"
+FT   variation       48
+FT                   /colour=4
+FT                   /gene=group_125
+FT                   /taxa="CCS2"
+FT   variation       66
+FT                   /colour=15
+FT                   /gene=group_33
+FT                   /taxa="CCS2 P11_phage P13_phage P2_phage P9_phage SDS1 SDS2 Toy"
+FT   variation       32
+FT                   /colour=7
+FT                   /gene=group_90
+FT                   /taxa="CCS2 P13_phage P2_phage P9_phage SDS1"
+FT   variation       68
+FT                   /colour=16
+FT                   /gene=group_29
+FT                   /taxa="CCS2 P11_phage P13_phage P2_phage P9_phage SDS1 Toy"
+FT   variation       35
+FT                   /colour=4
+FT                   /gene=group_153
+FT                   /taxa="Toy"
+FT   variation       3
+FT                   /colour=9
+FT                   /gene=polA
+FT                   /taxa="P11_phage SDS2"
+FT   variation       23
+FT                   /colour=8
+FT                   /gene=group_74
+FT                   /taxa="CCS3 SDS2 Toy"
+FT   variation       7
+FT                   /colour=3
+FT                   /gene=group_54
+FT                   /taxa="CCS3 P11_phage SDS2 Toy"
+FT   variation       74
+FT                   /colour=4
+FT                   /gene=group_124
+FT                   /taxa="CCS2"
+FT   variation       85
+FT                   /colour=4
+FT                   /gene=group_129
+FT                   /taxa="CCS3"
+FT   variation       20
+FT                   /colour=3
+FT                   /gene=group_142
+FT                   /taxa="P13_phage P2_phage P9_phage SDS1"
+FT   variation       18
+FT                   /colour=8
+FT                   /gene=group_65
+FT                   /taxa="CCS2 CCS3 P9_phage"
+FT   variation       75
+FT                   /colour=7
+FT                   /gene=group_30
+FT                   /taxa="CCS2 P11_phage P2_phage SDS2 Toy"
+FT   variation       67
+FT                   /colour=3
+FT                   /gene=group_93
+FT                   /taxa="CCS2 P13_phage P2_phage SDS1"
+FT   variation       8
+FT                   /colour=8
+FT                   /gene=group_110
+FT                   /taxa="P11_phage SDS2 Toy"
+FT   variation       62
+FT                   /colour=3
+FT                   /gene=group_141
+FT                   /taxa="P13_phage P2_phage P9_phage SDS1"
+FT   variation       50
+FT                   /colour=4
+FT                   /gene=group_126
+FT                   /taxa="CCS2"
+FT   variation       31
+FT                   /colour=4
+FT                   /gene=group_128
+FT                   /taxa="CCS2"
+FT   variation       16
+FT                   /colour=7
+FT                   /gene=group_85
+FT                   /taxa="CCS2 P13_phage P2_phage P9_phage SDS1"
+FT   variation       60
+FT                   /colour=8
+FT                   /gene=group_77
+FT                   /taxa="P11_phage SDS2 Toy"
+FT   variation       38
+FT                   /colour=3
+FT                   /gene=group_57
+FT                   /taxa="CCS3 P11_phage SDS2 Toy"
+FT   variation       90
+FT                   /colour=4
+FT                   /gene=group_131
+FT                   /taxa="CCS3"
+FT   variation       100
+FT                   /colour=4
+FT                   /gene=group_154
+FT                   /taxa="Toy"
+FT   variation       88
+FT                   /colour=3
+FT                   /gene=group_71
+FT                   /taxa="CCS3 P11_phage P13_phage SDS2"
+FT   variation       52
+FT                   /colour=9
+FT                   /gene=group_79
+FT                   /taxa="CCS2 CCS3"
+FT   variation       51
+FT                   /colour=4
+FT                   /gene=group_127
+FT                   /taxa="CCS2"
+FT   variation       58
+FT                   /colour=4
+FT                   /gene=group_123
+FT                   /taxa="CCS2"
+FT   variation       55
+FT                   /colour=10
+FT                   /gene=group_59
+FT                   /taxa="CCS2 CCS3 P13_phage P2_phage P9_phage SDS1"
+FT   variation       15
+FT                   /colour=7
+FT                   /gene=group_46
+FT                   /taxa="CCS2 P13_phage P2_phage P9_phage SDS1"
+FT   variation       91
+FT                   /colour=7
+FT                   /gene=group_51
+FT                   /taxa="CCS3 P11_phage P13_phage SDS2 Toy"
+FT   variation       22
+FT                   /colour=4
+FT                   /gene=group_132
+FT                   /taxa="CCS3"
+FT   variation       99
+FT                   /colour=4
+FT                   /gene=group_155
+FT                   /taxa="Toy"
+FT   variation       36
+FT                   /colour=10
+FT                   /gene=group_48
+FT                   /taxa="CCS2 P13_phage P2_phage P9_phage SDS1 Toy"
+FT   variation       37
+FT                   /colour=3
+FT                   /gene=group_115
+FT                   /taxa="CCS3 P11_phage SDS2 Toy"
+FT   variation       34
+FT                   /colour=7
+FT                   /gene=group_92
+FT                   /taxa="CCS2 P13_phage P2_phage P9_phage SDS1"
+FT   variation       83
+FT                   /colour=4
+FT                   /gene=group_147
+FT                   /taxa="P9_phage"
+FT   variation       26
+FT                   /colour=3
+FT                   /gene=group_55
+FT                   /taxa="CCS3 P11_phage SDS2 Toy"
+FT   variation       24
+FT                   /colour=3
+FT                   /gene=group_75
+FT                   /taxa="CCS3 P11_phage SDS2 Toy"
+FT   variation       5
+FT                   /colour=8
+FT                   /gene=group_143
+FT                   /taxa="P13_phage P2_phage P9_phage"
+FT   variation       71
+FT                   /colour=15
+FT                   /gene=group_104
+FT                   /taxa="CCS2 CCS3 P11_phage P2_phage P9_phage SDS1 SDS2 Toy"
+FT   variation       44
+FT                   /colour=8
+FT                   /gene=group_114
+FT                   /taxa="CCS3 SDS2 Toy"
+FT   variation       96
+FT                   /colour=4
+FT                   /gene=group_139
+FT                   /taxa="P13_phage"
+FT   variation       30
+FT                   /colour=3
+FT                   /gene=group_138
+FT                   /taxa="P13_phage P2_phage P9_phage SDS1"
+FT   variation       27
+FT                   /colour=4
+FT                   /gene=group_9
+FT                   /taxa="CCS3"
+FT   variation       102
+FT                   /colour=7
+FT                   /gene=group_136
+FT                   /taxa="P11_phage P13_phage P2_phage P9_phage SDS1"
+FT   variation       17
+FT                   /colour=7
+FT                   /gene=group_2
+FT                   /taxa="CCS2 P13_phage P2_phage P9_phage SDS1"
+FT   variation       76
+FT                   /colour=4
+FT                   /gene=group_146
+FT                   /taxa="P2_phage"
+FT   variation       69
+FT                   /colour=15
+FT                   /gene=group_16
+FT                   /taxa="CCS2 CCS3 P11_phage P13_phage P2_phage P9_phage SDS1 Toy"
+FT   variation       56
+FT                   /colour=4
+FT                   /gene=group_121
+FT                   /taxa="CCS2"
+FT   variation       57
+FT                   /colour=9
+FT                   /gene=group_80
+FT                   /taxa="CCS2 P11_phage"
+FT   variation       49
+FT                   /colour=9
+FT                   /gene=group_89
+FT                   /taxa="CCS2 P11_phage"
+FT   variation       10
+FT                   /colour=7
+FT                   /gene=group_1
+FT                   /taxa="CCS2 CCS3 P13_phage P2_phage P9_phage"
+FT   variation       78
+FT                   /colour=9
+FT                   /gene=group_81
+FT                   /taxa="CCS2 CCS3"
+FT   variation       61
+FT                   /colour=16
+FT                   /gene=group_43
+FT                   /taxa="CCS2 CCS3 P13_phage P2_phage P9_phage SDS1 SDS2"
+FT   variation       92
+FT                   /colour=4
+FT                   /gene=group_148
+FT                   /taxa="SDS2"
+FT   variation       59
+FT                   /colour=4
+FT                   /gene=group_150
+FT                   /taxa="SDS2"
+FT   variation       89
+FT                   /colour=16
+FT                   /gene=group_35
+FT                   /taxa="CCS3 P11_phage P13_phage P2_phage SDS1 SDS2 Toy"
+FT   variation       1
+FT                   /colour=4
+FT                   /gene=group_149
+FT                   /taxa="SDS2"
+FT   variation       81
+FT                   /colour=7
+FT                   /gene=group_122
+FT                   /taxa="CCS2 P13_phage P2_phage P9_phage SDS1"
+FT   variation       73
+FT                   /colour=9
+FT                   /gene=group_87
+FT                   /taxa="CCS2 Toy"
+FT   variation       64
+FT                   /colour=4
+FT                   /gene=group_133
+FT                   /taxa="CCS3"
+FT   variation       82
+FT                   /colour=3
+FT                   /gene=group_61
+FT                   /taxa="CCS2 P11_phage P2_phage Toy"
+FT   variation       40
+FT                   /colour=9
+FT                   /gene=group_137
+FT                   /taxa="P13_phage SDS1"
+FT   variation       79
+FT                   /colour=15
+FT                   /gene=group_60
+FT                   /taxa="CCS2 CCS3 P11_phage P13_phage P2_phage P9_phage SDS1 Toy"

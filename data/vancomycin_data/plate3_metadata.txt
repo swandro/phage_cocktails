@@ -1,0 +1,97 @@
+Well	strain	mutant	phage	antibiotic	antibiotic_concentration(ug.ml)
+A1	E. faecalis Yi6	Wild Type	Wild Type	Vancomycin	0
+A2	E. faecalis Yi6	Wild Type	Wild Type	Vancomycin	0
+A3	E. faecalis Yi6	Wild Type	Wild Type	Vancomycin	0
+A4	E. faecalis Yi6	Wild Type	Wild Type	Vancomycin	1
+A5	E. faecalis Yi6	Wild Type	Wild Type	Vancomycin	5
+A6	E. faecalis Yi6	Wild Type	Wild Type	Vancomycin	10
+A7	E. faecalis Yi6	Wild Type	Wild Type	Vancomycin	50
+A8	E. faecalis Yi6	Wild Type	Wild Type	Vancomycin	100
+A9	E. faecalis DP11	mutant	SDS2.2	Vancomycin	0
+A10	E. faecalis DP11	Wild Type	Wild Type	Vancomycin	0
+A11	E. faecalis Yi6	mutant	CCS3.1	Vancomycin	0
+A12	E. faecalis Yi6	mutant	CCS2.1	Vancomycin	0
+B1	E. faecalis Yi6	mutant	SDS1.5	Vancomycin	0
+B2	E. faecalis Yi6	mutant	SDS1.5	Vancomycin	0
+B3	E. faecalis Yi6	mutant	SDS1.5	Vancomycin	0
+B4	E. faecalis Yi6	mutant	SDS1.5	Vancomycin	1
+B5	E. faecalis Yi6	mutant	SDS1.5	Vancomycin	5
+B6	E. faecalis Yi6	mutant	SDS1.5	Vancomycin	10
+B7	E. faecalis Yi6	mutant	SDS1.5	Vancomycin	50
+B8	E. faecalis Yi6	mutant	SDS1.5	Vancomycin	100
+B9	E. faecalis DP11	mutant	SDS2.2	Vancomycin	0
+B10	E. faecalis DP11	Wild Type	Wild Type	Vancomycin	0
+B11	E. faecalis Yi6	mutant	CCS3.1	Vancomycin	0
+B12	E. faecalis Yi6	mutant	CCS2.1	Vancomycin	0
+C1	E. faecalis Yi6	mutant	SDS1.6	Vancomycin	0
+C2	E. faecalis Yi6	mutant	SDS1.6	Vancomycin	0
+C3	E. faecalis Yi6	mutant	SDS1.6	Vancomycin	0
+C4	E. faecalis Yi6	mutant	SDS1.6	Vancomycin	1
+C5	E. faecalis Yi6	mutant	SDS1.6	Vancomycin	5
+C6	E. faecalis Yi6	mutant	SDS1.6	Vancomycin	10
+C7	E. faecalis Yi6	mutant	SDS1.6	Vancomycin	50
+C8	E. faecalis Yi6	mutant	SDS1.6	Vancomycin	100
+C9	E. faecalis DP11	mutant	SDS2.2	Vancomycin	0
+C10	E. faecalis DP11	Wild Type	Wild Type	Vancomycin	0
+C11	E. faecalis Yi6	mutant	CCS3.1	Vancomycin	0
+C12	E. faecalis Yi6	mutant	CCS2.1	Vancomycin	0
+D1	E. faecalis Yi6	mutant	SDS1.7	Vancomycin	0
+D2	E. faecalis Yi6	mutant	SDS1.7	Vancomycin	0
+D3	E. faecalis Yi6	mutant	SDS1.7	Vancomycin	0
+D4	E. faecalis Yi6	mutant	SDS1.7	Vancomycin	1
+D5	E. faecalis Yi6	mutant	SDS1.7	Vancomycin	5
+D6	E. faecalis Yi6	mutant	SDS1.7	Vancomycin	10
+D7	E. faecalis Yi6	mutant	SDS1.7	Vancomycin	50
+D8	E. faecalis Yi6	mutant	SDS1.7	Vancomycin	100
+D9	E. faecalis DP11	mutant	SDS2.2	Vancomycin	1
+D10	E. faecalis DP11	Wild Type	Wild Type	Vancomycin	1
+D11	E. faecalis Yi6	mutant	CCS3.1	Vancomycin	1
+D12	E. faecalis Yi6	mutant	CCS2.1	Vancomycin	1
+E1	E. faecalis Yi6	mutant	Ump5	Vancomycin	0
+E2	E. faecalis Yi6	mutant	Ump5	Vancomycin	0
+E3	E. faecalis Yi6	mutant	Ump5	Vancomycin	0
+E4	E. faecalis Yi6	mutant	Ump5	Vancomycin	1
+E5	E. faecalis Yi6	mutant	Ump5	Vancomycin	5
+E6	E. faecalis Yi6	mutant	Ump5	Vancomycin	10
+E7	E. faecalis Yi6	mutant	Ump5	Vancomycin	50
+E8	E. faecalis Yi6	mutant	Ump5	Vancomycin	100
+E9	E. faecalis DP11	mutant	SDS2.2	Vancomycin	5
+E10	E. faecalis DP11	Wild Type	Wild Type	Vancomycin	5
+E11	E. faecalis Yi6	mutant	CCS3.1	Vancomycin	5
+E12	E. faecalis Yi6	mutant	CCS2.1	Vancomycin	5
+F1	E. faecalis Yi6	mutant	Ump6	Vancomycin	0
+F2	E. faecalis Yi6	mutant	Ump6	Vancomycin	0
+F3	E. faecalis Yi6	mutant	Ump6	Vancomycin	0
+F4	E. faecalis Yi6	mutant	Ump6	Vancomycin	1
+F5	E. faecalis Yi6	mutant	Ump6	Vancomycin	5
+F6	E. faecalis Yi6	mutant	Ump6	Vancomycin	10
+F7	E. faecalis Yi6	mutant	Ump6	Vancomycin	50
+F8	E. faecalis Yi6	mutant	Ump6	Vancomycin	100
+F9	E. faecalis DP11	mutant	SDS2.2	Vancomycin	10
+F10	E. faecalis DP11	Wild Type	Wild Type	Vancomycin	10
+F11	E. faecalis Yi6	mutant	CCS3.1	Vancomycin	10
+F12	E. faecalis Yi6	mutant	CCS2.1	Vancomycin	10
+G1	E. faecalis Yi6	mutant	Ump7	Vancomycin	0
+G2	E. faecalis Yi6	mutant	Ump7	Vancomycin	0
+G3	E. faecalis Yi6	mutant	Ump7	Vancomycin	0
+G4	E. faecalis Yi6	mutant	Ump7	Vancomycin	1
+G5	E. faecalis Yi6	mutant	Ump7	Vancomycin	5
+G6	E. faecalis Yi6	mutant	Ump7	Vancomycin	10
+G7	E. faecalis Yi6	mutant	Ump7	Vancomycin	50
+G8	E. faecalis Yi6	mutant	Ump7	Vancomycin	100
+G9	E. faecalis DP11	mutant	SDS2.2	Vancomycin	50
+G10	E. faecalis DP11	Wild Type	Wild Type	Vancomycin	50
+G11	E. faecalis Yi6	mutant	CCS3.1	Vancomycin	50
+G12	E. faecalis Yi6	mutant	CCS2.1	Vancomycin	50
+H1	E. faecalis V587	Wild Type	Wild Type	Vancomycin	0
+H2	E. faecalis V587	Wild Type	Wild Type	Vancomycin	0
+H3	E. faecalis V587	Wild Type	Wild Type	Vancomycin	0
+H4	E. faecalis V587	Wild Type	Wild Type	Vancomycin	1
+H5	E. faecalis V587	Wild Type	Wild Type	Vancomycin	5
+H6	E. faecalis V587	Wild Type	Wild Type	Vancomycin	10
+H7	E. faecalis V587	Wild Type	Wild Type	Vancomycin	50
+H8	E. faecalis V587	Wild Type	Wild Type	Vancomycin	100
+H9	E. faecalis DP11	mutant	SDS2.2	Vancomycin	100
+H10	E. faecalis DP11	Wild Type	Wild Type	Vancomycin	100
+H11	E. faecalis Yi6	mutant	CCS3.1	Vancomycin	100
+H12	E. faecalis Yi6	mutant	CCS2.1	Vancomycin	100
