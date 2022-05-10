@@ -1,0 +1,492 @@
+>Feature vB_OCPT_PG2
+574	269	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00001
+1582	620	CDS
+			codon_start	1
+			product	RNA ligase 2
+			EC_number	6.5.1.3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P32277
+			locus_tag	EMSIMAW_00002
+1850	1584	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00003
+2091	1843	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00004
+2314	2105	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00005
+2521	2330	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00006
+2746	2534	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00007
+3006	2746	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00008
+3197	3003	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00009
+3707	3273	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00010
+3920	3720	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00011
+4515	3931	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00012
+4861	4538	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00013
+5067	4831	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00014
+5455	5051	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00015
+6209	5514	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00016
+6597	6202	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00017
+7030	6599	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00018
+7234	7043	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00019
+7854	7318	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00020
+10201	7847	CDS
+			codon_start	1
+			product	DNA-directed DNA polymerase
+			EC_number	2.7.7.7
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00581
+			gene	5
+			locus_tag	EMSIMAW_00021
+10467	10282	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00022
+10845	10471	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00023
+11058	10846	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00024
+11270	11061	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00025
+11491	11267	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00026
+11700	11506	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00027
+11889	11713	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00028
+12202	11903	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00029
+12803	12240	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00030
+13527	12895	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00031
+14089	13520	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00032
+14520	14089	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00033
+15187	14657	CDS
+			codon_start	1
+			product	DNA endonuclease I-HmuI
+			EC_number	3.1.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P34081
+			locus_tag	EMSIMAW_00034
+15519	15184	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00035
+16547	15519	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00036
+16980	16540	CDS
+			codon_start	1
+			product	DNA endonuclease I-HmuI
+			EC_number	3.1.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P34081
+			locus_tag	EMSIMAW_00037
+17313	17053	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00038
+17549	17325	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00039
+18267	17515	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00040
+19644	18280	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00041
+20432	19656	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00042
+20834	20481	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00043
+21853	20909	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00044
+22095	21883	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00045
+22295	22107	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00046
+22615	22295	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00047
+22866	22615	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00048
+23108	22866	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00049
+23257	23111	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00050
+23434	23270	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00051
+24429	24358	tRNA
+			note	tRNA-Trp(cca)
+			product	tRNA-Trp
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	EMSIMAW_00052
+24688	24488	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00053
+25074	24688	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00054
+25511	25077	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00055
+26388	25564	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00056
+26899	27327	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00057
+28323	27610	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00058
+28723	28370	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00059
+31697	28671	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00060
+35702	31710	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00061
+38601	35716	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00062
+38838	38614	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00063
+39289	38849	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00064
+40122	39433	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00065
+40577	40143	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00066
+40970	40590	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00067
+41332	40955	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00068
+41752	41348	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00069
+42252	41812	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00070
+43213	42407	CDS
+			codon_start	1
+			product	Putative major head protein
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A9CRA7
+			locus_tag	EMSIMAW_00071
+43936	43262	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00072
+44802	44047	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00073
+46349	44814	CDS
+			codon_start	1
+			product	Portal protein
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54309
+			gene	6
+			locus_tag	EMSIMAW_00074
+47677	46406	CDS
+			codon_start	1
+			product	Large terminase protein
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54308
+			gene	2
+			locus_tag	EMSIMAW_00075
+47988	47740	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00076
+48387	48007	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00077
+48964	48365	CDS
+			codon_start	1
+			product	Terminase small subunit
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P68928
+			gene	1
+			locus_tag	EMSIMAW_00078
+49245	49559	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00079
+49559	49816	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00080
+49816	50202	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00081
+50204	50584	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00082
+50588	50737	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00083
+50750	51010	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00084
+51012	51314	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00085
+51334	51705	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00086
+52157	52966	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00087
+52967	53185	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00088
+53187	53399	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00089
+55122	54820	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00090
+55496	55359	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00091
+55949	55575	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00092
+56328	55942	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00093
+56436	56332	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00094
+56752	56429	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EMSIMAW_00095

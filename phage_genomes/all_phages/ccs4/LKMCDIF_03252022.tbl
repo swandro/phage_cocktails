@@ -1,0 +1,269 @@
+>Feature CCS4
+226	65	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00001
+			product	hypothetical protein
+441	223	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00002
+			product	hypothetical protein
+653	438	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00003
+			product	hypothetical protein
+874	647	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00004
+			product	hypothetical protein
+1014	874	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00005
+			product	hypothetical protein
+1166	1011	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00006
+			product	hypothetical protein
+1901	1278	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00007
+			product	hypothetical protein
+2140	1973	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00008
+			product	hypothetical protein
+2380	2225	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00009
+			product	hypothetical protein
+2682	2470	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00010
+			product	hypothetical protein
+2945	2682	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00011
+			product	hypothetical protein
+3127	2942	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00012
+			product	hypothetical protein
+3534	3127	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00013
+			product	hypothetical protein
+3759	3547	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00014
+			product	hypothetical protein
+4261	4464	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00015
+			product	hypothetical protein
+4505	4711	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00016
+			product	hypothetical protein
+4711	5082	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00017
+			product	hypothetical protein
+5474	5626	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00018
+			product	hypothetical protein
+5641	5976	CDS
+			EC_number	3.1.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P34081
+			locus_tag	LKMCDIF_00019
+			product	DNA endonuclease I-HmuI
+5979	6452	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00020
+			product	hypothetical protein
+6823	8547	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00021
+			product	hypothetical protein
+8585	8782	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00022
+			product	hypothetical protein
+8787	9938	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00023
+			product	hypothetical protein
+9901	10488	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00024
+			product	hypothetical protein
+10558	11811	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00025
+			product	hypothetical protein
+11936	12136	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00026
+			product	hypothetical protein
+12180	12476	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00027
+			product	hypothetical protein
+12448	12783	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00028
+			product	hypothetical protein
+12780	13187	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00029
+			product	hypothetical protein
+13184	13549	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00030
+			product	hypothetical protein
+13628	14194	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00031
+			product	hypothetical protein
+14374	14685	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00032
+			product	hypothetical protein
+14942	19312	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00033
+			product	hypothetical protein
+19391	21481	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00034
+			product	hypothetical protein
+21493	23874	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00035
+			product	hypothetical protein
+24053	24298	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00036
+			product	hypothetical protein
+24313	24549	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00037
+			product	hypothetical protein
+24546	25643	CDS
+			EC_number	3.5.1.28
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q38653
+			locus_tag	LKMCDIF_00038
+			product	Endolysin
+25960	25733	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00039
+			product	hypothetical protein
+28314	26023	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00040
+			product	hypothetical protein
+28574	28350	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00041
+			product	hypothetical protein
+29352	28645	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00042
+			product	hypothetical protein
+29675	29430	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00043
+			product	hypothetical protein
+29969	29676	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00044
+			product	hypothetical protein
+30788	29970	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00045
+			product	hypothetical protein
+30966	30778	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00046
+			product	hypothetical protein
+31718	30942	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00047
+			product	hypothetical protein
+32208	31729	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00048
+			product	hypothetical protein
+32411	32205	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00049
+			product	hypothetical protein
+32979	32413	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00050
+			product	hypothetical protein
+33342	33136	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00051
+			product	hypothetical protein
+34233	33493	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00052
+			product	hypothetical protein
+34433	34245	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00053
+			product	hypothetical protein
+34643	34446	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00054
+			product	hypothetical protein
+34879	34703	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00055
+			product	hypothetical protein
+36171	34876	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00056
+			product	hypothetical protein
+36553	36164	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00057
+			product	hypothetical protein
+36781	36572	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00058
+			product	hypothetical protein
+36944	36783	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00059
+			product	hypothetical protein
+37230	36946	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00060
+			product	hypothetical protein
+37355	37230	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00061
+			product	hypothetical protein
+37690	37355	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00062
+			product	hypothetical protein
+37871	37713	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00063
+			product	hypothetical protein
+39541	37961	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00064
+			product	hypothetical protein
+39833	39642	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00065
+			product	hypothetical protein
+39967	39830	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LKMCDIF_00066
+			product	hypothetical protein

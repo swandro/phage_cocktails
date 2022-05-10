@@ -1,0 +1,557 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:97 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 97 present
+DISC_FEATURE_COUNT:tRNA: 1 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:98 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:7 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:98 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::97 proteins have invalid IDs.
+./ccs3/LMOIWNZ_03252022:CCS3_1 (length 155)
+./ccs3/LMOIWNZ_03252022:CCS3_2 (length 145)
+./ccs3/LMOIWNZ_03252022:CCS3_3 (length 134)
+./ccs3/LMOIWNZ_03252022:CCS3_4 (length 125)
+./ccs3/LMOIWNZ_03252022:CCS3_5 (length 126)
+./ccs3/LMOIWNZ_03252022:CCS3_6 (length 143)
+./ccs3/LMOIWNZ_03252022:CCS3_7 (length 229)
+./ccs3/LMOIWNZ_03252022:CCS3_8 (length 146)
+./ccs3/LMOIWNZ_03252022:CCS3_9 (length 74)
+./ccs3/LMOIWNZ_03252022:CCS3_10 (length 961)
+./ccs3/LMOIWNZ_03252022:CCS3_11 (length 1330)
+./ccs3/LMOIWNZ_03252022:CCS3_12 (length 1008)
+./ccs3/LMOIWNZ_03252022:CCS3_13 (length 95)
+./ccs3/LMOIWNZ_03252022:CCS3_14 (length 238)
+./ccs3/LMOIWNZ_03252022:CCS3_15 (length 72)
+./ccs3/LMOIWNZ_03252022:CCS3_16 (length 142)
+./ccs3/LMOIWNZ_03252022:CCS3_17 (length 67)
+./ccs3/LMOIWNZ_03252022:CCS3_18 (length 275)
+./ccs3/LMOIWNZ_03252022:CCS3_19 (length 144)
+./ccs3/LMOIWNZ_03252022:CCS3_20 (length 131)
+./ccs3/LMOIWNZ_03252022:CCS3_21 (length 66)
+./ccs3/LMOIWNZ_03252022:CCS3_22 (length 41)
+./ccs3/LMOIWNZ_03252022:CCS3_23 (length 54)
+./ccs3/LMOIWNZ_03252022:CCS3_24 (length 44)
+./ccs3/LMOIWNZ_03252022:CCS3_25 (length 83)
+./ccs3/LMOIWNZ_03252022:CCS3_26 (length 50)
+./ccs3/LMOIWNZ_03252022:CCS3_27 (length 62)
+./ccs3/LMOIWNZ_03252022:CCS3_28 (length 315)
+./ccs3/LMOIWNZ_03252022:CCS3_29 (length 112)
+./ccs3/LMOIWNZ_03252022:CCS3_30 (length 258)
+./ccs3/LMOIWNZ_03252022:CCS3_31 (length 177)
+./ccs3/LMOIWNZ_03252022:CCS3_32 (length 457)
+./ccs3/LMOIWNZ_03252022:CCS3_33 (length 74)
+./ccs3/LMOIWNZ_03252022:CCS3_34 (length 150)
+./ccs3/LMOIWNZ_03252022:CCS3_35 (length 342)
+./ccs3/LMOIWNZ_03252022:CCS3_36 (length 109)
+./ccs3/LMOIWNZ_03252022:CCS3_37 (length 144)
+./ccs3/LMOIWNZ_03252022:CCS3_38 (length 189)
+./ccs3/LMOIWNZ_03252022:CCS3_39 (length 210)
+./ccs3/LMOIWNZ_03252022:CCS3_40 (length 187)
+./ccs3/LMOIWNZ_03252022:CCS3_41 (length 64)
+./ccs3/LMOIWNZ_03252022:CCS3_42 (length 73)
+./ccs3/LMOIWNZ_03252022:CCS3_43 (length 69)
+./ccs3/LMOIWNZ_03252022:CCS3_44 (length 70)
+./ccs3/LMOIWNZ_03252022:CCS3_45 (length 127)
+./ccs3/LMOIWNZ_03252022:CCS3_46 (length 61)
+./ccs3/LMOIWNZ_03252022:CCS3_47 (length 843)
+./ccs3/LMOIWNZ_03252022:CCS3_48 (length 133)
+./ccs3/LMOIWNZ_03252022:CCS3_49 (length 147)
+./ccs3/LMOIWNZ_03252022:CCS3_50 (length 131)
+./ccs3/LMOIWNZ_03252022:CCS3_51 (length 198)
+./ccs3/LMOIWNZ_03252022:CCS3_52 (length 154)
+./ccs3/LMOIWNZ_03252022:CCS3_53 (length 68)
+./ccs3/LMOIWNZ_03252022:CCS3_54 (length 136)
+./ccs3/LMOIWNZ_03252022:CCS3_55 (length 62)
+./ccs3/LMOIWNZ_03252022:CCS3_56 (length 85)
+./ccs3/LMOIWNZ_03252022:CCS3_57 (length 67)
+./ccs3/LMOIWNZ_03252022:CCS3_58 (length 72)
+./ccs3/LMOIWNZ_03252022:CCS3_59 (length 62)
+./ccs3/LMOIWNZ_03252022:CCS3_60 (length 102)
+./ccs3/LMOIWNZ_03252022:CCS3_61 (length 88)
+./ccs3/LMOIWNZ_03252022:CCS3_62 (length 101)
+./ccs3/LMOIWNZ_03252022:CCS3_63 (length 104)
+./ccs3/LMOIWNZ_03252022:CCS3_64 (length 75)
+./ccs3/LMOIWNZ_03252022:CCS3_65 (length 79)
+./ccs3/LMOIWNZ_03252022:CCS3_66 (length 34)
+./ccs3/LMOIWNZ_03252022:CCS3_67 (length 128)
+./ccs3/LMOIWNZ_03252022:CCS3_68 (length 124)
+./ccs3/LMOIWNZ_03252022:CCS3_69 (length 76)
+./ccs3/LMOIWNZ_03252022:CCS3_70 (length 45)
+./ccs3/LMOIWNZ_03252022:CCS3_71 (length 92)
+./ccs3/LMOIWNZ_03252022:CCS3_72 (length 74)
+./ccs3/LMOIWNZ_03252022:CCS3_73 (length 144)
+./ccs3/LMOIWNZ_03252022:CCS3_74 (length 69)
+./ccs3/LMOIWNZ_03252022:CCS3_75 (length 100)
+./ccs3/LMOIWNZ_03252022:CCS3_76 (length 40)
+./ccs3/LMOIWNZ_03252022:CCS3_77 (length 103)
+./ccs3/LMOIWNZ_03252022:CCS3_78 (length 69)
+./ccs3/LMOIWNZ_03252022:CCS3_79 (length 76)
+./ccs3/LMOIWNZ_03252022:CCS3_80 (length 299)
+./ccs3/LMOIWNZ_03252022:CCS3_81 (length 252)
+./ccs3/LMOIWNZ_03252022:CCS3_82 (length 101)
+./ccs3/LMOIWNZ_03252022:CCS3_83 (length 129)
+./ccs3/LMOIWNZ_03252022:CCS3_84 (length 86)
+./ccs3/LMOIWNZ_03252022:CCS3_85 (length 49)
+./ccs3/LMOIWNZ_03252022:CCS3_86 (length 38)
+./ccs3/LMOIWNZ_03252022:CCS3_87 (length 75)
+./ccs3/LMOIWNZ_03252022:CCS3_88 (length 129)
+./ccs3/LMOIWNZ_03252022:CCS3_89 (length 91)
+./ccs3/LMOIWNZ_03252022:CCS3_90 (length 103)
+./ccs3/LMOIWNZ_03252022:CCS3_91 (length 198)
+./ccs3/LMOIWNZ_03252022:CCS3_92 (length 125)
+./ccs3/LMOIWNZ_03252022:CCS3_93 (length 82)
+./ccs3/LMOIWNZ_03252022:CCS3_94 (length 423)
+./ccs3/LMOIWNZ_03252022:CCS3_95 (length 511)
+./ccs3/LMOIWNZ_03252022:CCS3_96 (length 251)
+./ccs3/LMOIWNZ_03252022:CCS3_97 (length 222)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 97 present
+DiscRep_ALL:DISC_FEATURE_COUNT::tRNA: 1 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./ccs3/LMOIWNZ_03252022:CCS3 (length 57118)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::98 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	Putative major head protein	CCS3:2-469	LMOIWNZ_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:624-1061	LMOIWNZ_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:1122-1526	LMOIWNZ_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:1542-1919	LMOIWNZ_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:1904-2284	LMOIWNZ_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:2297-2728	LMOIWNZ_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:2754-3443	LMOIWNZ_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:3584-4024	LMOIWNZ_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:4035-4259	LMOIWNZ_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:4272-7157	LMOIWNZ_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:7171-11163	LMOIWNZ_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:11176-14202	LMOIWNZ_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:14216-14503	LMOIWNZ_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:14550-15266	LMOIWNZ_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c15533-15315	LMOIWNZ_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c16054-15626	LMOIWNZ_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c16259-16056	LMOIWNZ_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:16758-17585	LMOIWNZ_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:17638-18072	LMOIWNZ_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:18075-18470	LMOIWNZ_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:18460-18660	LMOIWNZ_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:18998-19123	LMOIWNZ_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:19959-20123	LMOIWNZ_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:20136-20270	LMOIWNZ_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:20288-20539	LMOIWNZ_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:20539-20691	LMOIWNZ_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:20705-20893	LMOIWNZ_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:20905-21852	LMOIWNZ_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:21927-22265	LMOIWNZ_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:22331-23107	LMOIWNZ_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	DNA endonuclease I-HmuI	CCS3:23119-23652	LMOIWNZ_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:23664-25037	LMOIWNZ_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:25050-25274	LMOIWNZ_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	DNA endonuclease I-HmuI	CCS3:25347-25799	LMOIWNZ_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:25784-26812	LMOIWNZ_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:26812-27141	LMOIWNZ_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:27278-27712	LMOIWNZ_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:27709-28278	LMOIWNZ_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:28271-28903	LMOIWNZ_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:29000-29563	LMOIWNZ_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:29693-29887	LMOIWNZ_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:29902-30123	LMOIWNZ_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:30123-30332	LMOIWNZ_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:30335-30547	LMOIWNZ_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:30548-30931	LMOIWNZ_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:30931-31116	LMOIWNZ_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	DNA-directed DNA polymerase	CCS3:31195-33726	LMOIWNZ_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:33801-34202	LMOIWNZ_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:34199-34642	LMOIWNZ_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:34632-35027	LMOIWNZ_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:35020-35616	LMOIWNZ_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:35672-36136	LMOIWNZ_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:36133-36339	LMOIWNZ_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:36353-36763	LMOIWNZ_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:36842-37030	LMOIWNZ_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:37030-37287	LMOIWNZ_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:37287-37490	LMOIWNZ_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:37491-37709	LMOIWNZ_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:37699-37887	LMOIWNZ_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:37890-38198	LMOIWNZ_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:38191-38457	LMOIWNZ_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:38459-38764	LMOIWNZ_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:38777-39091	LMOIWNZ_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:39873-40100	LMOIWNZ_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:40223-40462	LMOIWNZ_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:40455-40559	LMOIWNZ_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:40563-40949	LMOIWNZ_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:40942-41316	LMOIWNZ_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:41396-41626	LMOIWNZ_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:41704-41841	LMOIWNZ_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:41906-42184	LMOIWNZ_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:42318-42542	LMOIWNZ_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:42643-43077	LMOIWNZ_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:43064-43273	LMOIWNZ_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:43514-43816	LMOIWNZ_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c45225-45103	LMOIWNZ_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c45561-45250	LMOIWNZ_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c45842-45633	LMOIWNZ_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c46074-45844	LMOIWNZ_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c46966-46067	LMOIWNZ_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	DNA endonuclease I-HmuI	CCS3:c47742-46984	LMOIWNZ_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c48498-48193	LMOIWNZ_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c48884-48495	LMOIWNZ_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c49144-48884	LMOIWNZ_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c49306-49157	LMOIWNZ_00086
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c49426-49310	LMOIWNZ_00087
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c49690-49463	LMOIWNZ_00088
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c50081-49692	LMOIWNZ_00089
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c50356-50081	LMOIWNZ_00090
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:c50667-50356	LMOIWNZ_00091
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	Terminase small subunit	CCS3:50948-51544	LMOIWNZ_00092
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:51559-51936	LMOIWNZ_00093
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:51955-52203	LMOIWNZ_00094
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	Large terminase protein	CCS3:52266-53537	LMOIWNZ_00095
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	Portal protein	CCS3:53596-55131	LMOIWNZ_00096
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:55143-55898	LMOIWNZ_00097
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs3/LMOIWNZ_03252022:CDS	hypothetical protein	CCS3:56009-56677	LMOIWNZ_00098
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+./ccs3/LMOIWNZ_03252022:tRNA	Trp	CCS3:18897-18969	LMOIWNZ_00022
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./ccs3/LMOIWNZ_03252022:CCS3:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::7 protein sequences are shorter than 50 aa.
+./ccs3/LMOIWNZ_03252022:CCS3_22 (length 41)
+./ccs3/LMOIWNZ_03252022:CCS3_24 (length 44)
+./ccs3/LMOIWNZ_03252022:CCS3_66 (length 34)
+./ccs3/LMOIWNZ_03252022:CCS3_70 (length 45)
+./ccs3/LMOIWNZ_03252022:CCS3_76 (length 40)
+./ccs3/LMOIWNZ_03252022:CCS3_85 (length 49)
+./ccs3/LMOIWNZ_03252022:CCS3_86 (length 38)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./ccs3/LMOIWNZ_03252022:CCS3 (length 57118)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./ccs3/LMOIWNZ_03252022:CCS3 (length 57118)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./ccs3/LMOIWNZ_03252022:CCS3 (length 57118)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./ccs3/LMOIWNZ_03252022:CCS3 (length 57118)
+
+DiscRep_ALL:MISSING_PROJECT::98 sequences do not include project.
+./ccs3/LMOIWNZ_03252022:CCS3 (length 57118)
+./ccs3/LMOIWNZ_03252022:CCS3_1 (length 155)
+./ccs3/LMOIWNZ_03252022:CCS3_2 (length 145)
+./ccs3/LMOIWNZ_03252022:CCS3_3 (length 134)
+./ccs3/LMOIWNZ_03252022:CCS3_4 (length 125)
+./ccs3/LMOIWNZ_03252022:CCS3_5 (length 126)
+./ccs3/LMOIWNZ_03252022:CCS3_6 (length 143)
+./ccs3/LMOIWNZ_03252022:CCS3_7 (length 229)
+./ccs3/LMOIWNZ_03252022:CCS3_8 (length 146)
+./ccs3/LMOIWNZ_03252022:CCS3_9 (length 74)
+./ccs3/LMOIWNZ_03252022:CCS3_10 (length 961)
+./ccs3/LMOIWNZ_03252022:CCS3_11 (length 1330)
+./ccs3/LMOIWNZ_03252022:CCS3_12 (length 1008)
+./ccs3/LMOIWNZ_03252022:CCS3_13 (length 95)
+./ccs3/LMOIWNZ_03252022:CCS3_14 (length 238)
+./ccs3/LMOIWNZ_03252022:CCS3_15 (length 72)
+./ccs3/LMOIWNZ_03252022:CCS3_16 (length 142)
+./ccs3/LMOIWNZ_03252022:CCS3_17 (length 67)
+./ccs3/LMOIWNZ_03252022:CCS3_18 (length 275)
+./ccs3/LMOIWNZ_03252022:CCS3_19 (length 144)
+./ccs3/LMOIWNZ_03252022:CCS3_20 (length 131)
+./ccs3/LMOIWNZ_03252022:CCS3_21 (length 66)
+./ccs3/LMOIWNZ_03252022:CCS3_22 (length 41)
+./ccs3/LMOIWNZ_03252022:CCS3_23 (length 54)
+./ccs3/LMOIWNZ_03252022:CCS3_24 (length 44)
+./ccs3/LMOIWNZ_03252022:CCS3_25 (length 83)
+./ccs3/LMOIWNZ_03252022:CCS3_26 (length 50)
+./ccs3/LMOIWNZ_03252022:CCS3_27 (length 62)
+./ccs3/LMOIWNZ_03252022:CCS3_28 (length 315)
+./ccs3/LMOIWNZ_03252022:CCS3_29 (length 112)
+./ccs3/LMOIWNZ_03252022:CCS3_30 (length 258)
+./ccs3/LMOIWNZ_03252022:CCS3_31 (length 177)
+./ccs3/LMOIWNZ_03252022:CCS3_32 (length 457)
+./ccs3/LMOIWNZ_03252022:CCS3_33 (length 74)
+./ccs3/LMOIWNZ_03252022:CCS3_34 (length 150)
+./ccs3/LMOIWNZ_03252022:CCS3_35 (length 342)
+./ccs3/LMOIWNZ_03252022:CCS3_36 (length 109)
+./ccs3/LMOIWNZ_03252022:CCS3_37 (length 144)
+./ccs3/LMOIWNZ_03252022:CCS3_38 (length 189)
+./ccs3/LMOIWNZ_03252022:CCS3_39 (length 210)
+./ccs3/LMOIWNZ_03252022:CCS3_40 (length 187)
+./ccs3/LMOIWNZ_03252022:CCS3_41 (length 64)
+./ccs3/LMOIWNZ_03252022:CCS3_42 (length 73)
+./ccs3/LMOIWNZ_03252022:CCS3_43 (length 69)
+./ccs3/LMOIWNZ_03252022:CCS3_44 (length 70)
+./ccs3/LMOIWNZ_03252022:CCS3_45 (length 127)
+./ccs3/LMOIWNZ_03252022:CCS3_46 (length 61)
+./ccs3/LMOIWNZ_03252022:CCS3_47 (length 843)
+./ccs3/LMOIWNZ_03252022:CCS3_48 (length 133)
+./ccs3/LMOIWNZ_03252022:CCS3_49 (length 147)
+./ccs3/LMOIWNZ_03252022:CCS3_50 (length 131)
+./ccs3/LMOIWNZ_03252022:CCS3_51 (length 198)
+./ccs3/LMOIWNZ_03252022:CCS3_52 (length 154)
+./ccs3/LMOIWNZ_03252022:CCS3_53 (length 68)
+./ccs3/LMOIWNZ_03252022:CCS3_54 (length 136)
+./ccs3/LMOIWNZ_03252022:CCS3_55 (length 62)
+./ccs3/LMOIWNZ_03252022:CCS3_56 (length 85)
+./ccs3/LMOIWNZ_03252022:CCS3_57 (length 67)
+./ccs3/LMOIWNZ_03252022:CCS3_58 (length 72)
+./ccs3/LMOIWNZ_03252022:CCS3_59 (length 62)
+./ccs3/LMOIWNZ_03252022:CCS3_60 (length 102)
+./ccs3/LMOIWNZ_03252022:CCS3_61 (length 88)
+./ccs3/LMOIWNZ_03252022:CCS3_62 (length 101)
+./ccs3/LMOIWNZ_03252022:CCS3_63 (length 104)
+./ccs3/LMOIWNZ_03252022:CCS3_64 (length 75)
+./ccs3/LMOIWNZ_03252022:CCS3_65 (length 79)
+./ccs3/LMOIWNZ_03252022:CCS3_66 (length 34)
+./ccs3/LMOIWNZ_03252022:CCS3_67 (length 128)
+./ccs3/LMOIWNZ_03252022:CCS3_68 (length 124)
+./ccs3/LMOIWNZ_03252022:CCS3_69 (length 76)
+./ccs3/LMOIWNZ_03252022:CCS3_70 (length 45)
+./ccs3/LMOIWNZ_03252022:CCS3_71 (length 92)
+./ccs3/LMOIWNZ_03252022:CCS3_72 (length 74)
+./ccs3/LMOIWNZ_03252022:CCS3_73 (length 144)
+./ccs3/LMOIWNZ_03252022:CCS3_74 (length 69)
+./ccs3/LMOIWNZ_03252022:CCS3_75 (length 100)
+./ccs3/LMOIWNZ_03252022:CCS3_76 (length 40)
+./ccs3/LMOIWNZ_03252022:CCS3_77 (length 103)
+./ccs3/LMOIWNZ_03252022:CCS3_78 (length 69)
+./ccs3/LMOIWNZ_03252022:CCS3_79 (length 76)
+./ccs3/LMOIWNZ_03252022:CCS3_80 (length 299)
+./ccs3/LMOIWNZ_03252022:CCS3_81 (length 252)
+./ccs3/LMOIWNZ_03252022:CCS3_82 (length 101)
+./ccs3/LMOIWNZ_03252022:CCS3_83 (length 129)
+./ccs3/LMOIWNZ_03252022:CCS3_84 (length 86)
+./ccs3/LMOIWNZ_03252022:CCS3_85 (length 49)
+./ccs3/LMOIWNZ_03252022:CCS3_86 (length 38)
+./ccs3/LMOIWNZ_03252022:CCS3_87 (length 75)
+./ccs3/LMOIWNZ_03252022:CCS3_88 (length 129)
+./ccs3/LMOIWNZ_03252022:CCS3_89 (length 91)
+./ccs3/LMOIWNZ_03252022:CCS3_90 (length 103)
+./ccs3/LMOIWNZ_03252022:CCS3_91 (length 198)
+./ccs3/LMOIWNZ_03252022:CCS3_92 (length 125)
+./ccs3/LMOIWNZ_03252022:CCS3_93 (length 82)
+./ccs3/LMOIWNZ_03252022:CCS3_94 (length 423)
+./ccs3/LMOIWNZ_03252022:CCS3_95 (length 511)
+./ccs3/LMOIWNZ_03252022:CCS3_96 (length 251)
+./ccs3/LMOIWNZ_03252022:CCS3_97 (length 222)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./ccs3/LMOIWNZ_03252022:CCS3 (length 57118)
+

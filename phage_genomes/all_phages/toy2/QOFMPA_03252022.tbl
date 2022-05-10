@@ -1,0 +1,401 @@
+>Feature TOY
+185	859	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00001
+			product	hypothetical protein
+933	1286	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00002
+			product	hypothetical protein
+1336	2112	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00003
+			product	hypothetical protein
+2124	3488	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00004
+			product	hypothetical protein
+3500	3724	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00005
+			product	hypothetical protein
+3736	3996	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00006
+			product	hypothetical protein
+4069	4521	CDS
+			EC_number	3.1.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P34081
+			locus_tag	QOFMPA_00007
+			product	DNA endonuclease I-HmuI
+4506	5534	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00008
+			product	hypothetical protein
+5534	5872	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00009
+			product	hypothetical protein
+5874	6443	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00010
+			product	hypothetical protein
+6440	7009	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00011
+			product	hypothetical protein
+7002	7634	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00012
+			product	hypothetical protein
+7732	8295	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00013
+			product	hypothetical protein
+8430	8609	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00014
+			product	hypothetical protein
+8610	8831	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00015
+			product	hypothetical protein
+8831	9040	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00016
+			product	hypothetical protein
+9043	9255	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00017
+			product	hypothetical protein
+9256	9624	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00018
+			product	hypothetical protein
+9628	9813	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00019
+			product	hypothetical protein
+9892	12423	CDS
+			EC_number	2.7.7.7
+			gene	5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00581
+			locus_tag	QOFMPA_00020
+			product	DNA-directed DNA polymerase
+12499	12903	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00021
+			product	hypothetical protein
+12893	13288	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00022
+			product	hypothetical protein
+13290	13886	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00023
+			product	hypothetical protein
+13941	14573	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00024
+			product	hypothetical protein
+14585	14791	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00025
+			product	hypothetical protein
+14805	15218	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00026
+			product	hypothetical protein
+15298	15483	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00027
+			product	hypothetical protein
+15546	15734	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00028
+			product	hypothetical protein
+15734	15991	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00029
+			product	hypothetical protein
+15991	16203	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00030
+			product	hypothetical protein
+16216	16434	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00031
+			product	hypothetical protein
+16424	16615	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00032
+			product	hypothetical protein
+16678	16926	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00033
+			product	hypothetical protein
+16919	17185	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00034
+			product	hypothetical protein
+17187	17492	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00035
+			product	hypothetical protein
+17636	18007	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00036
+			product	hypothetical protein
+18924	19247	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00037
+			product	hypothetical protein
+19240	19344	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00038
+			product	hypothetical protein
+19349	19735	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00039
+			product	hypothetical protein
+19728	20099	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00040
+			product	hypothetical protein
+20179	20313	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00041
+			product	hypothetical protein
+20382	20660	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00042
+			product	hypothetical protein
+20794	21018	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00043
+			product	hypothetical protein
+21119	21553	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00044
+			product	hypothetical protein
+21540	21749	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00045
+			product	hypothetical protein
+22007	22309	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00046
+			product	hypothetical protein
+24053	23742	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00047
+			product	hypothetical protein
+24334	24125	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00048
+			product	hypothetical protein
+24566	24336	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00049
+			product	hypothetical protein
+25437	24559	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00050
+			product	hypothetical protein
+26213	25455	CDS
+			EC_number	3.1.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P34081
+			locus_tag	QOFMPA_00051
+			product	DNA endonuclease I-HmuI
+26969	26664	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00052
+			product	hypothetical protein
+27337	26966	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00053
+			product	hypothetical protein
+27659	27357	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00054
+			product	hypothetical protein
+27858	27673	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00055
+			product	hypothetical protein
+28120	27860	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00056
+			product	hypothetical protein
+28541	28146	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00057
+			product	hypothetical protein
+28929	28543	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00058
+			product	hypothetical protein
+29204	28929	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00059
+			product	hypothetical protein
+29515	29204	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00060
+			product	hypothetical protein
+29796	30392	CDS
+			gene	1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P68928
+			locus_tag	QOFMPA_00061
+			product	Terminase small subunit
+30407	30784	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00062
+			product	hypothetical protein
+30803	31051	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00063
+			product	hypothetical protein
+31114	32385	CDS
+			gene	2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54308
+			locus_tag	QOFMPA_00064
+			product	Large terminase protein
+32444	33979	CDS
+			gene	6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54309
+			locus_tag	QOFMPA_00065
+			product	Portal protein
+33991	34746	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00066
+			product	hypothetical protein
+34857	35525	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00067
+			product	hypothetical protein
+35574	36380	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A9CRA7
+			locus_tag	QOFMPA_00068
+			product	Putative major head protein
+36535	36972	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00069
+			product	hypothetical protein
+37033	37437	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00070
+			product	hypothetical protein
+37453	37830	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00071
+			product	hypothetical protein
+37815	38195	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00072
+			product	hypothetical protein
+38208	38639	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00073
+			product	hypothetical protein
+38665	39354	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00074
+			product	hypothetical protein
+39496	39936	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00075
+			product	hypothetical protein
+39947	40171	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00076
+			product	hypothetical protein
+40184	43069	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00077
+			product	hypothetical protein
+43083	47075	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00078
+			product	hypothetical protein
+47088	49538	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00079
+			product	hypothetical protein
+49552	49839	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00080
+			product	hypothetical protein
+49887	50600	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00081
+			product	hypothetical protein
+50825	50649	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00082
+			product	hypothetical protein
+51409	50981	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00083
+			product	hypothetical protein
+51947	51411	CDS
+			EC_number	3.1.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P34081
+			locus_tag	QOFMPA_00084
+			product	DNA endonuclease I-HmuI
+52451	53278	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00085
+			product	hypothetical protein
+53330	53770	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00086
+			product	hypothetical protein
+53773	54168	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00087
+			product	hypothetical protein
+54110	54358	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00088
+			product	hypothetical protein
+54595	54667	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	QOFMPA_00089
+			product	tRNA-Trp(cca)
+54669	54757	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	QOFMPA_00090
+			product	tRNA-Ser(tga)
+55739	55987	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00091
+			product	hypothetical protein
+56005	56256	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00092
+			product	hypothetical protein
+56256	56471	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00093
+			product	hypothetical protein
+56472	56693	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00094
+			product	hypothetical protein
+56706	56894	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00095
+			product	hypothetical protein
+56907	57125	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	QOFMPA_00096
+			product	hypothetical protein

@@ -1,0 +1,1047 @@
+>Feature vB_OCPT_CCS1
+32	304	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00001
+423	701	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00002
+789	1202	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00003
+1177	1419	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00004
+2026	2292	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00005
+2358	2600	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00006
+2618	2926	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00007
+3229	3372	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00008
+3777	3565	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00009
+4105	3833	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00010
+4533	4123	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00011
+4770	4534	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00012
+4994	4767	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00013
+5222	4995	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00014
+6042	5524	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00015
+6252	6055	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00016
+6416	6252	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00017
+6828	6406	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00018
+6964	6821	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00019
+8223	6979	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00020
+8404	8216	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00021
+9233	8493	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00022
+9817	9233	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00023
+9914	9804	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00024
+10768	9914	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00025
+11031	10765	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00026
+11564	11082	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00027
+12007	11645	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00028
+12453	12007	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00029
+12625	12395	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00030
+12933	12637	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00031
+13379	12933	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00032
+13964	13566	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00033
+14220	13957	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00034
+15591	14296	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00035
+16266	15946	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00036
+17080	16340	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00037
+17337	17080	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00038
+17942	17334	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00039
+18514	17939	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00040
+19045	18515	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00041
+19426	19076	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00042
+19914	19423	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00043
+20249	19989	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00044
+20516	20250	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00045
+21363	20800	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00046
+21457	21365	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00047
+21735	21532	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00048
+22592	21735	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00049
+23305	22691	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00050
+23591	23298	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00051
+24472	23591	CDS
+			codon_start	1
+			product	Thymidylate synthase
+			EC_number	2.1.1.45
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q4JQW2
+			locus_tag	JEFDOCMN_00052
+25117	24488	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00053
+25868	25119	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00054
+26409	25942	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00055
+27161	26424	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00056
+27525	27163	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00057
+28652	27525	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00058
+29100	28738	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00059
+29434	29195	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00060
+30191	29427	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00061
+31024	30209	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00062
+32092	31094	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00063
+34069	32150	CDS
+			codon_start	1
+			product	Anaerobic ribonucleoside-triphosphate reductase
+			EC_number	1.17.4.2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07071
+			gene	NRDD
+			locus_tag	JEFDOCMN_00064
+34681	34472	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00065
+35420	34761	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00066
+35912	35607	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00067
+36243	36013	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00068
+37822	36287	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00069
+38783	38559	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00070
+39163	39091	tRNA
+			note	tRNA-Gly(tcc)
+			product	tRNA-Gly
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00071
+39355	39283	tRNA
+			note	tRNA-Pro(tgg)
+			product	tRNA-Pro
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00072
+39872	39800	tRNA
+			note	tRNA-Ala(tgc)
+			product	tRNA-Ala
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00073
+39951	39877	tRNA
+			note	tRNA-Arg(tct)
+			product	tRNA-Arg
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00074
+40119	39955	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00075
+40517	40149	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00076
+40631	40543	tRNA
+			note	tRNA-Ser(tga)
+			product	tRNA-Ser
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00077
+40996	40742	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00078
+41107	41021	tRNA
+			note	tRNA-Ser(gga)
+			product	tRNA-Ser
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00079
+41385	41203	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00080
+41899	41552	tmrna
+			product	transfer-messenger RNA, SsrA
+			inference	COORDINATES: profile:Aragorn:1.2
+			gene	ssrA
+			locus_tag	JEFDOCMN_00081
+42207	42132	tRNA
+			note	tRNA-Leu(tag)
+			product	tRNA-Leu
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00082
+42375	42290	tRNA
+			note	tRNA-Leu(taa)
+			product	tRNA-Leu
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00083
+42623	42553	tRNA
+			note	tRNA-His(gtg)
+			product	tRNA-His
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00084
+42821	42696	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00085
+43177	42926	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00086
+43405	43332	tRNA
+			note	tRNA-Ile(gat)
+			product	tRNA-Ile
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00087
+43630	43559	tRNA
+			note	tRNA-Val(tac)
+			product	tRNA-Val
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00088
+43934	43862	tRNA
+			note	tRNA-Arg(acg)
+			product	tRNA-Arg
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00089
+44111	44035	tRNA
+			note	tRNA-Lys(ttt)
+			product	tRNA-Lys
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00090
+44319	44244	tRNA
+			note	tRNA-Lys(ctt)
+			product	tRNA-Lys
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00091
+44582	44511	tRNA
+			note	tRNA-Thr(tgt)
+			product	tRNA-Thr
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00092
+45699	44608	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00093
+45812	45739	tRNA
+			note	tRNA-Phe(gaa)
+			product	tRNA-Phe
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00094
+46005	45934	tRNA
+			note	tRNA-Cys(gca)
+			product	tRNA-Cys
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00095
+46090	46017	tRNA
+			note	tRNA-Trp(cca)
+			product	tRNA-Trp
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00096
+46373	46301	tRNA
+			note	tRNA-Met(cat)
+			product	tRNA-Met
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00097
+46653	46580	tRNA
+			note	tRNA-Glu(ttc)
+			product	tRNA-Glu
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00098
+46733	46657	tRNA
+			note	tRNA-Asp(gtc)
+			product	tRNA-Asp
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00099
+48076	47986	tRNA
+			note	tRNA-Ser(gct)
+			product	tRNA-Ser
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00100
+48257	48184	tRNA
+			note	tRNA-Gln(ttg)
+			product	tRNA-Gln
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00101
+48419	48347	tRNA
+			note	tRNA-Asn(gtt)
+			product	tRNA-Asn
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	JEFDOCMN_00102
+49116	48853	CDS
+			codon_start	1
+			product	Virion protein 6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85230
+			locus_tag	JEFDOCMN_00103
+49593	49246	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00104
+49890	49633	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00105
+50069	50278	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00106
+50581	51009	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00107
+51009	52844	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00108
+53088	53933	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00109
+53930	54757	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00110
+54758	55114	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00111
+55217	56485	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00112
+57372	58316	CDS
+			codon_start	1
+			product	Lysin
+			EC_number	3.5.1.28
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O03979
+			gene	PAL
+			locus_tag	JEFDOCMN_00113
+58935	60494	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00114
+60594	61382	CDS
+			codon_start	1
+			product	Putative major capsid protein
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85226
+			locus_tag	JEFDOCMN_00115
+61925	62398	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00116
+62521	63942	CDS
+			codon_start	1
+			product	Putative major capsid protein
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85226
+			locus_tag	JEFDOCMN_00117
+64040	64291	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00118
+64303	65199	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00119
+65213	66085	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00120
+66078	66701	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00121
+66705	67550	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00122
+67550	67789	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00123
+67793	69502	CDS
+			codon_start	1
+			product	Putative tail sheath protein
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85225
+			locus_tag	JEFDOCMN_00124
+69568	69990	CDS
+			codon_start	1
+			product	Virion protein 5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85229
+			locus_tag	JEFDOCMN_00125
+70248	70721	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00126
+70777	71370	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00127
+71420	75064	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00128
+75114	77633	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00129
+77679	85643	CDS
+			codon_start	1
+			product	Tail fiber protein
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A8E283
+			locus_tag	JEFDOCMN_00130
+85733	88147	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00131
+88627	88890	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00132
+88929	89057	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00133
+89230	89913	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00134
+89913	90449	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00135
+90436	91140	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00136
+91206	92207	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00137
+92627	95794	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00138
+95809	98343	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00139
+98359	98868	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00140
+99030	99509	CDS
+			codon_start	1
+			product	Virion protein 3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85227
+			locus_tag	JEFDOCMN_00141
+99604	102984	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00142
+103065	104027	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00143
+104105	104311	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00144
+104505	106280	CDS
+			codon_start	1
+			product	ATP-dependent DNA helicase uvsW
+			EC_number	3.6.4.12
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20703
+			gene	uvsW
+			locus_tag	JEFDOCMN_00145
+106296	107939	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00146
+107953	109425	CDS
+			codon_start	1
+			product	ATP-dependent helicase 41
+			EC_number	3.6.4.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04530
+			locus_tag	JEFDOCMN_00147
+109425	110465	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00148
+110584	112476	CDS
+			codon_start	1
+			product	Exonuclease subunit 2
+			EC_number	3.1.11.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04522
+			locus_tag	JEFDOCMN_00149
+112490	113149	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00150
+113153	114208	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00151
+114218	114880	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00152
+114923	115099	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00153
+115099	115335	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00154
+115339	115650	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00155
+115637	115948	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00156
+115941	116309	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00157
+116311	116958	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00158
+116951	117628	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00159
+117628	117993	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00160
+117944	118153	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00161
+118150	118572	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00162
+118678	119472	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00163
+119465	119776	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00164
+119948	120700	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00165
+120871	121347	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00166
+121450	123615	CDS
+			codon_start	1
+			product	DNA polymerase
+			EC_number	2.7.7.7
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P19822
+			locus_tag	JEFDOCMN_00167
+123921	124268	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00168
+124518	125657	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00169
+125858	126985	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00170
+127073	127402	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00171
+128080	128358	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00172
+128408	129604	CDS
+			codon_start	1
+			product	Virion protein 4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85228
+			locus_tag	JEFDOCMN_00173
+129631	130071	CDS
+			codon_start	1
+			product	Virion protein 4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85228
+			locus_tag	JEFDOCMN_00174
+130182	130586	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00175
+130804	130917	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00176
+130910	131179	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00177
+131154	132092	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00178
+132180	133433	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00179
+133446	133814	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00180
+133859	134503	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00181
+134500	135240	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00182
+135233	135736	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00183
+135747	136613	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00184
+136725	137273	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00185
+137286	138134	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00186
+138134	139861	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00187
+140136	140831	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00188
+140844	141308	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00189
+141397	142101	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00190
+142115	142795	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00191
+142809	142943	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00192
+143012	143311	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00193
+143380	145782	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00194
+146321	146881	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00195
+147124	147360	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00196
+147422	147670	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00197
+147703	147813	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00198
+147912	148238	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00199
+148252	148740	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00200
+148887	149336	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00201
+149787	150062	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00202
+150185	150313	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00203
+150374	150562	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	JEFDOCMN_00204

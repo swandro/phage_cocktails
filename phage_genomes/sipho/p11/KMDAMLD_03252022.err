@@ -1,0 +1,534 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:93 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 93 present
+DISC_FEATURE_COUNT:tRNA: 1 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:94 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:4 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:94 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::93 proteins have invalid IDs.
+./p11/KMDAMLD_03252022:vB_OCPT_P11_1 (length 100)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_2 (length 48)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_3 (length 60)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_4 (length 69)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_5 (length 141)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_6 (length 75)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_7 (length 44)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_8 (length 123)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_9 (length 128)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_10 (length 34)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_11 (length 107)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_12 (length 101)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_13 (length 320)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_14 (length 88)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_15 (length 82)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_16 (length 63)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_17 (length 72)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_18 (length 70)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_19 (length 85)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_20 (length 136)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_21 (length 68)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_22 (length 210)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_23 (length 198)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_24 (length 71)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_25 (length 135)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_26 (length 133)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_27 (length 63)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_28 (length 226)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_29 (length 156)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_30 (length 532)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_31 (length 61)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_32 (length 124)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_33 (length 70)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_34 (length 69)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_35 (length 75)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_36 (length 59)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_37 (length 187)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_38 (length 210)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_39 (length 189)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_40 (length 192)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_41 (length 109)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_42 (length 342)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_43 (length 146)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_44 (length 86)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_45 (length 74)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_46 (length 454)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_47 (length 258)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_48 (length 117)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_49 (length 315)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_50 (length 70)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_51 (length 62)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_52 (length 106)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_53 (length 83)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_54 (length 132)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_55 (length 113)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_56 (length 66)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_57 (length 131)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_58 (length 144)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_59 (length 275)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_60 (length 67)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_61 (length 142)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_62 (length 91)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_63 (length 239)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_64 (length 95)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_65 (length 1008)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_66 (length 1330)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_67 (length 961)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_68 (length 74)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_69 (length 146)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_70 (length 229)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_71 (length 143)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_72 (length 126)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_73 (length 125)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_74 (length 134)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_75 (length 145)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_76 (length 268)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_77 (length 222)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_78 (length 251)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_79 (length 511)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_80 (length 423)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_81 (length 82)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_82 (length 125)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_83 (length 198)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_84 (length 103)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_85 (length 91)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_86 (length 128)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_87 (length 44)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_88 (length 123)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_89 (length 101)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_90 (length 252)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_91 (length 292)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_92 (length 76)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_93 (length 69)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 93 present
+DiscRep_ALL:DISC_FEATURE_COUNT::tRNA: 1 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./p11/KMDAMLD_03252022:vB_OCPT_P11 (length 57092)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::94 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c1228-926	KMDAMLD_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c1463-1317	KMDAMLD_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c1729-1547	KMDAMLD_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c1996-1787	KMDAMLD_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c2408-1983	KMDAMLD_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c2771-2544	KMDAMLD_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c2974-2840	KMDAMLD_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c3423-3052	KMDAMLD_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c3802-3416	KMDAMLD_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c3910-3806	KMDAMLD_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c4226-3903	KMDAMLD_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c5303-4998	KMDAMLD_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	RNA ligase 2	vB_OCPT_P11:c6312-5350	KMDAMLD_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c6580-6314	KMDAMLD_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c6821-6573	KMDAMLD_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c7075-6884	KMDAMLD_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c7283-7065	KMDAMLD_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c7508-7296	KMDAMLD_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c7765-7508	KMDAMLD_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c8325-7915	KMDAMLD_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c8545-8339	KMDAMLD_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c9189-8557	KMDAMLD_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c9841-9245	KMDAMLD_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c10049-9834	KMDAMLD_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c10446-10039	KMDAMLD_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c10844-10443	KMDAMLD_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c11049-10858	KMDAMLD_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c11805-11125	KMDAMLD_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	DNA endonuclease I-HmuI	vB_OCPT_P11:c12525-12055	KMDAMLD_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c14230-12632	KMDAMLD_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c14496-14311	KMDAMLD_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c14874-14500	KMDAMLD_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c15087-14875	KMDAMLD_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c15299-15090	KMDAMLD_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c15519-15292	KMDAMLD_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c15699-15520	KMDAMLD_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c16397-15834	KMDAMLD_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c17127-16495	KMDAMLD_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c17689-17120	KMDAMLD_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c18264-17686	KMDAMLD_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c18586-18257	KMDAMLD_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c19614-18586	KMDAMLD_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	DNA endonuclease I-HmuI	vB_OCPT_P11:c20047-19607	KMDAMLD_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c20380-20120	KMDAMLD_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c20616-20392	KMDAMLD_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c21992-20628	KMDAMLD_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c22780-22004	KMDAMLD_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c23182-22829	KMDAMLD_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c24203-23256	KMDAMLD_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c24445-24233	KMDAMLD_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c24645-24457	KMDAMLD_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c24965-24645	KMDAMLD_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c25216-24965	KMDAMLD_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c25614-25216	KMDAMLD_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c25955-25614	KMDAMLD_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c27276-27076	KMDAMLD_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c27661-27266	KMDAMLD_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c28098-27664	KMDAMLD_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c28978-28151	KMDAMLD_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:29489-29692	KMDAMLD_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:29694-30122	KMDAMLD_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:30281-30556	KMDAMLD_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c31324-30605	KMDAMLD_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c31659-31372	KMDAMLD_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c34699-31673	KMDAMLD_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c38704-34712	KMDAMLD_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c41603-38718	KMDAMLD_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c41840-41616	KMDAMLD_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c42291-41851	KMDAMLD_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c43121-42432	KMDAMLD_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c43578-43147	KMDAMLD_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c43971-43591	KMDAMLD_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c44333-43956	KMDAMLD_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c44753-44349	KMDAMLD_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c45251-44814	KMDAMLD_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	Putative major head protein	vB_OCPT_P11:c46212-45406	KMDAMLD_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c46929-46261	KMDAMLD_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c47795-47040	KMDAMLD_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	Portal protein	vB_OCPT_P11:c49342-47807	KMDAMLD_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	Large terminase protein	vB_OCPT_P11:c50672-49401	KMDAMLD_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c50983-50735	KMDAMLD_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:c51379-51002	KMDAMLD_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	Terminase small subunit	vB_OCPT_P11:c51990-51394	KMDAMLD_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:52271-52582	KMDAMLD_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:52582-52857	KMDAMLD_00086
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:52857-53243	KMDAMLD_00087
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:53245-53379	KMDAMLD_00088
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:53414-53785	KMDAMLD_00089
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:53782-54087	KMDAMLD_00090
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	DNA endonuclease I-HmuI	vB_OCPT_P11:54538-55296	KMDAMLD_00091
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:55314-56192	KMDAMLD_00092
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:56185-56415	KMDAMLD_00093
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p11/KMDAMLD_03252022:CDS	hypothetical protein	vB_OCPT_P11:56417-56626	KMDAMLD_00094
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+./p11/KMDAMLD_03252022:tRNA	Trp	vB_OCPT_P11:c26992-26919	KMDAMLD_00056
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./p11/KMDAMLD_03252022:vB_OCPT_P11:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::4 protein sequences are shorter than 50 aa.
+./p11/KMDAMLD_03252022:vB_OCPT_P11_2 (length 48)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_7 (length 44)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_10 (length 34)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_87 (length 44)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./p11/KMDAMLD_03252022:vB_OCPT_P11 (length 57092)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./p11/KMDAMLD_03252022:vB_OCPT_P11 (length 57092)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./p11/KMDAMLD_03252022:vB_OCPT_P11 (length 57092)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./p11/KMDAMLD_03252022:vB_OCPT_P11 (length 57092)
+
+DiscRep_ALL:MISSING_PROJECT::94 sequences do not include project.
+./p11/KMDAMLD_03252022:vB_OCPT_P11 (length 57092)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_1 (length 100)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_2 (length 48)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_3 (length 60)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_4 (length 69)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_5 (length 141)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_6 (length 75)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_7 (length 44)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_8 (length 123)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_9 (length 128)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_10 (length 34)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_11 (length 107)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_12 (length 101)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_13 (length 320)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_14 (length 88)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_15 (length 82)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_16 (length 63)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_17 (length 72)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_18 (length 70)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_19 (length 85)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_20 (length 136)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_21 (length 68)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_22 (length 210)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_23 (length 198)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_24 (length 71)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_25 (length 135)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_26 (length 133)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_27 (length 63)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_28 (length 226)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_29 (length 156)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_30 (length 532)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_31 (length 61)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_32 (length 124)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_33 (length 70)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_34 (length 69)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_35 (length 75)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_36 (length 59)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_37 (length 187)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_38 (length 210)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_39 (length 189)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_40 (length 192)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_41 (length 109)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_42 (length 342)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_43 (length 146)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_44 (length 86)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_45 (length 74)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_46 (length 454)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_47 (length 258)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_48 (length 117)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_49 (length 315)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_50 (length 70)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_51 (length 62)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_52 (length 106)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_53 (length 83)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_54 (length 132)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_55 (length 113)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_56 (length 66)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_57 (length 131)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_58 (length 144)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_59 (length 275)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_60 (length 67)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_61 (length 142)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_62 (length 91)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_63 (length 239)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_64 (length 95)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_65 (length 1008)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_66 (length 1330)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_67 (length 961)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_68 (length 74)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_69 (length 146)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_70 (length 229)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_71 (length 143)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_72 (length 126)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_73 (length 125)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_74 (length 134)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_75 (length 145)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_76 (length 268)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_77 (length 222)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_78 (length 251)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_79 (length 511)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_80 (length 423)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_81 (length 82)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_82 (length 125)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_83 (length 198)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_84 (length 103)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_85 (length 91)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_86 (length 128)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_87 (length 44)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_88 (length 123)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_89 (length 101)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_90 (length 252)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_91 (length 292)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_92 (length 76)
+./p11/KMDAMLD_03252022:vB_OCPT_P11_93 (length 69)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./p11/KMDAMLD_03252022:vB_OCPT_P11 (length 57092)
+

@@ -1,0 +1,392 @@
+>Feature vB_OCPT_P11
+1228	926	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00001
+			product	hypothetical protein
+1463	1317	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00002
+			product	hypothetical protein
+1729	1547	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00003
+			product	hypothetical protein
+1996	1787	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00004
+			product	hypothetical protein
+2408	1983	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00005
+			product	hypothetical protein
+2771	2544	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00006
+			product	hypothetical protein
+2974	2840	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00007
+			product	hypothetical protein
+3423	3052	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00008
+			product	hypothetical protein
+3802	3416	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00009
+			product	hypothetical protein
+3910	3806	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00010
+			product	hypothetical protein
+4226	3903	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00011
+			product	hypothetical protein
+5303	4998	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00012
+			product	hypothetical protein
+6312	5350	CDS
+			EC_number	6.5.1.3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P32277
+			locus_tag	KMDAMLD_00013
+			product	RNA ligase 2
+6580	6314	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00014
+			product	hypothetical protein
+6821	6573	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00015
+			product	hypothetical protein
+7075	6884	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00016
+			product	hypothetical protein
+7283	7065	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00017
+			product	hypothetical protein
+7508	7296	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00018
+			product	hypothetical protein
+7765	7508	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00019
+			product	hypothetical protein
+8325	7915	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00020
+			product	hypothetical protein
+8545	8339	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00021
+			product	hypothetical protein
+9189	8557	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00022
+			product	hypothetical protein
+9841	9245	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00023
+			product	hypothetical protein
+10049	9834	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00024
+			product	hypothetical protein
+10446	10039	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00025
+			product	hypothetical protein
+10844	10443	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00026
+			product	hypothetical protein
+11049	10858	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00027
+			product	hypothetical protein
+11805	11125	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00028
+			product	hypothetical protein
+12525	12055	CDS
+			EC_number	3.1.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P34081
+			locus_tag	KMDAMLD_00029
+			product	DNA endonuclease I-HmuI
+14230	12632	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00030
+			product	hypothetical protein
+14496	14311	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00031
+			product	hypothetical protein
+14874	14500	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00032
+			product	hypothetical protein
+15087	14875	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00033
+			product	hypothetical protein
+15299	15090	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00034
+			product	hypothetical protein
+15519	15292	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00035
+			product	hypothetical protein
+15699	15520	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00036
+			product	hypothetical protein
+16397	15834	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00037
+			product	hypothetical protein
+17127	16495	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00038
+			product	hypothetical protein
+17689	17120	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00039
+			product	hypothetical protein
+18264	17686	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00040
+			product	hypothetical protein
+18586	18257	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00041
+			product	hypothetical protein
+19614	18586	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00042
+			product	hypothetical protein
+20047	19607	CDS
+			EC_number	3.1.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P34081
+			locus_tag	KMDAMLD_00043
+			product	DNA endonuclease I-HmuI
+20380	20120	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00044
+			product	hypothetical protein
+20616	20392	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00045
+			product	hypothetical protein
+21992	20628	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00046
+			product	hypothetical protein
+22780	22004	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00047
+			product	hypothetical protein
+23182	22829	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00048
+			product	hypothetical protein
+24203	23256	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00049
+			product	hypothetical protein
+24445	24233	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00050
+			product	hypothetical protein
+24645	24457	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00051
+			product	hypothetical protein
+24965	24645	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00052
+			product	hypothetical protein
+25216	24965	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00053
+			product	hypothetical protein
+25614	25216	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00054
+			product	hypothetical protein
+25955	25614	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00055
+			product	hypothetical protein
+26992	26919	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	KMDAMLD_00056
+			product	tRNA-Trp(cca)
+27276	27076	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00057
+			product	hypothetical protein
+27661	27266	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00058
+			product	hypothetical protein
+28098	27664	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00059
+			product	hypothetical protein
+28978	28151	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00060
+			product	hypothetical protein
+29489	29692	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00061
+			product	hypothetical protein
+29694	30122	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00062
+			product	hypothetical protein
+30281	30556	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00063
+			product	hypothetical protein
+31324	30605	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00064
+			product	hypothetical protein
+31659	31372	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00065
+			product	hypothetical protein
+34699	31673	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00066
+			product	hypothetical protein
+38704	34712	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00067
+			product	hypothetical protein
+41603	38718	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00068
+			product	hypothetical protein
+41840	41616	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00069
+			product	hypothetical protein
+42291	41851	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00070
+			product	hypothetical protein
+43121	42432	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00071
+			product	hypothetical protein
+43578	43147	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00072
+			product	hypothetical protein
+43971	43591	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00073
+			product	hypothetical protein
+44333	43956	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00074
+			product	hypothetical protein
+44753	44349	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00075
+			product	hypothetical protein
+45251	44814	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00076
+			product	hypothetical protein
+46212	45406	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A9CRA7
+			locus_tag	KMDAMLD_00077
+			product	Putative major head protein
+46929	46261	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00078
+			product	hypothetical protein
+47795	47040	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00079
+			product	hypothetical protein
+49342	47807	CDS
+			gene	6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54309
+			locus_tag	KMDAMLD_00080
+			product	Portal protein
+50672	49401	CDS
+			gene	2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54308
+			locus_tag	KMDAMLD_00081
+			product	Large terminase protein
+50983	50735	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00082
+			product	hypothetical protein
+51379	51002	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00083
+			product	hypothetical protein
+51990	51394	CDS
+			gene	1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P68928
+			locus_tag	KMDAMLD_00084
+			product	Terminase small subunit
+52271	52582	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00085
+			product	hypothetical protein
+52582	52857	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00086
+			product	hypothetical protein
+52857	53243	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00087
+			product	hypothetical protein
+53245	53379	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00088
+			product	hypothetical protein
+53414	53785	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00089
+			product	hypothetical protein
+53782	54087	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00090
+			product	hypothetical protein
+54538	55296	CDS
+			EC_number	3.1.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P34081
+			locus_tag	KMDAMLD_00091
+			product	DNA endonuclease I-HmuI
+55314	56192	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00092
+			product	hypothetical protein
+56185	56415	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00093
+			product	hypothetical protein
+56417	56626	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KMDAMLD_00094
+			product	hypothetical protein

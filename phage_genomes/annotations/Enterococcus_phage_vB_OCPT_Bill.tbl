@@ -1,0 +1,1022 @@
+>Feature vB_OCPT_Bill
+119	532	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00001
+637	954	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00002
+954	1145	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00003
+1142	1339	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00004
+1353	1532	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00005
+1547	1750	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00006
+2308	2481	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00007
+2687	2833	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00008
+2852	3076	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00009
+3369	3635	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00010
+4028	3816	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00011
+4350	4099	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00012
+4570	4352	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00013
+4798	4571	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00014
+5206	5030	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00015
+5585	5259	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00016
+5773	5576	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00017
+5937	5773	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00018
+6317	5937	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00019
+6777	6340	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00020
+7187	6798	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00021
+7463	7200	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00022
+8722	7478	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00023
+8903	8715	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00024
+9731	8991	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00025
+9943	9731	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00026
+10685	9945	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00027
+10927	10685	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00028
+11306	10929	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00029
+12157	11306	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00030
+12420	12154	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00031
+12750	12472	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00032
+13181	12840	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00033
+13504	13181	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00034
+13799	13569	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00035
+14107	13811	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00036
+14553	14107	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00037
+15140	14742	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00038
+15396	15133	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00039
+16767	15472	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00040
+17442	17122	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00041
+18256	17516	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00042
+18513	18256	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00043
+19118	18510	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00044
+19690	19115	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00045
+20221	19691	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00046
+20602	20252	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00047
+20826	20602	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00048
+21083	20829	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00049
+21296	21084	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00050
+21721	21299	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00051
+21960	21718	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00052
+22226	21993	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00053
+22985	22422	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00054
+23767	23210	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00055
+24528	23770	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00056
+24863	24531	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00057
+25270	24866	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00058
+25546	25343	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00059
+26403	25546	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00060
+27114	26500	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00061
+27400	27107	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00062
+28362	27400	CDS
+			codon_start	1
+			product	Thymidylate synthase
+			EC_number	2.1.1.45
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q4JQW2
+			locus_tag	DIEEDFHO_00063
+29007	28378	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00064
+29758	29009	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00065
+30299	29832	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00066
+30555	30292	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00067
+30865	30536	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00068
+31638	30895	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00069
+32767	31640	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00070
+33559	32822	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00071
+34104	33556	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00072
+34474	34097	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00073
+34808	34569	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00074
+35559	34801	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00075
+36382	35585	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00076
+38369	36450	CDS
+			codon_start	1
+			product	Anaerobic ribonucleoside-triphosphate reductase
+			EC_number	1.17.4.2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07071
+			gene	NRDD
+			locus_tag	DIEEDFHO_00077
+38981	38772	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00078
+39715	39053	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00079
+40207	39902	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00080
+40538	40308	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00081
+42114	40582	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00082
+43017	42793	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00083
+43397	43325	tRNA
+			note	tRNA-Gly(tcc)
+			product	tRNA-Gly
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	DIEEDFHO_00084
+43642	43570	tRNA
+			note	tRNA-Pro(tgg)
+			product	tRNA-Pro
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	DIEEDFHO_00085
+44034	43962	tRNA
+			note	tRNA-Ala(tgc)
+			product	tRNA-Ala
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	DIEEDFHO_00086
+44116	44042	tRNA
+			note	tRNA-Arg(tct)
+			product	tRNA-Arg
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	DIEEDFHO_00087
+44492	44124	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00088
+44606	44518	tRNA
+			note	tRNA-Ser(tga)
+			product	tRNA-Ser
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	DIEEDFHO_00089
+44788	44702	tRNA
+			note	tRNA-Ser(gga)
+			product	tRNA-Ser
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	DIEEDFHO_00090
+45069	44884	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00091
+45730	45383	tmrna
+			product	transfer-messenger RNA, SsrA
+			inference	COORDINATES: profile:Aragorn:1.2
+			gene	ssrA
+			locus_tag	DIEEDFHO_00092
+46037	45963	tRNA
+			note	tRNA-Cys(gca)
+			product	tRNA-Cys
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	DIEEDFHO_00093
+46349	46276	tRNA
+			note	tRNA-Trp(cca)
+			product	tRNA-Trp
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	DIEEDFHO_00094
+46632	46559	tRNA
+			note	tRNA-Met(cat)
+			product	tRNA-Met
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	DIEEDFHO_00095
+46912	46839	tRNA
+			note	tRNA-Glu(ttc)
+			product	tRNA-Glu
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	DIEEDFHO_00096
+46992	46916	tRNA
+			note	tRNA-Asp(gtc)
+			product	tRNA-Asp
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	DIEEDFHO_00097
+47982	47891	tRNA
+			note	tRNA-Ser(gct)
+			product	tRNA-Ser
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	DIEEDFHO_00098
+48163	48090	tRNA
+			note	tRNA-Gln(ttg)
+			product	tRNA-Gln
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	DIEEDFHO_00099
+48326	48254	tRNA
+			note	tRNA-Asn(gtt)
+			product	tRNA-Asn
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	DIEEDFHO_00100
+49025	48762	CDS
+			codon_start	1
+			product	Virion protein 6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85230
+			locus_tag	DIEEDFHO_00101
+49502	49155	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00102
+49978	50187	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00103
+50490	50918	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00104
+50918	52753	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00105
+52997	53842	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00106
+53839	54666	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00107
+54667	55023	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00108
+55126	56382	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00109
+57252	58196	CDS
+			codon_start	1
+			product	Lysin
+			EC_number	3.5.1.28
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O03979
+			gene	PAL
+			locus_tag	DIEEDFHO_00110
+58816	60375	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00111
+60475	61263	CDS
+			codon_start	1
+			product	Putative major capsid protein
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85226
+			locus_tag	DIEEDFHO_00112
+61809	62282	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00113
+62405	63826	CDS
+			codon_start	1
+			product	Putative major capsid protein
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85226
+			locus_tag	DIEEDFHO_00114
+63924	64175	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00115
+64187	65083	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00116
+65097	65969	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00117
+65962	66585	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00118
+66589	67434	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00119
+67434	67673	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00120
+67677	69386	CDS
+			codon_start	1
+			product	Putative tail sheath protein
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85225
+			locus_tag	DIEEDFHO_00121
+69452	69874	CDS
+			codon_start	1
+			product	Virion protein 5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85229
+			locus_tag	DIEEDFHO_00122
+69965	71077	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00123
+71333	71806	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00124
+71862	72455	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00125
+72503	76159	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00126
+76209	78725	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00127
+78770	85429	CDS
+			codon_start	1
+			product	Tail fiber protein
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A8E283
+			locus_tag	DIEEDFHO_00128
+85518	87932	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00129
+87947	88675	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00130
+88694	88840	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00131
+89013	89696	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00132
+89696	90232	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00133
+90219	90923	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00134
+90989	91990	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00135
+92410	94422	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00136
+94584	95063	CDS
+			codon_start	1
+			product	Virion protein 3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85227
+			locus_tag	DIEEDFHO_00137
+95218	98538	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00138
+98616	98822	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00139
+99016	100791	CDS
+			codon_start	1
+			product	ATP-dependent DNA helicase uvsW
+			EC_number	3.6.4.12
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20703
+			gene	uvsW
+			locus_tag	DIEEDFHO_00140
+100807	102450	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00141
+102464	103936	CDS
+			codon_start	1
+			product	ATP-dependent helicase 41
+			EC_number	3.6.4.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04530
+			locus_tag	DIEEDFHO_00142
+103936	104976	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00143
+104949	105236	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00144
+105348	107240	CDS
+			codon_start	1
+			product	Exonuclease subunit 2
+			EC_number	3.1.11.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04522
+			locus_tag	DIEEDFHO_00145
+107254	107913	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00146
+107917	108972	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00147
+108982	109863	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00148
+109863	110099	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00149
+110103	110414	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00150
+110401	110712	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00151
+110705	111073	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00152
+111075	111722	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00153
+111715	112392	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00154
+112392	112757	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00155
+112708	112917	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00156
+112914	113336	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00157
+113442	114236	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00158
+114229	114540	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00159
+114712	117648	CDS
+			codon_start	1
+			product	DNA polymerase
+			EC_number	2.7.7.7
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P19822
+			locus_tag	DIEEDFHO_00160
+117955	118302	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00161
+118551	119690	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00162
+119891	121018	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00163
+121106	121435	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00164
+122113	122391	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00165
+122441	123637	CDS
+			codon_start	1
+			product	Virion protein 4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85228
+			locus_tag	DIEEDFHO_00166
+123664	124110	CDS
+			codon_start	1
+			product	Virion protein 4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85228
+			locus_tag	DIEEDFHO_00167
+124444	124713	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00168
+124688	125626	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00169
+125714	126967	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00170
+126980	127348	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00171
+127393	128037	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00172
+128034	128774	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00173
+128767	129270	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00174
+129281	130147	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00175
+130259	130807	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00176
+130820	131668	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00177
+131668	133395	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00178
+133670	134365	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00179
+134379	134843	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00180
+134929	135222	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00181
+135295	137721	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00182
+138260	138820	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00183
+139029	139265	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00184
+139327	139575	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00185
+139608	140048	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00186
+140201	140947	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00187
+140947	141492	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00188
+141577	141909	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00189
+142266	142565	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00190
+142658	143113	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00191
+143547	143822	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00192
+144082	144270	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00193
+144355	144798	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00194
+144877	145134	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00195
+145216	145452	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00196
+145539	146234	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00197
+146254	146427	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00198
+146607	146990	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	DIEEDFHO_00199

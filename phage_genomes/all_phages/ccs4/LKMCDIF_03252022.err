@@ -1,0 +1,393 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:66 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 66 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:66 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:3 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:67 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::66 proteins have invalid IDs.
+./ccs4/LKMCDIF_03252022:CCS4_1 (length 53)
+./ccs4/LKMCDIF_03252022:CCS4_2 (length 72)
+./ccs4/LKMCDIF_03252022:CCS4_3 (length 71)
+./ccs4/LKMCDIF_03252022:CCS4_4 (length 75)
+./ccs4/LKMCDIF_03252022:CCS4_5 (length 46)
+./ccs4/LKMCDIF_03252022:CCS4_6 (length 51)
+./ccs4/LKMCDIF_03252022:CCS4_7 (length 207)
+./ccs4/LKMCDIF_03252022:CCS4_8 (length 55)
+./ccs4/LKMCDIF_03252022:CCS4_9 (length 51)
+./ccs4/LKMCDIF_03252022:CCS4_10 (length 70)
+./ccs4/LKMCDIF_03252022:CCS4_11 (length 87)
+./ccs4/LKMCDIF_03252022:CCS4_12 (length 61)
+./ccs4/LKMCDIF_03252022:CCS4_13 (length 135)
+./ccs4/LKMCDIF_03252022:CCS4_14 (length 70)
+./ccs4/LKMCDIF_03252022:CCS4_15 (length 67)
+./ccs4/LKMCDIF_03252022:CCS4_16 (length 68)
+./ccs4/LKMCDIF_03252022:CCS4_17 (length 123)
+./ccs4/LKMCDIF_03252022:CCS4_18 (length 50)
+./ccs4/LKMCDIF_03252022:CCS4_19 (length 111)
+./ccs4/LKMCDIF_03252022:CCS4_20 (length 157)
+./ccs4/LKMCDIF_03252022:CCS4_21 (length 574)
+./ccs4/LKMCDIF_03252022:CCS4_22 (length 65)
+./ccs4/LKMCDIF_03252022:CCS4_23 (length 383)
+./ccs4/LKMCDIF_03252022:CCS4_24 (length 195)
+./ccs4/LKMCDIF_03252022:CCS4_25 (length 417)
+./ccs4/LKMCDIF_03252022:CCS4_26 (length 66)
+./ccs4/LKMCDIF_03252022:CCS4_27 (length 98)
+./ccs4/LKMCDIF_03252022:CCS4_28 (length 111)
+./ccs4/LKMCDIF_03252022:CCS4_29 (length 135)
+./ccs4/LKMCDIF_03252022:CCS4_30 (length 121)
+./ccs4/LKMCDIF_03252022:CCS4_31 (length 188)
+./ccs4/LKMCDIF_03252022:CCS4_32 (length 103)
+./ccs4/LKMCDIF_03252022:CCS4_33 (length 1456)
+./ccs4/LKMCDIF_03252022:CCS4_34 (length 696)
+./ccs4/LKMCDIF_03252022:CCS4_35 (length 793)
+./ccs4/LKMCDIF_03252022:CCS4_36 (length 81)
+./ccs4/LKMCDIF_03252022:CCS4_37 (length 78)
+./ccs4/LKMCDIF_03252022:CCS4_38 (length 365)
+./ccs4/LKMCDIF_03252022:CCS4_39 (length 75)
+./ccs4/LKMCDIF_03252022:CCS4_40 (length 763)
+./ccs4/LKMCDIF_03252022:CCS4_41 (length 74)
+./ccs4/LKMCDIF_03252022:CCS4_42 (length 235)
+./ccs4/LKMCDIF_03252022:CCS4_43 (length 81)
+./ccs4/LKMCDIF_03252022:CCS4_44 (length 97)
+./ccs4/LKMCDIF_03252022:CCS4_45 (length 272)
+./ccs4/LKMCDIF_03252022:CCS4_46 (length 62)
+./ccs4/LKMCDIF_03252022:CCS4_47 (length 258)
+./ccs4/LKMCDIF_03252022:CCS4_48 (length 159)
+./ccs4/LKMCDIF_03252022:CCS4_49 (length 68)
+./ccs4/LKMCDIF_03252022:CCS4_50 (length 188)
+./ccs4/LKMCDIF_03252022:CCS4_51 (length 68)
+./ccs4/LKMCDIF_03252022:CCS4_52 (length 246)
+./ccs4/LKMCDIF_03252022:CCS4_53 (length 62)
+./ccs4/LKMCDIF_03252022:CCS4_54 (length 65)
+./ccs4/LKMCDIF_03252022:CCS4_55 (length 58)
+./ccs4/LKMCDIF_03252022:CCS4_56 (length 431)
+./ccs4/LKMCDIF_03252022:CCS4_57 (length 129)
+./ccs4/LKMCDIF_03252022:CCS4_58 (length 69)
+./ccs4/LKMCDIF_03252022:CCS4_59 (length 53)
+./ccs4/LKMCDIF_03252022:CCS4_60 (length 94)
+./ccs4/LKMCDIF_03252022:CCS4_61 (length 41)
+./ccs4/LKMCDIF_03252022:CCS4_62 (length 111)
+./ccs4/LKMCDIF_03252022:CCS4_63 (length 52)
+./ccs4/LKMCDIF_03252022:CCS4_64 (length 526)
+./ccs4/LKMCDIF_03252022:CCS4_65 (length 63)
+./ccs4/LKMCDIF_03252022:CCS4_66 (length 45)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 66 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./ccs4/LKMCDIF_03252022:CCS4 (length 40050)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::66 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c226-65	LKMCDIF_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c441-223	LKMCDIF_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c653-438	LKMCDIF_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c874-647	LKMCDIF_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c1014-874	LKMCDIF_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c1166-1011	LKMCDIF_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c1901-1278	LKMCDIF_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c2140-1973	LKMCDIF_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c2380-2225	LKMCDIF_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c2682-2470	LKMCDIF_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c2945-2682	LKMCDIF_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c3127-2942	LKMCDIF_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c3534-3127	LKMCDIF_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c3759-3547	LKMCDIF_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:4261-4464	LKMCDIF_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:4505-4711	LKMCDIF_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:4711-5082	LKMCDIF_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:5474-5626	LKMCDIF_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	DNA endonuclease I-HmuI	CCS4:5641-5976	LKMCDIF_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:5979-6452	LKMCDIF_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:6823-8547	LKMCDIF_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:8585-8782	LKMCDIF_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:8787-9938	LKMCDIF_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:9901-10488	LKMCDIF_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:10558-11811	LKMCDIF_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:11936-12136	LKMCDIF_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:12180-12476	LKMCDIF_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:12448-12783	LKMCDIF_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:12780-13187	LKMCDIF_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:13184-13549	LKMCDIF_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:13628-14194	LKMCDIF_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:14374-14685	LKMCDIF_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:14942-19312	LKMCDIF_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:19391-21481	LKMCDIF_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:21493-23874	LKMCDIF_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:24053-24298	LKMCDIF_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:24313-24549	LKMCDIF_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	Endolysin	CCS4:24546-25643	LKMCDIF_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c25960-25733	LKMCDIF_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c28314-26023	LKMCDIF_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c28574-28350	LKMCDIF_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c29352-28645	LKMCDIF_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c29675-29430	LKMCDIF_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c29969-29676	LKMCDIF_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c30788-29970	LKMCDIF_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c30966-30778	LKMCDIF_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c31718-30942	LKMCDIF_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c32208-31729	LKMCDIF_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c32411-32205	LKMCDIF_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c32979-32413	LKMCDIF_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c33342-33136	LKMCDIF_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c34233-33493	LKMCDIF_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c34433-34245	LKMCDIF_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c34643-34446	LKMCDIF_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c34879-34703	LKMCDIF_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c36171-34876	LKMCDIF_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c36553-36164	LKMCDIF_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c36781-36572	LKMCDIF_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c36944-36783	LKMCDIF_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c37230-36946	LKMCDIF_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c37355-37230	LKMCDIF_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c37690-37355	LKMCDIF_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c37871-37713	LKMCDIF_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c39541-37961	LKMCDIF_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c39833-39642	LKMCDIF_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs4/LKMCDIF_03252022:CDS	hypothetical protein	CCS4:c39967-39830	LKMCDIF_00066
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./ccs4/LKMCDIF_03252022:CCS4:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::3 protein sequences are shorter than 50 aa.
+./ccs4/LKMCDIF_03252022:CCS4_5 (length 46)
+./ccs4/LKMCDIF_03252022:CCS4_61 (length 41)
+./ccs4/LKMCDIF_03252022:CCS4_66 (length 45)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./ccs4/LKMCDIF_03252022:CCS4 (length 40050)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./ccs4/LKMCDIF_03252022:CCS4 (length 40050)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./ccs4/LKMCDIF_03252022:CCS4 (length 40050)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./ccs4/LKMCDIF_03252022:CCS4 (length 40050)
+
+DiscRep_ALL:MISSING_PROJECT::67 sequences do not include project.
+./ccs4/LKMCDIF_03252022:CCS4 (length 40050)
+./ccs4/LKMCDIF_03252022:CCS4_1 (length 53)
+./ccs4/LKMCDIF_03252022:CCS4_2 (length 72)
+./ccs4/LKMCDIF_03252022:CCS4_3 (length 71)
+./ccs4/LKMCDIF_03252022:CCS4_4 (length 75)
+./ccs4/LKMCDIF_03252022:CCS4_5 (length 46)
+./ccs4/LKMCDIF_03252022:CCS4_6 (length 51)
+./ccs4/LKMCDIF_03252022:CCS4_7 (length 207)
+./ccs4/LKMCDIF_03252022:CCS4_8 (length 55)
+./ccs4/LKMCDIF_03252022:CCS4_9 (length 51)
+./ccs4/LKMCDIF_03252022:CCS4_10 (length 70)
+./ccs4/LKMCDIF_03252022:CCS4_11 (length 87)
+./ccs4/LKMCDIF_03252022:CCS4_12 (length 61)
+./ccs4/LKMCDIF_03252022:CCS4_13 (length 135)
+./ccs4/LKMCDIF_03252022:CCS4_14 (length 70)
+./ccs4/LKMCDIF_03252022:CCS4_15 (length 67)
+./ccs4/LKMCDIF_03252022:CCS4_16 (length 68)
+./ccs4/LKMCDIF_03252022:CCS4_17 (length 123)
+./ccs4/LKMCDIF_03252022:CCS4_18 (length 50)
+./ccs4/LKMCDIF_03252022:CCS4_19 (length 111)
+./ccs4/LKMCDIF_03252022:CCS4_20 (length 157)
+./ccs4/LKMCDIF_03252022:CCS4_21 (length 574)
+./ccs4/LKMCDIF_03252022:CCS4_22 (length 65)
+./ccs4/LKMCDIF_03252022:CCS4_23 (length 383)
+./ccs4/LKMCDIF_03252022:CCS4_24 (length 195)
+./ccs4/LKMCDIF_03252022:CCS4_25 (length 417)
+./ccs4/LKMCDIF_03252022:CCS4_26 (length 66)
+./ccs4/LKMCDIF_03252022:CCS4_27 (length 98)
+./ccs4/LKMCDIF_03252022:CCS4_28 (length 111)
+./ccs4/LKMCDIF_03252022:CCS4_29 (length 135)
+./ccs4/LKMCDIF_03252022:CCS4_30 (length 121)
+./ccs4/LKMCDIF_03252022:CCS4_31 (length 188)
+./ccs4/LKMCDIF_03252022:CCS4_32 (length 103)
+./ccs4/LKMCDIF_03252022:CCS4_33 (length 1456)
+./ccs4/LKMCDIF_03252022:CCS4_34 (length 696)
+./ccs4/LKMCDIF_03252022:CCS4_35 (length 793)
+./ccs4/LKMCDIF_03252022:CCS4_36 (length 81)
+./ccs4/LKMCDIF_03252022:CCS4_37 (length 78)
+./ccs4/LKMCDIF_03252022:CCS4_38 (length 365)
+./ccs4/LKMCDIF_03252022:CCS4_39 (length 75)
+./ccs4/LKMCDIF_03252022:CCS4_40 (length 763)
+./ccs4/LKMCDIF_03252022:CCS4_41 (length 74)
+./ccs4/LKMCDIF_03252022:CCS4_42 (length 235)
+./ccs4/LKMCDIF_03252022:CCS4_43 (length 81)
+./ccs4/LKMCDIF_03252022:CCS4_44 (length 97)
+./ccs4/LKMCDIF_03252022:CCS4_45 (length 272)
+./ccs4/LKMCDIF_03252022:CCS4_46 (length 62)
+./ccs4/LKMCDIF_03252022:CCS4_47 (length 258)
+./ccs4/LKMCDIF_03252022:CCS4_48 (length 159)
+./ccs4/LKMCDIF_03252022:CCS4_49 (length 68)
+./ccs4/LKMCDIF_03252022:CCS4_50 (length 188)
+./ccs4/LKMCDIF_03252022:CCS4_51 (length 68)
+./ccs4/LKMCDIF_03252022:CCS4_52 (length 246)
+./ccs4/LKMCDIF_03252022:CCS4_53 (length 62)
+./ccs4/LKMCDIF_03252022:CCS4_54 (length 65)
+./ccs4/LKMCDIF_03252022:CCS4_55 (length 58)
+./ccs4/LKMCDIF_03252022:CCS4_56 (length 431)
+./ccs4/LKMCDIF_03252022:CCS4_57 (length 129)
+./ccs4/LKMCDIF_03252022:CCS4_58 (length 69)
+./ccs4/LKMCDIF_03252022:CCS4_59 (length 53)
+./ccs4/LKMCDIF_03252022:CCS4_60 (length 94)
+./ccs4/LKMCDIF_03252022:CCS4_61 (length 41)
+./ccs4/LKMCDIF_03252022:CCS4_62 (length 111)
+./ccs4/LKMCDIF_03252022:CCS4_63 (length 52)
+./ccs4/LKMCDIF_03252022:CCS4_64 (length 526)
+./ccs4/LKMCDIF_03252022:CCS4_65 (length 63)
+./ccs4/LKMCDIF_03252022:CCS4_66 (length 45)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./ccs4/LKMCDIF_03252022:CCS4 (length 40050)
+

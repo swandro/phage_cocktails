@@ -1,0 +1,162 @@
+LOCUS       DP11_37                 2323 bp    DNA     linear   UNA 20-MAY-2019
+DEFINITION  NODE_37_length_2323_cov_24.687390.
+ACCESSION   geneious|urn:local:
+VERSION     geneious|urn:local:.:z-a8pr4qi:36
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             121..393
+                     /Source="Prodigal:2.6"
+                     /codon_start=1
+                     /ID="HOCGOLEH_02712"
+                     /inference="ab initio prediction:Prodigal:2.6,similar to
+                     AA sequence:UniProtKB:Q57231"
+                     /locus_tag="HOCGOLEH_02712"
+                     /product="Antitoxin epsilon"
+                     /label="CDS"
+     CDS             395..1258
+                     /Source="Prodigal:2.6"
+                     /codon_start=1
+                     /ID="HOCGOLEH_02713"
+                     /eC_number="2.7.1.176"
+                     /inference="ab initio prediction:Prodigal:2.6,similar to
+                     AA sequence:UniProtKB:Q54944"
+                     /locus_tag="HOCGOLEH_02713"
+                     /product="Toxin zeta"
+                     /label="CDS"
+     CDS             1699..2016
+                     /Source="Prodigal:2.6"
+                     /codon_start=1
+                     /ID="HOCGOLEH_02714"
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /locus_tag="HOCGOLEH_02714"
+                     /product="hypothetical protein"
+                     /label="CDS"
+     CDS             2036..2305
+                     /Source="Prodigal:2.6"
+                     /codon_start=1
+                     /ID="HOCGOLEH_02715"
+                     /gene="dnaJ_3"
+                     /inference="ab initio prediction:Prodigal:2.6,protein
+                     motif:HAMAP:MF_01152"
+                     /locus_tag="HOCGOLEH_02715"
+                     /product="Chaperone protein DnaJ"
+                     /label="dnaJ_3"
+ORIGIN      
+        1 atatcataaa aatcgaaaca gcaaagaatg gcggaaacgt aaaagaagtt atggataaag
+       61 ccttagaaga atatattcgg aaatatttac ctgacaaact ttaaaaggag tgaaaatgaa
+      121 atggcagtta catatgaaaa aacatttgaa attgaaatca ttaatgagtt atcggcaagt
+      181 gtttataatc gagtattaaa ctatgttttg aaccatgaat taaataaaaa tgactctcaa
+      241 ttattggaag tcaatttatt aaaccaatta aagcttgcaa aacgtgtaaa tctttttgat
+      301 tattctttag aagaattaca agccgttcat gagtattggc ggtcaatgaa tcgttactca
+      361 aaacaagttt tgaataaaga gaaagtggct taatatggca aatatagtca attttactga
+      421 caaacaattt gagaatcgct taaatgataa tttagaagaa ttgattcaag gaaaaaaagc
+      481 ggttgaatcg ccaaccgctt ttttacttgg tgggcaacca gggtcaggga aaaccagttt
+      541 gcgatcagca attcttgaag aaacacaagg gaatgttatt gtcattgata atgatacctt
+      601 taaacaacag caccctaatt ttgatgaact agcgaaactt tatgagaaag acgtagtaaa
+      661 acacgtcacc ccttattcta atcgcatgac agaagcgatc ataagccgtt tgagcgatca
+      721 aggctataat ttagtgattg aaggtacagg acgaacaaca gacgttccta ttcaaaccgc
+      781 aacaatgctt caagccaaag gttatgaaac aaaaatgtat gttatggcag tacctaaaat
+      841 caactcatat ttaggaacaa ttgaacgata tgaaactatg tatgcagatg atccaatgac
+      901 agccagggca acaccaaaac aagcgcatga tattgttgtc aaaaacttac cgaccaattt
+      961 agaaaccctt cataaaacgg gcttatttag cgatataagg ctttacaata gagaaggagt
+     1021 gaaactctat tcaagattag aaacgccttc tattagtccg aaagagacct tagaaagaga
+     1081 attaaatcgt aaagtatcag ggaaagaaat tcaaccgact ttggagagaa tagagcaaaa
+     1141 aatgcttcaa aatcaacacc aagaaacccc tgaatttaaa gcaattcaac aaaaaatgga
+     1201 aagcttgcag ccacctacac caccaatacc caaaacacct aaacttccag gactttaaac
+     1261 cttaaaaaag gaaaagagta gttaccaaaa aacggtaact actctttttt tataaaaaca
+     1321 tttcctcatg ttttaaaagc tgatcgagaa ataaagcaca caacggtatt ctttcttttt
+     1381 tcagttggta cattttgcag tctgtaacgt gtcatttact gtttgttacc ttaacatatc
+     1441 cagtcgaaaa cacaagggta tataaacgag caagctcgcc cttgtgtttt ctttgtgtct
+     1501 atgttgcgtt ctcgtcacag caaacgacac gaacacactg gcgaaaatga accaacaaaa
+     1561 cgaaaaaaga aaggagcgta cactgtaatt tatttctagc ttttaaaaca tgaggaaaac
+     1621 agcttcactt cctcaaacgc ctaacaaaaa tggttgtcaa aaaactaaaa atcaaaaaaa
+     1681 agaaaagagg aaaagaaaat ggaaaaaaca aaaaaattac aattagaaga ttttacagaa
+     1741 aatgagtttt ttggaacaca agaacagaaa tatctaaaag ctcaagtaag agaagagcta
+     1801 aaagagcaag gctttatcat agatagcagt tttgagggcg attttaaaac atggataggt
+     1861 gtatacgcaa gaccaaaaga taaaccgacc tacttagacc ctcaaaacga taaagaagca
+     1921 gaagaacaag agcaatattc tattaacggc tttaaacaag attttagcga atggtttgag
+     1981 tgggaaataa aaaatttgaa aattaaagaa atgtaaaaga aaaggaatga taaaaatgaa
+     2041 atacattaaa aacgttgaaa cattggaaga attgaaaaaa gcctacaaaa agttagcttt
+     2101 gaagttacac cccgattgtg gcgggaatga agaagaaatg aaaattttga acaatgaata
+     2161 tgacgaactg tttagcaaac ttaaaaacac tcataagaat aaagaaggtg aaacttacac
+     2221 caaagaaaca acagaaacac ccgaacagtt taaggatatt attaataagg ttctgttgca
+     2281 aagttttaaa tctactatca aataaggtag aataatagaa aaa
+//
+LOCUS       DP11_38                 2257 bp    DNA     linear   UNA 20-MAY-2019
+DEFINITION  NODE_38_length_2257_cov_23.902361.
+ACCESSION   geneious|urn:local:
+VERSION     geneious|urn:local:.:z-a8pr4qi:37
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             complement(49..138)
+                     /Source="Prodigal:2.6"
+                     /codon_start=1
+                     /ID="HOCGOLEH_02716"
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /locus_tag="HOCGOLEH_02716"
+                     /product="hypothetical protein"
+                     /label="CDS"
+     CDS             complement(223..1662)
+                     /Source="Prodigal:2.6"
+                     /codon_start=1
+                     /ID="HOCGOLEH_02717"
+                     /gene="aacA-aphD"
+                     /inference="ab initio prediction:Prodigal:2.6,similar to
+                     AA sequence:UniProtKB:P0A0C1"
+                     /locus_tag="HOCGOLEH_02717"
+                     /product="Bifunctional AAC/APH"
+                     /label="aacA-aphD"
+     CDS             complement(1663..2184)
+                     /Source="Prodigal:2.6"
+                     /codon_start=1
+                     /ID="HOCGOLEH_02718"
+                     /eC_number="2.7.7.-"
+                     /gene="aadK_4"
+                     /inference="ab initio prediction:Prodigal:2.6,similar to
+                     AA sequence:UniProtKB:P17585"
+                     /locus_tag="HOCGOLEH_02718"
+                     /product="Aminoglycoside 6-adenylyltransferase"
+                     /label="aadK_4"
+ORIGIN      
+        1 aacggttcta tatcacttac aaaatatgta atatcataat cctgaaattc atcttataga
+       61 acatatatct tctaatacat tatctgtatt ttgatattta ataatcattg aattattatt
+      121 tgttttttct aaatccatct ttccacttcc tttattattt ttcatttttt taaactattt
+      181 aatactaatg tcttttataa tagcttttca tatattatat aatcaatctt tataagtcct
+      241 tttataaatt tcttttctac cattttcgat aaattcctgt ttaatatttt taattccata
+      301 aacaatagtt tcaataggat aatattcttc aactatatct tgatattctt ttgctttctc
+      361 aatatctata tttccataca ttcttaatat atcttctcca aaatttgttc ctatttcttc
+      421 ttcactatct tcaagtaagt atataaaatc acaatattca tctataattc cagaatctcc
+      481 aaaatcaatt attccagtta atctattatt gccatctaac aatagatgat tacaactaaa
+      541 atcattatgg cataaacact ttttaccctc aaaaactgtt gttgcattta gtctttccat
+      601 aaaactttct atataatctt tttctatatc agttaaatca ttataaatag tttcacgcaa
+      661 caatatatac tcttctaata cattttgttt attatcaata gtacattcac taatatctgt
+      721 ataatctaaa ccgtgcattt gtcttaaaaa actggcaata tctcgtttta acaaattttg
+      781 ttcttcttct gacatagtag aataaatttc tggtgttaaa aaagttcctt taatttcttt
+      841 ataacctagt atagataatt catcactaat atacgaatat tcaatattag gaatttttac
+      901 attagtttct aaatttgtat ttaaaaaatt atatattgct ttttcttttg cataaccttt
+      961 tttcttatta gtactaaatt ttgttttaaa aatgtattca ttattaacta aatatgccac
+     1021 actatcataa ccactaccga ttatttcaat actatctact ttgaaattat caaagtaatg
+     1081 ctcaattaaa tatttcattg ccttaacatt tgtggcatta tcatcatatc tatattccat
+     1141 taaataacaa tcttcttttt tgccctcgtg taattcatgt tctggcaaat cttcaataat
+     1201 tctaaaacca gatttttggt atgcccttat tgctcttgga ttatttttat gagggtctaa
+     1261 aataactgca ttagcatttc tttctttttt caaaaattca aaaatcaatt taatatatct
+     1321 tgtaccaatt cctttactcc aataatttgg ctctcctata aattgatcca taccatagac
+     1381 tatctcatca gtttttggat aatgataatc agtatataac tcatcataca ttttatatat
+     1441 ttgtccatat ccaataggaa cattgttata ttcaataatt actctaaaaa cttcatcttc
+     1501 ccaaggctct gtataatgtt tttttaatga ttctaatgta tattttttat ctctaccacc
+     1561 ataaaattct aatactcttt catcagttaa ccattttaac atcaaaggaa aatcatcatc
+     1621 tattaaagtt cttatacata tttcattttc aactatattc atttatttat cacctttttc
+     1681 ataatcatat acatatacta tttcatcttt ataatcattt ttaccaccta atttttcata
+     1741 tacatggcaa gctctaggat tacctttatc agttattaaa aacatttcag aacaaccaat
+     1801 ctctttagaa tattccttaa taaaagataa taattttgaa ccataacctt tgtcttgata
+     1861 gttaggtaac attcctattg agtgtaaata aaacattgtt tttccatcag gtcttaaaag
+     1921 tgtatagcaa tatgcaaatc ctataatttt attattttct ttagctataa acccaaatga
+     1981 actggtatca ttaagaaatc cttttaaatt atcaatatca aaaaccatat tatcatcaat
+     2041 taaaacttct tccataaact ctaaatcatt ttttttaggt atattaatat ttgcgcgtga
+     2101 cccctcaagg gtcacaattc gaatacgttc atcctgttct gctaaagaaa gtactaaatc
+     2161 catcatttct ttttctgatc tcatttacat actcctcgtt tattttttct ttctaaaatg
+     2221 ttcagctaaa gtaaacttac attcaggata atttgaa

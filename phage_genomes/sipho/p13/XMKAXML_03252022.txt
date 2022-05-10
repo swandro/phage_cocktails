@@ -1,0 +1,5 @@
+organism: Caudovirales species strain 
+contigs: 1
+bases: 57775
+tRNA: 1
+CDS: 98

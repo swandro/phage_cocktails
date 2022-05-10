@@ -1,0 +1,413 @@
+>Feature CCS2
+54	626	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00001
+			product	hypothetical protein
+574	927	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00002
+			product	hypothetical protein
+974	1687	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00003
+			product	hypothetical protein
+2399	1971	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00004
+			product	hypothetical protein
+2906	3730	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00005
+			product	hypothetical protein
+3783	4217	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00006
+			product	hypothetical protein
+4220	4606	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00007
+			product	hypothetical protein
+4606	4806	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00008
+			product	hypothetical protein
+4864	4937	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	POQMFEI_00009
+			product	tRNA-Trp(cca)
+4939	5020	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	POQMFEI_00010
+			product	tRNA-Tyr(gta)
+5022	5110	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	POQMFEI_00011
+			product	tRNA-Ser(tga)
+5139	5264	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00012
+			product	hypothetical protein
+6060	6224	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00013
+			product	hypothetical protein
+6238	6576	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00014
+			product	hypothetical protein
+6579	6725	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00015
+			product	hypothetical protein
+6725	6976	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00016
+			product	hypothetical protein
+6976	7128	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00017
+			product	hypothetical protein
+7142	7330	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00018
+			product	hypothetical protein
+7342	7554	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00019
+			product	hypothetical protein
+7584	8528	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00020
+			product	hypothetical protein
+8603	8956	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00021
+			product	hypothetical protein
+9005	9781	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00022
+			product	hypothetical protein
+9793	11157	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00023
+			product	hypothetical protein
+11170	11922	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00024
+			product	hypothetical protein
+11888	12112	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00025
+			product	hypothetical protein
+12124	12384	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00026
+			product	hypothetical protein
+12457	12897	CDS
+			EC_number	3.1.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P34081
+			locus_tag	POQMFEI_00027
+			product	DNA endonuclease I-HmuI
+12890	13918	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00028
+			product	hypothetical protein
+13918	14253	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00029
+			product	hypothetical protein
+14250	14816	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00030
+			product	hypothetical protein
+14816	15385	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00031
+			product	hypothetical protein
+15378	16010	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00032
+			product	hypothetical protein
+16102	16665	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00033
+			product	hypothetical protein
+16873	16989	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00034
+			product	hypothetical protein
+17001	17195	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00035
+			product	hypothetical protein
+17210	17434	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00036
+			product	hypothetical protein
+17431	17640	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00037
+			product	hypothetical protein
+17643	17852	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00038
+			product	hypothetical protein
+17853	18230	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00039
+			product	hypothetical protein
+18230	18415	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00040
+			product	hypothetical protein
+18494	20845	CDS
+			EC_number	2.7.7.7
+			gene	5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00581
+			locus_tag	POQMFEI_00041
+			product	DNA-directed DNA polymerase
+20920	21111	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00042
+			product	hypothetical protein
+21124	21555	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00043
+			product	hypothetical protein
+21557	21949	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00044
+			product	hypothetical protein
+21942	22637	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00045
+			product	hypothetical protein
+22696	23079	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00046
+			product	hypothetical protein
+23080	23538	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00047
+			product	hypothetical protein
+23539	24363	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00048
+			product	hypothetical protein
+24374	24574	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00049
+			product	hypothetical protein
+24587	25030	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00050
+			product	hypothetical protein
+25107	25301	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00051
+			product	hypothetical protein
+25298	25558	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00052
+			product	hypothetical protein
+25558	25770	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00053
+			product	hypothetical protein
+25783	26001	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00054
+			product	hypothetical protein
+25991	26200	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00055
+			product	hypothetical protein
+26454	26720	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00056
+			product	hypothetical protein
+26722	27027	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00057
+			product	hypothetical protein
+27030	27542	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00058
+			product	hypothetical protein
+28276	28569	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00059
+			product	hypothetical protein
+28670	28993	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00060
+			product	hypothetical protein
+28986	29090	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00061
+			product	hypothetical protein
+29092	29478	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00062
+			product	hypothetical protein
+29471	29845	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00063
+			product	hypothetical protein
+29923	30060	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00064
+			product	hypothetical protein
+30127	30354	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00065
+			product	hypothetical protein
+30490	30924	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00066
+			product	hypothetical protein
+30911	31120	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00067
+			product	hypothetical protein
+31194	31364	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00068
+			product	hypothetical protein
+31387	31569	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00069
+			product	hypothetical protein
+31586	31852	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00070
+			product	hypothetical protein
+31934	32206	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00071
+			product	hypothetical protein
+32318	32620	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00072
+			product	hypothetical protein
+34252	34040	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00073
+			product	hypothetical protein
+34472	34254	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00074
+			product	hypothetical protein
+35306	34473	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00075
+			product	hypothetical protein
+36129	35758	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00076
+			product	hypothetical protein
+36451	36149	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00077
+			product	hypothetical protein
+36713	36453	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00078
+			product	hypothetical protein
+36875	36738	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00079
+			product	hypothetical protein
+37349	36969	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00080
+			product	hypothetical protein
+37737	37351	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00081
+			product	hypothetical protein
+37994	37737	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00082
+			product	hypothetical protein
+38308	37994	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00083
+			product	hypothetical protein
+38589	39188	CDS
+			gene	1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P68928
+			locus_tag	POQMFEI_00084
+			product	Terminase small subunit
+39166	39546	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00085
+			product	hypothetical protein
+39565	39813	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00086
+			product	hypothetical protein
+39876	41147	CDS
+			gene	2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54308
+			locus_tag	POQMFEI_00087
+			product	Large terminase protein
+41204	42739	CDS
+			gene	6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54309
+			locus_tag	POQMFEI_00088
+			product	Portal protein
+42751	43506	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00089
+			product	hypothetical protein
+43617	44291	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00090
+			product	hypothetical protein
+44340	45146	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A9CRA7
+			locus_tag	POQMFEI_00091
+			product	Putative major head protein
+45301	45741	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00092
+			product	hypothetical protein
+45801	46205	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00093
+			product	hypothetical protein
+46221	46598	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00094
+			product	hypothetical protein
+46583	46963	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00095
+			product	hypothetical protein
+46976	47410	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00096
+			product	hypothetical protein
+47431	48120	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00097
+			product	hypothetical protein
+48535	48939	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00098
+			product	hypothetical protein
+48952	51837	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00099
+			product	hypothetical protein
+51851	55843	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	POQMFEI_00100
+			product	hypothetical protein

@@ -1,0 +1,540 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:94 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 94 present
+DISC_FEATURE_COUNT:tRNA: 2 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:96 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:2 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:95 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::94 proteins have invalid IDs.
+./toy2/QOFMPA_03252022:TOY_1 (length 224)
+./toy2/QOFMPA_03252022:TOY_2 (length 117)
+./toy2/QOFMPA_03252022:TOY_3 (length 258)
+./toy2/QOFMPA_03252022:TOY_4 (length 454)
+./toy2/QOFMPA_03252022:TOY_5 (length 74)
+./toy2/QOFMPA_03252022:TOY_6 (length 86)
+./toy2/QOFMPA_03252022:TOY_7 (length 150)
+./toy2/QOFMPA_03252022:TOY_8 (length 342)
+./toy2/QOFMPA_03252022:TOY_9 (length 112)
+./toy2/QOFMPA_03252022:TOY_10 (length 189)
+./toy2/QOFMPA_03252022:TOY_11 (length 189)
+./toy2/QOFMPA_03252022:TOY_12 (length 210)
+./toy2/QOFMPA_03252022:TOY_13 (length 187)
+./toy2/QOFMPA_03252022:TOY_14 (length 59)
+./toy2/QOFMPA_03252022:TOY_15 (length 73)
+./toy2/QOFMPA_03252022:TOY_16 (length 69)
+./toy2/QOFMPA_03252022:TOY_17 (length 70)
+./toy2/QOFMPA_03252022:TOY_18 (length 122)
+./toy2/QOFMPA_03252022:TOY_19 (length 61)
+./toy2/QOFMPA_03252022:TOY_20 (length 843)
+./toy2/QOFMPA_03252022:TOY_21 (length 134)
+./toy2/QOFMPA_03252022:TOY_22 (length 131)
+./toy2/QOFMPA_03252022:TOY_23 (length 198)
+./toy2/QOFMPA_03252022:TOY_24 (length 210)
+./toy2/QOFMPA_03252022:TOY_25 (length 68)
+./toy2/QOFMPA_03252022:TOY_26 (length 137)
+./toy2/QOFMPA_03252022:TOY_27 (length 61)
+./toy2/QOFMPA_03252022:TOY_28 (length 62)
+./toy2/QOFMPA_03252022:TOY_29 (length 85)
+./toy2/QOFMPA_03252022:TOY_30 (length 70)
+./toy2/QOFMPA_03252022:TOY_31 (length 72)
+./toy2/QOFMPA_03252022:TOY_32 (length 63)
+./toy2/QOFMPA_03252022:TOY_33 (length 82)
+./toy2/QOFMPA_03252022:TOY_34 (length 88)
+./toy2/QOFMPA_03252022:TOY_35 (length 101)
+./toy2/QOFMPA_03252022:TOY_36 (length 123)
+./toy2/QOFMPA_03252022:TOY_37 (length 107)
+./toy2/QOFMPA_03252022:TOY_38 (length 34)
+./toy2/QOFMPA_03252022:TOY_39 (length 128)
+./toy2/QOFMPA_03252022:TOY_40 (length 123)
+./toy2/QOFMPA_03252022:TOY_41 (length 44)
+./toy2/QOFMPA_03252022:TOY_42 (length 92)
+./toy2/QOFMPA_03252022:TOY_43 (length 74)
+./toy2/QOFMPA_03252022:TOY_44 (length 144)
+./toy2/QOFMPA_03252022:TOY_45 (length 69)
+./toy2/QOFMPA_03252022:TOY_46 (length 100)
+./toy2/QOFMPA_03252022:TOY_47 (length 103)
+./toy2/QOFMPA_03252022:TOY_48 (length 69)
+./toy2/QOFMPA_03252022:TOY_49 (length 76)
+./toy2/QOFMPA_03252022:TOY_50 (length 292)
+./toy2/QOFMPA_03252022:TOY_51 (length 252)
+./toy2/QOFMPA_03252022:TOY_52 (length 101)
+./toy2/QOFMPA_03252022:TOY_53 (length 123)
+./toy2/QOFMPA_03252022:TOY_54 (length 100)
+./toy2/QOFMPA_03252022:TOY_55 (length 61)
+./toy2/QOFMPA_03252022:TOY_56 (length 86)
+./toy2/QOFMPA_03252022:TOY_57 (length 131)
+./toy2/QOFMPA_03252022:TOY_58 (length 128)
+./toy2/QOFMPA_03252022:TOY_59 (length 91)
+./toy2/QOFMPA_03252022:TOY_60 (length 103)
+./toy2/QOFMPA_03252022:TOY_61 (length 198)
+./toy2/QOFMPA_03252022:TOY_62 (length 125)
+./toy2/QOFMPA_03252022:TOY_63 (length 82)
+./toy2/QOFMPA_03252022:TOY_64 (length 423)
+./toy2/QOFMPA_03252022:TOY_65 (length 511)
+./toy2/QOFMPA_03252022:TOY_66 (length 251)
+./toy2/QOFMPA_03252022:TOY_67 (length 222)
+./toy2/QOFMPA_03252022:TOY_68 (length 268)
+./toy2/QOFMPA_03252022:TOY_69 (length 145)
+./toy2/QOFMPA_03252022:TOY_70 (length 134)
+./toy2/QOFMPA_03252022:TOY_71 (length 125)
+./toy2/QOFMPA_03252022:TOY_72 (length 126)
+./toy2/QOFMPA_03252022:TOY_73 (length 143)
+./toy2/QOFMPA_03252022:TOY_74 (length 229)
+./toy2/QOFMPA_03252022:TOY_75 (length 146)
+./toy2/QOFMPA_03252022:TOY_76 (length 74)
+./toy2/QOFMPA_03252022:TOY_77 (length 961)
+./toy2/QOFMPA_03252022:TOY_78 (length 1330)
+./toy2/QOFMPA_03252022:TOY_79 (length 816)
+./toy2/QOFMPA_03252022:TOY_80 (length 95)
+./toy2/QOFMPA_03252022:TOY_81 (length 237)
+./toy2/QOFMPA_03252022:TOY_82 (length 58)
+./toy2/QOFMPA_03252022:TOY_83 (length 142)
+./toy2/QOFMPA_03252022:TOY_84 (length 178)
+./toy2/QOFMPA_03252022:TOY_85 (length 275)
+./toy2/QOFMPA_03252022:TOY_86 (length 146)
+./toy2/QOFMPA_03252022:TOY_87 (length 131)
+./toy2/QOFMPA_03252022:TOY_88 (length 82)
+./toy2/QOFMPA_03252022:TOY_89 (length 82)
+./toy2/QOFMPA_03252022:TOY_90 (length 83)
+./toy2/QOFMPA_03252022:TOY_91 (length 71)
+./toy2/QOFMPA_03252022:TOY_92 (length 73)
+./toy2/QOFMPA_03252022:TOY_93 (length 62)
+./toy2/QOFMPA_03252022:TOY_94 (length 72)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 94 present
+DiscRep_ALL:DISC_FEATURE_COUNT::tRNA: 2 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./toy2/QOFMPA_03252022:TOY (length 57304)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::96 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:185-859	QOFMPA_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:933-1286	QOFMPA_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:1336-2112	QOFMPA_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:2124-3488	QOFMPA_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:3500-3724	QOFMPA_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:3736-3996	QOFMPA_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	DNA endonuclease I-HmuI	TOY:4069-4521	QOFMPA_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:4506-5534	QOFMPA_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:5534-5872	QOFMPA_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:5874-6443	QOFMPA_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:6440-7009	QOFMPA_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:7002-7634	QOFMPA_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:7732-8295	QOFMPA_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:8430-8609	QOFMPA_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:8610-8831	QOFMPA_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:8831-9040	QOFMPA_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:9043-9255	QOFMPA_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:9256-9624	QOFMPA_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:9628-9813	QOFMPA_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	DNA-directed DNA polymerase	TOY:9892-12423	QOFMPA_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:12499-12903	QOFMPA_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:12893-13288	QOFMPA_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:13290-13886	QOFMPA_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:13941-14573	QOFMPA_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:14585-14791	QOFMPA_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:14805-15218	QOFMPA_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:15298-15483	QOFMPA_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:15546-15734	QOFMPA_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:15734-15991	QOFMPA_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:15991-16203	QOFMPA_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:16216-16434	QOFMPA_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:16424-16615	QOFMPA_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:16678-16926	QOFMPA_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:16919-17185	QOFMPA_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:17187-17492	QOFMPA_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:17636-18007	QOFMPA_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:18924-19247	QOFMPA_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:19240-19344	QOFMPA_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:19349-19735	QOFMPA_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:19728-20099	QOFMPA_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:20179-20313	QOFMPA_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:20382-20660	QOFMPA_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:20794-21018	QOFMPA_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:21119-21553	QOFMPA_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:21540-21749	QOFMPA_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:22007-22309	QOFMPA_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:c24053-23742	QOFMPA_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:c24334-24125	QOFMPA_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:c24566-24336	QOFMPA_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:c25437-24559	QOFMPA_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	DNA endonuclease I-HmuI	TOY:c26213-25455	QOFMPA_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:c26969-26664	QOFMPA_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:c27337-26966	QOFMPA_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:c27659-27357	QOFMPA_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:c27858-27673	QOFMPA_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:c28120-27860	QOFMPA_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:c28541-28146	QOFMPA_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:c28929-28543	QOFMPA_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:c29204-28929	QOFMPA_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:c29515-29204	QOFMPA_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	Terminase small subunit	TOY:29796-30392	QOFMPA_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:30407-30784	QOFMPA_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:30803-31051	QOFMPA_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	Large terminase protein	TOY:31114-32385	QOFMPA_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	Portal protein	TOY:32444-33979	QOFMPA_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:33991-34746	QOFMPA_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:34857-35525	QOFMPA_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	Putative major head protein	TOY:35574-36380	QOFMPA_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:36535-36972	QOFMPA_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:37033-37437	QOFMPA_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:37453-37830	QOFMPA_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:37815-38195	QOFMPA_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:38208-38639	QOFMPA_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:38665-39354	QOFMPA_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:39496-39936	QOFMPA_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:39947-40171	QOFMPA_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:40184-43069	QOFMPA_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:43083-47075	QOFMPA_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:47088-49538	QOFMPA_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:49552-49839	QOFMPA_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:49887-50600	QOFMPA_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:c50825-50649	QOFMPA_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:c51409-50981	QOFMPA_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	DNA endonuclease I-HmuI	TOY:c51947-51411	QOFMPA_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:52451-53278	QOFMPA_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:53330-53770	QOFMPA_00086
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:53773-54168	QOFMPA_00087
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:54110-54358	QOFMPA_00088
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:55739-55987	QOFMPA_00091
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:56005-56256	QOFMPA_00092
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:56256-56471	QOFMPA_00093
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:56472-56693	QOFMPA_00094
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:56706-56894	QOFMPA_00095
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./toy2/QOFMPA_03252022:CDS	hypothetical protein	TOY:56907-57125	QOFMPA_00096
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+./toy2/QOFMPA_03252022:tRNA	Trp	TOY:54595-54667	QOFMPA_00089
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+./toy2/QOFMPA_03252022:tRNA	Ser	TOY:54669-54757	QOFMPA_00090
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./toy2/QOFMPA_03252022:TOY:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::2 protein sequences are shorter than 50 aa.
+./toy2/QOFMPA_03252022:TOY_38 (length 34)
+./toy2/QOFMPA_03252022:TOY_41 (length 44)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./toy2/QOFMPA_03252022:TOY (length 57304)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./toy2/QOFMPA_03252022:TOY (length 57304)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./toy2/QOFMPA_03252022:TOY (length 57304)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./toy2/QOFMPA_03252022:TOY (length 57304)
+
+DiscRep_ALL:MISSING_PROJECT::95 sequences do not include project.
+./toy2/QOFMPA_03252022:TOY (length 57304)
+./toy2/QOFMPA_03252022:TOY_1 (length 224)
+./toy2/QOFMPA_03252022:TOY_2 (length 117)
+./toy2/QOFMPA_03252022:TOY_3 (length 258)
+./toy2/QOFMPA_03252022:TOY_4 (length 454)
+./toy2/QOFMPA_03252022:TOY_5 (length 74)
+./toy2/QOFMPA_03252022:TOY_6 (length 86)
+./toy2/QOFMPA_03252022:TOY_7 (length 150)
+./toy2/QOFMPA_03252022:TOY_8 (length 342)
+./toy2/QOFMPA_03252022:TOY_9 (length 112)
+./toy2/QOFMPA_03252022:TOY_10 (length 189)
+./toy2/QOFMPA_03252022:TOY_11 (length 189)
+./toy2/QOFMPA_03252022:TOY_12 (length 210)
+./toy2/QOFMPA_03252022:TOY_13 (length 187)
+./toy2/QOFMPA_03252022:TOY_14 (length 59)
+./toy2/QOFMPA_03252022:TOY_15 (length 73)
+./toy2/QOFMPA_03252022:TOY_16 (length 69)
+./toy2/QOFMPA_03252022:TOY_17 (length 70)
+./toy2/QOFMPA_03252022:TOY_18 (length 122)
+./toy2/QOFMPA_03252022:TOY_19 (length 61)
+./toy2/QOFMPA_03252022:TOY_20 (length 843)
+./toy2/QOFMPA_03252022:TOY_21 (length 134)
+./toy2/QOFMPA_03252022:TOY_22 (length 131)
+./toy2/QOFMPA_03252022:TOY_23 (length 198)
+./toy2/QOFMPA_03252022:TOY_24 (length 210)
+./toy2/QOFMPA_03252022:TOY_25 (length 68)
+./toy2/QOFMPA_03252022:TOY_26 (length 137)
+./toy2/QOFMPA_03252022:TOY_27 (length 61)
+./toy2/QOFMPA_03252022:TOY_28 (length 62)
+./toy2/QOFMPA_03252022:TOY_29 (length 85)
+./toy2/QOFMPA_03252022:TOY_30 (length 70)
+./toy2/QOFMPA_03252022:TOY_31 (length 72)
+./toy2/QOFMPA_03252022:TOY_32 (length 63)
+./toy2/QOFMPA_03252022:TOY_33 (length 82)
+./toy2/QOFMPA_03252022:TOY_34 (length 88)
+./toy2/QOFMPA_03252022:TOY_35 (length 101)
+./toy2/QOFMPA_03252022:TOY_36 (length 123)
+./toy2/QOFMPA_03252022:TOY_37 (length 107)
+./toy2/QOFMPA_03252022:TOY_38 (length 34)
+./toy2/QOFMPA_03252022:TOY_39 (length 128)
+./toy2/QOFMPA_03252022:TOY_40 (length 123)
+./toy2/QOFMPA_03252022:TOY_41 (length 44)
+./toy2/QOFMPA_03252022:TOY_42 (length 92)
+./toy2/QOFMPA_03252022:TOY_43 (length 74)
+./toy2/QOFMPA_03252022:TOY_44 (length 144)
+./toy2/QOFMPA_03252022:TOY_45 (length 69)
+./toy2/QOFMPA_03252022:TOY_46 (length 100)
+./toy2/QOFMPA_03252022:TOY_47 (length 103)
+./toy2/QOFMPA_03252022:TOY_48 (length 69)
+./toy2/QOFMPA_03252022:TOY_49 (length 76)
+./toy2/QOFMPA_03252022:TOY_50 (length 292)
+./toy2/QOFMPA_03252022:TOY_51 (length 252)
+./toy2/QOFMPA_03252022:TOY_52 (length 101)
+./toy2/QOFMPA_03252022:TOY_53 (length 123)
+./toy2/QOFMPA_03252022:TOY_54 (length 100)
+./toy2/QOFMPA_03252022:TOY_55 (length 61)
+./toy2/QOFMPA_03252022:TOY_56 (length 86)
+./toy2/QOFMPA_03252022:TOY_57 (length 131)
+./toy2/QOFMPA_03252022:TOY_58 (length 128)
+./toy2/QOFMPA_03252022:TOY_59 (length 91)
+./toy2/QOFMPA_03252022:TOY_60 (length 103)
+./toy2/QOFMPA_03252022:TOY_61 (length 198)
+./toy2/QOFMPA_03252022:TOY_62 (length 125)
+./toy2/QOFMPA_03252022:TOY_63 (length 82)
+./toy2/QOFMPA_03252022:TOY_64 (length 423)
+./toy2/QOFMPA_03252022:TOY_65 (length 511)
+./toy2/QOFMPA_03252022:TOY_66 (length 251)
+./toy2/QOFMPA_03252022:TOY_67 (length 222)
+./toy2/QOFMPA_03252022:TOY_68 (length 268)
+./toy2/QOFMPA_03252022:TOY_69 (length 145)
+./toy2/QOFMPA_03252022:TOY_70 (length 134)
+./toy2/QOFMPA_03252022:TOY_71 (length 125)
+./toy2/QOFMPA_03252022:TOY_72 (length 126)
+./toy2/QOFMPA_03252022:TOY_73 (length 143)
+./toy2/QOFMPA_03252022:TOY_74 (length 229)
+./toy2/QOFMPA_03252022:TOY_75 (length 146)
+./toy2/QOFMPA_03252022:TOY_76 (length 74)
+./toy2/QOFMPA_03252022:TOY_77 (length 961)
+./toy2/QOFMPA_03252022:TOY_78 (length 1330)
+./toy2/QOFMPA_03252022:TOY_79 (length 816)
+./toy2/QOFMPA_03252022:TOY_80 (length 95)
+./toy2/QOFMPA_03252022:TOY_81 (length 237)
+./toy2/QOFMPA_03252022:TOY_82 (length 58)
+./toy2/QOFMPA_03252022:TOY_83 (length 142)
+./toy2/QOFMPA_03252022:TOY_84 (length 178)
+./toy2/QOFMPA_03252022:TOY_85 (length 275)
+./toy2/QOFMPA_03252022:TOY_86 (length 146)
+./toy2/QOFMPA_03252022:TOY_87 (length 131)
+./toy2/QOFMPA_03252022:TOY_88 (length 82)
+./toy2/QOFMPA_03252022:TOY_89 (length 82)
+./toy2/QOFMPA_03252022:TOY_90 (length 83)
+./toy2/QOFMPA_03252022:TOY_91 (length 71)
+./toy2/QOFMPA_03252022:TOY_92 (length 73)
+./toy2/QOFMPA_03252022:TOY_93 (length 62)
+./toy2/QOFMPA_03252022:TOY_94 (length 72)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./toy2/QOFMPA_03252022:TOY (length 57304)
+

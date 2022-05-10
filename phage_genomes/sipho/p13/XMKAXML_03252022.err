@@ -1,0 +1,559 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:98 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 98 present
+DISC_FEATURE_COUNT:tRNA: 1 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:99 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:4 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:99 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::98 proteins have invalid IDs.
+./p13/XMKAXML_03252022:vB_OCPT_P13_1 (length 79)
+./p13/XMKAXML_03252022:vB_OCPT_P13_2 (length 34)
+./p13/XMKAXML_03252022:vB_OCPT_P13_3 (length 128)
+./p13/XMKAXML_03252022:vB_OCPT_P13_4 (length 124)
+./p13/XMKAXML_03252022:vB_OCPT_P13_5 (length 45)
+./p13/XMKAXML_03252022:vB_OCPT_P13_6 (length 75)
+./p13/XMKAXML_03252022:vB_OCPT_P13_7 (length 144)
+./p13/XMKAXML_03252022:vB_OCPT_P13_8 (length 106)
+./p13/XMKAXML_03252022:vB_OCPT_P13_9 (length 103)
+./p13/XMKAXML_03252022:vB_OCPT_P13_10 (length 100)
+./p13/XMKAXML_03252022:vB_OCPT_P13_11 (length 70)
+./p13/XMKAXML_03252022:vB_OCPT_P13_12 (length 72)
+./p13/XMKAXML_03252022:vB_OCPT_P13_13 (length 269)
+./p13/XMKAXML_03252022:vB_OCPT_P13_14 (length 123)
+./p13/XMKAXML_03252022:vB_OCPT_P13_15 (length 100)
+./p13/XMKAXML_03252022:vB_OCPT_P13_16 (length 86)
+./p13/XMKAXML_03252022:vB_OCPT_P13_17 (length 49)
+./p13/XMKAXML_03252022:vB_OCPT_P13_18 (length 126)
+./p13/XMKAXML_03252022:vB_OCPT_P13_19 (length 128)
+./p13/XMKAXML_03252022:vB_OCPT_P13_20 (length 85)
+./p13/XMKAXML_03252022:vB_OCPT_P13_21 (length 104)
+./p13/XMKAXML_03252022:vB_OCPT_P13_22 (length 199)
+./p13/XMKAXML_03252022:vB_OCPT_P13_23 (length 126)
+./p13/XMKAXML_03252022:vB_OCPT_P13_24 (length 82)
+./p13/XMKAXML_03252022:vB_OCPT_P13_25 (length 423)
+./p13/XMKAXML_03252022:vB_OCPT_P13_26 (length 511)
+./p13/XMKAXML_03252022:vB_OCPT_P13_27 (length 251)
+./p13/XMKAXML_03252022:vB_OCPT_P13_28 (length 224)
+./p13/XMKAXML_03252022:vB_OCPT_P13_29 (length 268)
+./p13/XMKAXML_03252022:vB_OCPT_P13_30 (length 146)
+./p13/XMKAXML_03252022:vB_OCPT_P13_31 (length 134)
+./p13/XMKAXML_03252022:vB_OCPT_P13_32 (length 125)
+./p13/XMKAXML_03252022:vB_OCPT_P13_33 (length 126)
+./p13/XMKAXML_03252022:vB_OCPT_P13_34 (length 144)
+./p13/XMKAXML_03252022:vB_OCPT_P13_35 (length 229)
+./p13/XMKAXML_03252022:vB_OCPT_P13_36 (length 146)
+./p13/XMKAXML_03252022:vB_OCPT_P13_37 (length 961)
+./p13/XMKAXML_03252022:vB_OCPT_P13_38 (length 1330)
+./p13/XMKAXML_03252022:vB_OCPT_P13_39 (length 816)
+./p13/XMKAXML_03252022:vB_OCPT_P13_40 (length 95)
+./p13/XMKAXML_03252022:vB_OCPT_P13_41 (length 237)
+./p13/XMKAXML_03252022:vB_OCPT_P13_42 (length 135)
+./p13/XMKAXML_03252022:vB_OCPT_P13_43 (length 142)
+./p13/XMKAXML_03252022:vB_OCPT_P13_44 (length 67)
+./p13/XMKAXML_03252022:vB_OCPT_P13_45 (length 275)
+./p13/XMKAXML_03252022:vB_OCPT_P13_46 (length 146)
+./p13/XMKAXML_03252022:vB_OCPT_P13_47 (length 131)
+./p13/XMKAXML_03252022:vB_OCPT_P13_48 (length 66)
+./p13/XMKAXML_03252022:vB_OCPT_P13_49 (length 54)
+./p13/XMKAXML_03252022:vB_OCPT_P13_50 (length 48)
+./p13/XMKAXML_03252022:vB_OCPT_P13_51 (length 80)
+./p13/XMKAXML_03252022:vB_OCPT_P13_52 (length 83)
+./p13/XMKAXML_03252022:vB_OCPT_P13_53 (length 106)
+./p13/XMKAXML_03252022:vB_OCPT_P13_54 (length 62)
+./p13/XMKAXML_03252022:vB_OCPT_P13_55 (length 70)
+./p13/XMKAXML_03252022:vB_OCPT_P13_56 (length 314)
+./p13/XMKAXML_03252022:vB_OCPT_P13_57 (length 117)
+./p13/XMKAXML_03252022:vB_OCPT_P13_58 (length 258)
+./p13/XMKAXML_03252022:vB_OCPT_P13_59 (length 454)
+./p13/XMKAXML_03252022:vB_OCPT_P13_60 (length 250)
+./p13/XMKAXML_03252022:vB_OCPT_P13_61 (length 74)
+./p13/XMKAXML_03252022:vB_OCPT_P13_62 (length 146)
+./p13/XMKAXML_03252022:vB_OCPT_P13_63 (length 342)
+./p13/XMKAXML_03252022:vB_OCPT_P13_64 (length 111)
+./p13/XMKAXML_03252022:vB_OCPT_P13_65 (length 189)
+./p13/XMKAXML_03252022:vB_OCPT_P13_66 (length 197)
+./p13/XMKAXML_03252022:vB_OCPT_P13_67 (length 190)
+./p13/XMKAXML_03252022:vB_OCPT_P13_68 (length 210)
+./p13/XMKAXML_03252022:vB_OCPT_P13_69 (length 187)
+./p13/XMKAXML_03252022:vB_OCPT_P13_70 (length 99)
+./p13/XMKAXML_03252022:vB_OCPT_P13_71 (length 58)
+./p13/XMKAXML_03252022:vB_OCPT_P13_72 (length 64)
+./p13/XMKAXML_03252022:vB_OCPT_P13_73 (length 74)
+./p13/XMKAXML_03252022:vB_OCPT_P13_74 (length 69)
+./p13/XMKAXML_03252022:vB_OCPT_P13_75 (length 70)
+./p13/XMKAXML_03252022:vB_OCPT_P13_76 (length 124)
+./p13/XMKAXML_03252022:vB_OCPT_P13_77 (length 61)
+./p13/XMKAXML_03252022:vB_OCPT_P13_78 (length 784)
+./p13/XMKAXML_03252022:vB_OCPT_P13_79 (length 178)
+./p13/XMKAXML_03252022:vB_OCPT_P13_80 (length 63)
+./p13/XMKAXML_03252022:vB_OCPT_P13_81 (length 143)
+./p13/XMKAXML_03252022:vB_OCPT_P13_82 (length 131)
+./p13/XMKAXML_03252022:vB_OCPT_P13_83 (length 231)
+./p13/XMKAXML_03252022:vB_OCPT_P13_84 (length 134)
+./p13/XMKAXML_03252022:vB_OCPT_P13_85 (length 78)
+./p13/XMKAXML_03252022:vB_OCPT_P13_86 (length 107)
+./p13/XMKAXML_03252022:vB_OCPT_P13_87 (length 194)
+./p13/XMKAXML_03252022:vB_OCPT_P13_88 (length 66)
+./p13/XMKAXML_03252022:vB_OCPT_P13_89 (length 147)
+./p13/XMKAXML_03252022:vB_OCPT_P13_90 (length 64)
+./p13/XMKAXML_03252022:vB_OCPT_P13_91 (length 86)
+./p13/XMKAXML_03252022:vB_OCPT_P13_92 (length 70)
+./p13/XMKAXML_03252022:vB_OCPT_P13_93 (length 72)
+./p13/XMKAXML_03252022:vB_OCPT_P13_94 (length 69)
+./p13/XMKAXML_03252022:vB_OCPT_P13_95 (length 82)
+./p13/XMKAXML_03252022:vB_OCPT_P13_96 (length 89)
+./p13/XMKAXML_03252022:vB_OCPT_P13_97 (length 97)
+./p13/XMKAXML_03252022:vB_OCPT_P13_98 (length 101)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 98 present
+DiscRep_ALL:DISC_FEATURE_COUNT::tRNA: 1 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./p13/XMKAXML_03252022:vB_OCPT_P13 (length 57775)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::99 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:778-1017	XMKAXML_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:1010-1114	XMKAXML_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:1118-1504	XMKAXML_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:1497-1871	XMKAXML_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:1950-2087	XMKAXML_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:2154-2381	XMKAXML_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:2517-2951	XMKAXML_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:3027-3347	XMKAXML_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:3428-3739	XMKAXML_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:3849-4151	XMKAXML_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:c5784-5572	XMKAXML_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:c6004-5786	XMKAXML_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:c6814-6005	XMKAXML_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:c7637-7266	XMKAXML_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:c7959-7657	XMKAXML_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:c8221-7961	XMKAXML_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:c8383-8234	XMKAXML_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:c8767-8387	XMKAXML_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:c9155-8769	XMKAXML_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:c9412-9155	XMKAXML_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:c9726-9412	XMKAXML_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	Terminase small subunit	vB_OCPT_P13:10007-10606	XMKAXML_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:10584-10964	XMKAXML_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:10983-11231	XMKAXML_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	Large terminase protein	vB_OCPT_P13:11294-12565	XMKAXML_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	Portal protein	vB_OCPT_P13:12622-14157	XMKAXML_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:14169-14924	XMKAXML_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:15035-15709	XMKAXML_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	Putative major head protein	vB_OCPT_P13:15758-16564	XMKAXML_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:16719-17159	XMKAXML_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:17219-17623	XMKAXML_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:17639-18016	XMKAXML_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:18001-18381	XMKAXML_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:18394-18828	XMKAXML_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:18849-19538	XMKAXML_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:19682-20122	XMKAXML_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:20370-23255	XMKAXML_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:23269-27261	XMKAXML_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:27274-29724	XMKAXML_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:29738-30025	XMKAXML_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:30073-30786	XMKAXML_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:c31242-30835	XMKAXML_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:c31697-31269	XMKAXML_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:c31902-31699	XMKAXML_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:32412-33239	XMKAXML_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:33291-33731	XMKAXML_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:33734-34129	XMKAXML_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:34119-34319	XMKAXML_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:35373-35537	XMKAXML_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:35550-35696	XMKAXML_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:35699-35941	XMKAXML_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:35941-36192	XMKAXML_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:36192-36512	XMKAXML_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:36512-36700	XMKAXML_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:36712-36924	XMKAXML_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:36954-37898	XMKAXML_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:37973-38326	XMKAXML_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:38375-39151	XMKAXML_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:39163-40527	XMKAXML_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:40540-41292	XMKAXML_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:41258-41482	XMKAXML_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	DNA endonuclease I-HmuI	vB_OCPT_P13:41555-41995	XMKAXML_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:41988-43016	XMKAXML_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:43016-43351	XMKAXML_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:43348-43917	XMKAXML_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	DNA endonuclease I-HmuI	vB_OCPT_P13:43914-44507	XMKAXML_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:44500-45072	XMKAXML_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:45065-45697	XMKAXML_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:45789-46352	XMKAXML_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:46390-46689	XMKAXML_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:46703-46879	XMKAXML_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:46892-47086	XMKAXML_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:47101-47325	XMKAXML_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:47322-47531	XMKAXML_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:47534-47746	XMKAXML_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:47747-48121	XMKAXML_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:48125-48310	XMKAXML_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	DNA-directed DNA polymerase	vB_OCPT_P13:48391-50745	XMKAXML_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:50738-51274	XMKAXML_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:51358-51549	XMKAXML_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:51562-51993	XMKAXML_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:51995-52390	XMKAXML_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:52383-53078	XMKAXML_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:53137-53541	XMKAXML_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:53525-53761	XMKAXML_00086
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:53731-54054	XMKAXML_00087
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:54077-54661	XMKAXML_00088
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:54672-54872	XMKAXML_00089
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:54885-55328	XMKAXML_00090
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:55405-55599	XMKAXML_00091
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:55596-55856	XMKAXML_00092
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:55856-56068	XMKAXML_00093
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:56081-56299	XMKAXML_00094
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:56289-56498	XMKAXML_00095
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:56512-56760	XMKAXML_00096
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:56753-57022	XMKAXML_00097
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:57019-57312	XMKAXML_00098
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p13/XMKAXML_03252022:CDS	hypothetical protein	vB_OCPT_P13:57314-57619	XMKAXML_00099
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+./p13/XMKAXML_03252022:tRNA	Trp	vB_OCPT_P13:34378-34449	XMKAXML_00049
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./p13/XMKAXML_03252022:vB_OCPT_P13:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::4 protein sequences are shorter than 50 aa.
+./p13/XMKAXML_03252022:vB_OCPT_P13_2 (length 34)
+./p13/XMKAXML_03252022:vB_OCPT_P13_5 (length 45)
+./p13/XMKAXML_03252022:vB_OCPT_P13_17 (length 49)
+./p13/XMKAXML_03252022:vB_OCPT_P13_50 (length 48)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./p13/XMKAXML_03252022:vB_OCPT_P13 (length 57775)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./p13/XMKAXML_03252022:vB_OCPT_P13 (length 57775)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./p13/XMKAXML_03252022:vB_OCPT_P13 (length 57775)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./p13/XMKAXML_03252022:vB_OCPT_P13 (length 57775)
+
+DiscRep_ALL:MISSING_PROJECT::99 sequences do not include project.
+./p13/XMKAXML_03252022:vB_OCPT_P13 (length 57775)
+./p13/XMKAXML_03252022:vB_OCPT_P13_1 (length 79)
+./p13/XMKAXML_03252022:vB_OCPT_P13_2 (length 34)
+./p13/XMKAXML_03252022:vB_OCPT_P13_3 (length 128)
+./p13/XMKAXML_03252022:vB_OCPT_P13_4 (length 124)
+./p13/XMKAXML_03252022:vB_OCPT_P13_5 (length 45)
+./p13/XMKAXML_03252022:vB_OCPT_P13_6 (length 75)
+./p13/XMKAXML_03252022:vB_OCPT_P13_7 (length 144)
+./p13/XMKAXML_03252022:vB_OCPT_P13_8 (length 106)
+./p13/XMKAXML_03252022:vB_OCPT_P13_9 (length 103)
+./p13/XMKAXML_03252022:vB_OCPT_P13_10 (length 100)
+./p13/XMKAXML_03252022:vB_OCPT_P13_11 (length 70)
+./p13/XMKAXML_03252022:vB_OCPT_P13_12 (length 72)
+./p13/XMKAXML_03252022:vB_OCPT_P13_13 (length 269)
+./p13/XMKAXML_03252022:vB_OCPT_P13_14 (length 123)
+./p13/XMKAXML_03252022:vB_OCPT_P13_15 (length 100)
+./p13/XMKAXML_03252022:vB_OCPT_P13_16 (length 86)
+./p13/XMKAXML_03252022:vB_OCPT_P13_17 (length 49)
+./p13/XMKAXML_03252022:vB_OCPT_P13_18 (length 126)
+./p13/XMKAXML_03252022:vB_OCPT_P13_19 (length 128)
+./p13/XMKAXML_03252022:vB_OCPT_P13_20 (length 85)
+./p13/XMKAXML_03252022:vB_OCPT_P13_21 (length 104)
+./p13/XMKAXML_03252022:vB_OCPT_P13_22 (length 199)
+./p13/XMKAXML_03252022:vB_OCPT_P13_23 (length 126)
+./p13/XMKAXML_03252022:vB_OCPT_P13_24 (length 82)
+./p13/XMKAXML_03252022:vB_OCPT_P13_25 (length 423)
+./p13/XMKAXML_03252022:vB_OCPT_P13_26 (length 511)
+./p13/XMKAXML_03252022:vB_OCPT_P13_27 (length 251)
+./p13/XMKAXML_03252022:vB_OCPT_P13_28 (length 224)
+./p13/XMKAXML_03252022:vB_OCPT_P13_29 (length 268)
+./p13/XMKAXML_03252022:vB_OCPT_P13_30 (length 146)
+./p13/XMKAXML_03252022:vB_OCPT_P13_31 (length 134)
+./p13/XMKAXML_03252022:vB_OCPT_P13_32 (length 125)
+./p13/XMKAXML_03252022:vB_OCPT_P13_33 (length 126)
+./p13/XMKAXML_03252022:vB_OCPT_P13_34 (length 144)
+./p13/XMKAXML_03252022:vB_OCPT_P13_35 (length 229)
+./p13/XMKAXML_03252022:vB_OCPT_P13_36 (length 146)
+./p13/XMKAXML_03252022:vB_OCPT_P13_37 (length 961)
+./p13/XMKAXML_03252022:vB_OCPT_P13_38 (length 1330)
+./p13/XMKAXML_03252022:vB_OCPT_P13_39 (length 816)
+./p13/XMKAXML_03252022:vB_OCPT_P13_40 (length 95)
+./p13/XMKAXML_03252022:vB_OCPT_P13_41 (length 237)
+./p13/XMKAXML_03252022:vB_OCPT_P13_42 (length 135)
+./p13/XMKAXML_03252022:vB_OCPT_P13_43 (length 142)
+./p13/XMKAXML_03252022:vB_OCPT_P13_44 (length 67)
+./p13/XMKAXML_03252022:vB_OCPT_P13_45 (length 275)
+./p13/XMKAXML_03252022:vB_OCPT_P13_46 (length 146)
+./p13/XMKAXML_03252022:vB_OCPT_P13_47 (length 131)
+./p13/XMKAXML_03252022:vB_OCPT_P13_48 (length 66)
+./p13/XMKAXML_03252022:vB_OCPT_P13_49 (length 54)
+./p13/XMKAXML_03252022:vB_OCPT_P13_50 (length 48)
+./p13/XMKAXML_03252022:vB_OCPT_P13_51 (length 80)
+./p13/XMKAXML_03252022:vB_OCPT_P13_52 (length 83)
+./p13/XMKAXML_03252022:vB_OCPT_P13_53 (length 106)
+./p13/XMKAXML_03252022:vB_OCPT_P13_54 (length 62)
+./p13/XMKAXML_03252022:vB_OCPT_P13_55 (length 70)
+./p13/XMKAXML_03252022:vB_OCPT_P13_56 (length 314)
+./p13/XMKAXML_03252022:vB_OCPT_P13_57 (length 117)
+./p13/XMKAXML_03252022:vB_OCPT_P13_58 (length 258)
+./p13/XMKAXML_03252022:vB_OCPT_P13_59 (length 454)
+./p13/XMKAXML_03252022:vB_OCPT_P13_60 (length 250)
+./p13/XMKAXML_03252022:vB_OCPT_P13_61 (length 74)
+./p13/XMKAXML_03252022:vB_OCPT_P13_62 (length 146)
+./p13/XMKAXML_03252022:vB_OCPT_P13_63 (length 342)
+./p13/XMKAXML_03252022:vB_OCPT_P13_64 (length 111)
+./p13/XMKAXML_03252022:vB_OCPT_P13_65 (length 189)
+./p13/XMKAXML_03252022:vB_OCPT_P13_66 (length 197)
+./p13/XMKAXML_03252022:vB_OCPT_P13_67 (length 190)
+./p13/XMKAXML_03252022:vB_OCPT_P13_68 (length 210)
+./p13/XMKAXML_03252022:vB_OCPT_P13_69 (length 187)
+./p13/XMKAXML_03252022:vB_OCPT_P13_70 (length 99)
+./p13/XMKAXML_03252022:vB_OCPT_P13_71 (length 58)
+./p13/XMKAXML_03252022:vB_OCPT_P13_72 (length 64)
+./p13/XMKAXML_03252022:vB_OCPT_P13_73 (length 74)
+./p13/XMKAXML_03252022:vB_OCPT_P13_74 (length 69)
+./p13/XMKAXML_03252022:vB_OCPT_P13_75 (length 70)
+./p13/XMKAXML_03252022:vB_OCPT_P13_76 (length 124)
+./p13/XMKAXML_03252022:vB_OCPT_P13_77 (length 61)
+./p13/XMKAXML_03252022:vB_OCPT_P13_78 (length 784)
+./p13/XMKAXML_03252022:vB_OCPT_P13_79 (length 178)
+./p13/XMKAXML_03252022:vB_OCPT_P13_80 (length 63)
+./p13/XMKAXML_03252022:vB_OCPT_P13_81 (length 143)
+./p13/XMKAXML_03252022:vB_OCPT_P13_82 (length 131)
+./p13/XMKAXML_03252022:vB_OCPT_P13_83 (length 231)
+./p13/XMKAXML_03252022:vB_OCPT_P13_84 (length 134)
+./p13/XMKAXML_03252022:vB_OCPT_P13_85 (length 78)
+./p13/XMKAXML_03252022:vB_OCPT_P13_86 (length 107)
+./p13/XMKAXML_03252022:vB_OCPT_P13_87 (length 194)
+./p13/XMKAXML_03252022:vB_OCPT_P13_88 (length 66)
+./p13/XMKAXML_03252022:vB_OCPT_P13_89 (length 147)
+./p13/XMKAXML_03252022:vB_OCPT_P13_90 (length 64)
+./p13/XMKAXML_03252022:vB_OCPT_P13_91 (length 86)
+./p13/XMKAXML_03252022:vB_OCPT_P13_92 (length 70)
+./p13/XMKAXML_03252022:vB_OCPT_P13_93 (length 72)
+./p13/XMKAXML_03252022:vB_OCPT_P13_94 (length 69)
+./p13/XMKAXML_03252022:vB_OCPT_P13_95 (length 82)
+./p13/XMKAXML_03252022:vB_OCPT_P13_96 (length 89)
+./p13/XMKAXML_03252022:vB_OCPT_P13_97 (length 97)
+./p13/XMKAXML_03252022:vB_OCPT_P13_98 (length 101)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./p13/XMKAXML_03252022:vB_OCPT_P13 (length 57775)
+

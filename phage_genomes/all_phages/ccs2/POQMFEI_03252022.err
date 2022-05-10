@@ -1,0 +1,562 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:97 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 97 present
+DISC_FEATURE_COUNT:tRNA: 3 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:100 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:6 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:98 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::97 proteins have invalid IDs.
+./ccs2/POQMFEI_03252022:CCS2_1 (length 190)
+./ccs2/POQMFEI_03252022:CCS2_2 (length 117)
+./ccs2/POQMFEI_03252022:CCS2_3 (length 237)
+./ccs2/POQMFEI_03252022:CCS2_4 (length 142)
+./ccs2/POQMFEI_03252022:CCS2_5 (length 274)
+./ccs2/POQMFEI_03252022:CCS2_6 (length 144)
+./ccs2/POQMFEI_03252022:CCS2_7 (length 128)
+./ccs2/POQMFEI_03252022:CCS2_8 (length 66)
+./ccs2/POQMFEI_03252022:CCS2_9 (length 41)
+./ccs2/POQMFEI_03252022:CCS2_10 (length 54)
+./ccs2/POQMFEI_03252022:CCS2_11 (length 112)
+./ccs2/POQMFEI_03252022:CCS2_12 (length 48)
+./ccs2/POQMFEI_03252022:CCS2_13 (length 83)
+./ccs2/POQMFEI_03252022:CCS2_14 (length 50)
+./ccs2/POQMFEI_03252022:CCS2_15 (length 62)
+./ccs2/POQMFEI_03252022:CCS2_16 (length 70)
+./ccs2/POQMFEI_03252022:CCS2_17 (length 314)
+./ccs2/POQMFEI_03252022:CCS2_18 (length 117)
+./ccs2/POQMFEI_03252022:CCS2_19 (length 258)
+./ccs2/POQMFEI_03252022:CCS2_20 (length 454)
+./ccs2/POQMFEI_03252022:CCS2_21 (length 250)
+./ccs2/POQMFEI_03252022:CCS2_22 (length 74)
+./ccs2/POQMFEI_03252022:CCS2_23 (length 86)
+./ccs2/POQMFEI_03252022:CCS2_24 (length 146)
+./ccs2/POQMFEI_03252022:CCS2_25 (length 342)
+./ccs2/POQMFEI_03252022:CCS2_26 (length 111)
+./ccs2/POQMFEI_03252022:CCS2_27 (length 188)
+./ccs2/POQMFEI_03252022:CCS2_28 (length 189)
+./ccs2/POQMFEI_03252022:CCS2_29 (length 210)
+./ccs2/POQMFEI_03252022:CCS2_30 (length 187)
+./ccs2/POQMFEI_03252022:CCS2_31 (length 38)
+./ccs2/POQMFEI_03252022:CCS2_32 (length 64)
+./ccs2/POQMFEI_03252022:CCS2_33 (length 74)
+./ccs2/POQMFEI_03252022:CCS2_34 (length 69)
+./ccs2/POQMFEI_03252022:CCS2_35 (length 69)
+./ccs2/POQMFEI_03252022:CCS2_36 (length 125)
+./ccs2/POQMFEI_03252022:CCS2_37 (length 61)
+./ccs2/POQMFEI_03252022:CCS2_38 (length 783)
+./ccs2/POQMFEI_03252022:CCS2_39 (length 63)
+./ccs2/POQMFEI_03252022:CCS2_40 (length 143)
+./ccs2/POQMFEI_03252022:CCS2_41 (length 130)
+./ccs2/POQMFEI_03252022:CCS2_42 (length 231)
+./ccs2/POQMFEI_03252022:CCS2_43 (length 127)
+./ccs2/POQMFEI_03252022:CCS2_44 (length 152)
+./ccs2/POQMFEI_03252022:CCS2_45 (length 274)
+./ccs2/POQMFEI_03252022:CCS2_46 (length 66)
+./ccs2/POQMFEI_03252022:CCS2_47 (length 147)
+./ccs2/POQMFEI_03252022:CCS2_48 (length 64)
+./ccs2/POQMFEI_03252022:CCS2_49 (length 86)
+./ccs2/POQMFEI_03252022:CCS2_50 (length 70)
+./ccs2/POQMFEI_03252022:CCS2_51 (length 72)
+./ccs2/POQMFEI_03252022:CCS2_52 (length 69)
+./ccs2/POQMFEI_03252022:CCS2_53 (length 88)
+./ccs2/POQMFEI_03252022:CCS2_54 (length 101)
+./ccs2/POQMFEI_03252022:CCS2_55 (length 170)
+./ccs2/POQMFEI_03252022:CCS2_56 (length 97)
+./ccs2/POQMFEI_03252022:CCS2_57 (length 107)
+./ccs2/POQMFEI_03252022:CCS2_58 (length 34)
+./ccs2/POQMFEI_03252022:CCS2_59 (length 128)
+./ccs2/POQMFEI_03252022:CCS2_60 (length 124)
+./ccs2/POQMFEI_03252022:CCS2_61 (length 45)
+./ccs2/POQMFEI_03252022:CCS2_62 (length 75)
+./ccs2/POQMFEI_03252022:CCS2_63 (length 144)
+./ccs2/POQMFEI_03252022:CCS2_64 (length 69)
+./ccs2/POQMFEI_03252022:CCS2_65 (length 56)
+./ccs2/POQMFEI_03252022:CCS2_66 (length 60)
+./ccs2/POQMFEI_03252022:CCS2_67 (length 88)
+./ccs2/POQMFEI_03252022:CCS2_68 (length 90)
+./ccs2/POQMFEI_03252022:CCS2_69 (length 100)
+./ccs2/POQMFEI_03252022:CCS2_70 (length 70)
+./ccs2/POQMFEI_03252022:CCS2_71 (length 72)
+./ccs2/POQMFEI_03252022:CCS2_72 (length 277)
+./ccs2/POQMFEI_03252022:CCS2_73 (length 123)
+./ccs2/POQMFEI_03252022:CCS2_74 (length 100)
+./ccs2/POQMFEI_03252022:CCS2_75 (length 86)
+./ccs2/POQMFEI_03252022:CCS2_76 (length 45)
+./ccs2/POQMFEI_03252022:CCS2_77 (length 126)
+./ccs2/POQMFEI_03252022:CCS2_78 (length 128)
+./ccs2/POQMFEI_03252022:CCS2_79 (length 85)
+./ccs2/POQMFEI_03252022:CCS2_80 (length 104)
+./ccs2/POQMFEI_03252022:CCS2_81 (length 199)
+./ccs2/POQMFEI_03252022:CCS2_82 (length 126)
+./ccs2/POQMFEI_03252022:CCS2_83 (length 82)
+./ccs2/POQMFEI_03252022:CCS2_84 (length 423)
+./ccs2/POQMFEI_03252022:CCS2_85 (length 511)
+./ccs2/POQMFEI_03252022:CCS2_86 (length 251)
+./ccs2/POQMFEI_03252022:CCS2_87 (length 224)
+./ccs2/POQMFEI_03252022:CCS2_88 (length 268)
+./ccs2/POQMFEI_03252022:CCS2_89 (length 146)
+./ccs2/POQMFEI_03252022:CCS2_90 (length 134)
+./ccs2/POQMFEI_03252022:CCS2_91 (length 125)
+./ccs2/POQMFEI_03252022:CCS2_92 (length 126)
+./ccs2/POQMFEI_03252022:CCS2_93 (length 144)
+./ccs2/POQMFEI_03252022:CCS2_94 (length 229)
+./ccs2/POQMFEI_03252022:CCS2_95 (length 134)
+./ccs2/POQMFEI_03252022:CCS2_96 (length 961)
+./ccs2/POQMFEI_03252022:CCS2_97 (length 1330)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 97 present
+DiscRep_ALL:DISC_FEATURE_COUNT::tRNA: 3 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./ccs2/POQMFEI_03252022:CCS2 (length 57735)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::100 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:54-626	POQMFEI_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:574-927	POQMFEI_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:974-1687	POQMFEI_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:c2399-1971	POQMFEI_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:2906-3730	POQMFEI_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:3783-4217	POQMFEI_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:4220-4606	POQMFEI_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:4606-4806	POQMFEI_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:5139-5264	POQMFEI_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:6060-6224	POQMFEI_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:6238-6576	POQMFEI_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:6579-6725	POQMFEI_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:6725-6976	POQMFEI_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:6976-7128	POQMFEI_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:7142-7330	POQMFEI_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:7342-7554	POQMFEI_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:7584-8528	POQMFEI_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:8603-8956	POQMFEI_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:9005-9781	POQMFEI_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:9793-11157	POQMFEI_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:11170-11922	POQMFEI_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:11888-12112	POQMFEI_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:12124-12384	POQMFEI_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	DNA endonuclease I-HmuI	CCS2:12457-12897	POQMFEI_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:12890-13918	POQMFEI_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:13918-14253	POQMFEI_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:14250-14816	POQMFEI_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:14816-15385	POQMFEI_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:15378-16010	POQMFEI_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:16102-16665	POQMFEI_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:16873-16989	POQMFEI_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:17001-17195	POQMFEI_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:17210-17434	POQMFEI_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:17431-17640	POQMFEI_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:17643-17852	POQMFEI_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:17853-18230	POQMFEI_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:18230-18415	POQMFEI_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	DNA-directed DNA polymerase	CCS2:18494-20845	POQMFEI_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:20920-21111	POQMFEI_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:21124-21555	POQMFEI_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:21557-21949	POQMFEI_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:21942-22637	POQMFEI_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:22696-23079	POQMFEI_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:23080-23538	POQMFEI_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:23539-24363	POQMFEI_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:24374-24574	POQMFEI_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:24587-25030	POQMFEI_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:25107-25301	POQMFEI_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:25298-25558	POQMFEI_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:25558-25770	POQMFEI_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:25783-26001	POQMFEI_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:25991-26200	POQMFEI_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:26454-26720	POQMFEI_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:26722-27027	POQMFEI_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:27030-27542	POQMFEI_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:28276-28569	POQMFEI_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:28670-28993	POQMFEI_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:28986-29090	POQMFEI_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:29092-29478	POQMFEI_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:29471-29845	POQMFEI_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:29923-30060	POQMFEI_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:30127-30354	POQMFEI_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:30490-30924	POQMFEI_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:30911-31120	POQMFEI_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:31194-31364	POQMFEI_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:31387-31569	POQMFEI_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:31586-31852	POQMFEI_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:31934-32206	POQMFEI_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:32318-32620	POQMFEI_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:c34252-34040	POQMFEI_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:c34472-34254	POQMFEI_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:c35306-34473	POQMFEI_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:c36129-35758	POQMFEI_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:c36451-36149	POQMFEI_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:c36713-36453	POQMFEI_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:c36875-36738	POQMFEI_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:c37349-36969	POQMFEI_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:c37737-37351	POQMFEI_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:c37994-37737	POQMFEI_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:c38308-37994	POQMFEI_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	Terminase small subunit	CCS2:38589-39188	POQMFEI_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:39166-39546	POQMFEI_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:39565-39813	POQMFEI_00086
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	Large terminase protein	CCS2:39876-41147	POQMFEI_00087
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	Portal protein	CCS2:41204-42739	POQMFEI_00088
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:42751-43506	POQMFEI_00089
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:43617-44291	POQMFEI_00090
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	Putative major head protein	CCS2:44340-45146	POQMFEI_00091
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:45301-45741	POQMFEI_00092
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:45801-46205	POQMFEI_00093
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:46221-46598	POQMFEI_00094
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:46583-46963	POQMFEI_00095
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:46976-47410	POQMFEI_00096
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:47431-48120	POQMFEI_00097
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:48535-48939	POQMFEI_00098
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:48952-51837	POQMFEI_00099
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./ccs2/POQMFEI_03252022:CDS	hypothetical protein	CCS2:51851-55843	POQMFEI_00100
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+./ccs2/POQMFEI_03252022:tRNA	Trp	CCS2:4864-4937	POQMFEI_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+./ccs2/POQMFEI_03252022:tRNA	Tyr	CCS2:4939-5020	POQMFEI_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+./ccs2/POQMFEI_03252022:tRNA	Ser	CCS2:5022-5110	POQMFEI_00011
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./ccs2/POQMFEI_03252022:CCS2:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::6 protein sequences are shorter than 50 aa.
+./ccs2/POQMFEI_03252022:CCS2_9 (length 41)
+./ccs2/POQMFEI_03252022:CCS2_12 (length 48)
+./ccs2/POQMFEI_03252022:CCS2_31 (length 38)
+./ccs2/POQMFEI_03252022:CCS2_58 (length 34)
+./ccs2/POQMFEI_03252022:CCS2_61 (length 45)
+./ccs2/POQMFEI_03252022:CCS2_76 (length 45)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./ccs2/POQMFEI_03252022:CCS2 (length 57735)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./ccs2/POQMFEI_03252022:CCS2 (length 57735)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./ccs2/POQMFEI_03252022:CCS2 (length 57735)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./ccs2/POQMFEI_03252022:CCS2 (length 57735)
+
+DiscRep_ALL:MISSING_PROJECT::98 sequences do not include project.
+./ccs2/POQMFEI_03252022:CCS2 (length 57735)
+./ccs2/POQMFEI_03252022:CCS2_1 (length 190)
+./ccs2/POQMFEI_03252022:CCS2_2 (length 117)
+./ccs2/POQMFEI_03252022:CCS2_3 (length 237)
+./ccs2/POQMFEI_03252022:CCS2_4 (length 142)
+./ccs2/POQMFEI_03252022:CCS2_5 (length 274)
+./ccs2/POQMFEI_03252022:CCS2_6 (length 144)
+./ccs2/POQMFEI_03252022:CCS2_7 (length 128)
+./ccs2/POQMFEI_03252022:CCS2_8 (length 66)
+./ccs2/POQMFEI_03252022:CCS2_9 (length 41)
+./ccs2/POQMFEI_03252022:CCS2_10 (length 54)
+./ccs2/POQMFEI_03252022:CCS2_11 (length 112)
+./ccs2/POQMFEI_03252022:CCS2_12 (length 48)
+./ccs2/POQMFEI_03252022:CCS2_13 (length 83)
+./ccs2/POQMFEI_03252022:CCS2_14 (length 50)
+./ccs2/POQMFEI_03252022:CCS2_15 (length 62)
+./ccs2/POQMFEI_03252022:CCS2_16 (length 70)
+./ccs2/POQMFEI_03252022:CCS2_17 (length 314)
+./ccs2/POQMFEI_03252022:CCS2_18 (length 117)
+./ccs2/POQMFEI_03252022:CCS2_19 (length 258)
+./ccs2/POQMFEI_03252022:CCS2_20 (length 454)
+./ccs2/POQMFEI_03252022:CCS2_21 (length 250)
+./ccs2/POQMFEI_03252022:CCS2_22 (length 74)
+./ccs2/POQMFEI_03252022:CCS2_23 (length 86)
+./ccs2/POQMFEI_03252022:CCS2_24 (length 146)
+./ccs2/POQMFEI_03252022:CCS2_25 (length 342)
+./ccs2/POQMFEI_03252022:CCS2_26 (length 111)
+./ccs2/POQMFEI_03252022:CCS2_27 (length 188)
+./ccs2/POQMFEI_03252022:CCS2_28 (length 189)
+./ccs2/POQMFEI_03252022:CCS2_29 (length 210)
+./ccs2/POQMFEI_03252022:CCS2_30 (length 187)
+./ccs2/POQMFEI_03252022:CCS2_31 (length 38)
+./ccs2/POQMFEI_03252022:CCS2_32 (length 64)
+./ccs2/POQMFEI_03252022:CCS2_33 (length 74)
+./ccs2/POQMFEI_03252022:CCS2_34 (length 69)
+./ccs2/POQMFEI_03252022:CCS2_35 (length 69)
+./ccs2/POQMFEI_03252022:CCS2_36 (length 125)
+./ccs2/POQMFEI_03252022:CCS2_37 (length 61)
+./ccs2/POQMFEI_03252022:CCS2_38 (length 783)
+./ccs2/POQMFEI_03252022:CCS2_39 (length 63)
+./ccs2/POQMFEI_03252022:CCS2_40 (length 143)
+./ccs2/POQMFEI_03252022:CCS2_41 (length 130)
+./ccs2/POQMFEI_03252022:CCS2_42 (length 231)
+./ccs2/POQMFEI_03252022:CCS2_43 (length 127)
+./ccs2/POQMFEI_03252022:CCS2_44 (length 152)
+./ccs2/POQMFEI_03252022:CCS2_45 (length 274)
+./ccs2/POQMFEI_03252022:CCS2_46 (length 66)
+./ccs2/POQMFEI_03252022:CCS2_47 (length 147)
+./ccs2/POQMFEI_03252022:CCS2_48 (length 64)
+./ccs2/POQMFEI_03252022:CCS2_49 (length 86)
+./ccs2/POQMFEI_03252022:CCS2_50 (length 70)
+./ccs2/POQMFEI_03252022:CCS2_51 (length 72)
+./ccs2/POQMFEI_03252022:CCS2_52 (length 69)
+./ccs2/POQMFEI_03252022:CCS2_53 (length 88)
+./ccs2/POQMFEI_03252022:CCS2_54 (length 101)
+./ccs2/POQMFEI_03252022:CCS2_55 (length 170)
+./ccs2/POQMFEI_03252022:CCS2_56 (length 97)
+./ccs2/POQMFEI_03252022:CCS2_57 (length 107)
+./ccs2/POQMFEI_03252022:CCS2_58 (length 34)
+./ccs2/POQMFEI_03252022:CCS2_59 (length 128)
+./ccs2/POQMFEI_03252022:CCS2_60 (length 124)
+./ccs2/POQMFEI_03252022:CCS2_61 (length 45)
+./ccs2/POQMFEI_03252022:CCS2_62 (length 75)
+./ccs2/POQMFEI_03252022:CCS2_63 (length 144)
+./ccs2/POQMFEI_03252022:CCS2_64 (length 69)
+./ccs2/POQMFEI_03252022:CCS2_65 (length 56)
+./ccs2/POQMFEI_03252022:CCS2_66 (length 60)
+./ccs2/POQMFEI_03252022:CCS2_67 (length 88)
+./ccs2/POQMFEI_03252022:CCS2_68 (length 90)
+./ccs2/POQMFEI_03252022:CCS2_69 (length 100)
+./ccs2/POQMFEI_03252022:CCS2_70 (length 70)
+./ccs2/POQMFEI_03252022:CCS2_71 (length 72)
+./ccs2/POQMFEI_03252022:CCS2_72 (length 277)
+./ccs2/POQMFEI_03252022:CCS2_73 (length 123)
+./ccs2/POQMFEI_03252022:CCS2_74 (length 100)
+./ccs2/POQMFEI_03252022:CCS2_75 (length 86)
+./ccs2/POQMFEI_03252022:CCS2_76 (length 45)
+./ccs2/POQMFEI_03252022:CCS2_77 (length 126)
+./ccs2/POQMFEI_03252022:CCS2_78 (length 128)
+./ccs2/POQMFEI_03252022:CCS2_79 (length 85)
+./ccs2/POQMFEI_03252022:CCS2_80 (length 104)
+./ccs2/POQMFEI_03252022:CCS2_81 (length 199)
+./ccs2/POQMFEI_03252022:CCS2_82 (length 126)
+./ccs2/POQMFEI_03252022:CCS2_83 (length 82)
+./ccs2/POQMFEI_03252022:CCS2_84 (length 423)
+./ccs2/POQMFEI_03252022:CCS2_85 (length 511)
+./ccs2/POQMFEI_03252022:CCS2_86 (length 251)
+./ccs2/POQMFEI_03252022:CCS2_87 (length 224)
+./ccs2/POQMFEI_03252022:CCS2_88 (length 268)
+./ccs2/POQMFEI_03252022:CCS2_89 (length 146)
+./ccs2/POQMFEI_03252022:CCS2_90 (length 134)
+./ccs2/POQMFEI_03252022:CCS2_91 (length 125)
+./ccs2/POQMFEI_03252022:CCS2_92 (length 126)
+./ccs2/POQMFEI_03252022:CCS2_93 (length 144)
+./ccs2/POQMFEI_03252022:CCS2_94 (length 229)
+./ccs2/POQMFEI_03252022:CCS2_95 (length 134)
+./ccs2/POQMFEI_03252022:CCS2_96 (length 961)
+./ccs2/POQMFEI_03252022:CCS2_97 (length 1330)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./ccs2/POQMFEI_03252022:CCS2 (length 57735)
+

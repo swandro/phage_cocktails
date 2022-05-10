@@ -1,0 +1,545 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:95 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 95 present
+DISC_FEATURE_COUNT:tRNA: 1 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:96 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:5 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:96 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::95 proteins have invalid IDs.
+./p9/WMKKAML_03252022:vB_OCPT_P9_1 (length 48)
+./p9/WMKKAML_03252022:vB_OCPT_P9_2 (length 80)
+./p9/WMKKAML_03252022:vB_OCPT_P9_3 (length 83)
+./p9/WMKKAML_03252022:vB_OCPT_P9_4 (length 106)
+./p9/WMKKAML_03252022:vB_OCPT_P9_5 (length 62)
+./p9/WMKKAML_03252022:vB_OCPT_P9_6 (length 70)
+./p9/WMKKAML_03252022:vB_OCPT_P9_7 (length 314)
+./p9/WMKKAML_03252022:vB_OCPT_P9_8 (length 117)
+./p9/WMKKAML_03252022:vB_OCPT_P9_9 (length 258)
+./p9/WMKKAML_03252022:vB_OCPT_P9_10 (length 454)
+./p9/WMKKAML_03252022:vB_OCPT_P9_11 (length 250)
+./p9/WMKKAML_03252022:vB_OCPT_P9_12 (length 74)
+./p9/WMKKAML_03252022:vB_OCPT_P9_13 (length 146)
+./p9/WMKKAML_03252022:vB_OCPT_P9_14 (length 342)
+./p9/WMKKAML_03252022:vB_OCPT_P9_15 (length 111)
+./p9/WMKKAML_03252022:vB_OCPT_P9_16 (length 189)
+./p9/WMKKAML_03252022:vB_OCPT_P9_17 (length 189)
+./p9/WMKKAML_03252022:vB_OCPT_P9_18 (length 210)
+./p9/WMKKAML_03252022:vB_OCPT_P9_19 (length 187)
+./p9/WMKKAML_03252022:vB_OCPT_P9_20 (length 99)
+./p9/WMKKAML_03252022:vB_OCPT_P9_21 (length 58)
+./p9/WMKKAML_03252022:vB_OCPT_P9_22 (length 64)
+./p9/WMKKAML_03252022:vB_OCPT_P9_23 (length 74)
+./p9/WMKKAML_03252022:vB_OCPT_P9_24 (length 69)
+./p9/WMKKAML_03252022:vB_OCPT_P9_25 (length 70)
+./p9/WMKKAML_03252022:vB_OCPT_P9_26 (length 124)
+./p9/WMKKAML_03252022:vB_OCPT_P9_27 (length 61)
+./p9/WMKKAML_03252022:vB_OCPT_P9_28 (length 784)
+./p9/WMKKAML_03252022:vB_OCPT_P9_29 (length 178)
+./p9/WMKKAML_03252022:vB_OCPT_P9_30 (length 59)
+./p9/WMKKAML_03252022:vB_OCPT_P9_31 (length 144)
+./p9/WMKKAML_03252022:vB_OCPT_P9_32 (length 131)
+./p9/WMKKAML_03252022:vB_OCPT_P9_33 (length 231)
+./p9/WMKKAML_03252022:vB_OCPT_P9_34 (length 134)
+./p9/WMKKAML_03252022:vB_OCPT_P9_35 (length 78)
+./p9/WMKKAML_03252022:vB_OCPT_P9_36 (length 107)
+./p9/WMKKAML_03252022:vB_OCPT_P9_37 (length 151)
+./p9/WMKKAML_03252022:vB_OCPT_P9_38 (length 194)
+./p9/WMKKAML_03252022:vB_OCPT_P9_39 (length 66)
+./p9/WMKKAML_03252022:vB_OCPT_P9_40 (length 143)
+./p9/WMKKAML_03252022:vB_OCPT_P9_41 (length 64)
+./p9/WMKKAML_03252022:vB_OCPT_P9_42 (length 86)
+./p9/WMKKAML_03252022:vB_OCPT_P9_43 (length 70)
+./p9/WMKKAML_03252022:vB_OCPT_P9_44 (length 72)
+./p9/WMKKAML_03252022:vB_OCPT_P9_45 (length 69)
+./p9/WMKKAML_03252022:vB_OCPT_P9_46 (length 88)
+./p9/WMKKAML_03252022:vB_OCPT_P9_47 (length 101)
+./p9/WMKKAML_03252022:vB_OCPT_P9_48 (length 101)
+./p9/WMKKAML_03252022:vB_OCPT_P9_49 (length 79)
+./p9/WMKKAML_03252022:vB_OCPT_P9_50 (length 34)
+./p9/WMKKAML_03252022:vB_OCPT_P9_51 (length 128)
+./p9/WMKKAML_03252022:vB_OCPT_P9_52 (length 124)
+./p9/WMKKAML_03252022:vB_OCPT_P9_53 (length 45)
+./p9/WMKKAML_03252022:vB_OCPT_P9_54 (length 75)
+./p9/WMKKAML_03252022:vB_OCPT_P9_55 (length 144)
+./p9/WMKKAML_03252022:vB_OCPT_P9_56 (length 106)
+./p9/WMKKAML_03252022:vB_OCPT_P9_57 (length 44)
+./p9/WMKKAML_03252022:vB_OCPT_P9_58 (length 100)
+./p9/WMKKAML_03252022:vB_OCPT_P9_59 (length 70)
+./p9/WMKKAML_03252022:vB_OCPT_P9_60 (length 72)
+./p9/WMKKAML_03252022:vB_OCPT_P9_61 (length 269)
+./p9/WMKKAML_03252022:vB_OCPT_P9_62 (length 123)
+./p9/WMKKAML_03252022:vB_OCPT_P9_63 (length 100)
+./p9/WMKKAML_03252022:vB_OCPT_P9_64 (length 86)
+./p9/WMKKAML_03252022:vB_OCPT_P9_65 (length 49)
+./p9/WMKKAML_03252022:vB_OCPT_P9_66 (length 126)
+./p9/WMKKAML_03252022:vB_OCPT_P9_67 (length 128)
+./p9/WMKKAML_03252022:vB_OCPT_P9_68 (length 91)
+./p9/WMKKAML_03252022:vB_OCPT_P9_69 (length 104)
+./p9/WMKKAML_03252022:vB_OCPT_P9_70 (length 199)
+./p9/WMKKAML_03252022:vB_OCPT_P9_71 (length 126)
+./p9/WMKKAML_03252022:vB_OCPT_P9_72 (length 82)
+./p9/WMKKAML_03252022:vB_OCPT_P9_73 (length 423)
+./p9/WMKKAML_03252022:vB_OCPT_P9_74 (length 511)
+./p9/WMKKAML_03252022:vB_OCPT_P9_75 (length 251)
+./p9/WMKKAML_03252022:vB_OCPT_P9_76 (length 222)
+./p9/WMKKAML_03252022:vB_OCPT_P9_77 (length 268)
+./p9/WMKKAML_03252022:vB_OCPT_P9_78 (length 146)
+./p9/WMKKAML_03252022:vB_OCPT_P9_79 (length 134)
+./p9/WMKKAML_03252022:vB_OCPT_P9_80 (length 125)
+./p9/WMKKAML_03252022:vB_OCPT_P9_81 (length 126)
+./p9/WMKKAML_03252022:vB_OCPT_P9_82 (length 144)
+./p9/WMKKAML_03252022:vB_OCPT_P9_83 (length 229)
+./p9/WMKKAML_03252022:vB_OCPT_P9_84 (length 146)
+./p9/WMKKAML_03252022:vB_OCPT_P9_85 (length 74)
+./p9/WMKKAML_03252022:vB_OCPT_P9_86 (length 961)
+./p9/WMKKAML_03252022:vB_OCPT_P9_87 (length 1330)
+./p9/WMKKAML_03252022:vB_OCPT_P9_88 (length 1008)
+./p9/WMKKAML_03252022:vB_OCPT_P9_89 (length 117)
+./p9/WMKKAML_03252022:vB_OCPT_P9_90 (length 237)
+./p9/WMKKAML_03252022:vB_OCPT_P9_91 (length 142)
+./p9/WMKKAML_03252022:vB_OCPT_P9_92 (length 274)
+./p9/WMKKAML_03252022:vB_OCPT_P9_93 (length 144)
+./p9/WMKKAML_03252022:vB_OCPT_P9_94 (length 128)
+./p9/WMKKAML_03252022:vB_OCPT_P9_95 (length 66)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 95 present
+DiscRep_ALL:DISC_FEATURE_COUNT::tRNA: 1 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./p9/WMKKAML_03252022:vB_OCPT_P9 (length 57478)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::96 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:185-331	WMKKAML_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:334-576	WMKKAML_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:576-827	WMKKAML_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:827-1147	WMKKAML_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:1147-1335	WMKKAML_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:1347-1559	WMKKAML_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:1589-2533	WMKKAML_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:2608-2961	WMKKAML_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:3010-3786	WMKKAML_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:3798-5162	WMKKAML_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:5175-5927	WMKKAML_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:5893-6117	WMKKAML_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	DNA endonuclease I-HmuI	vB_OCPT_P9:6190-6630	WMKKAML_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:6623-7651	WMKKAML_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:7651-7986	WMKKAML_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:7983-8552	WMKKAML_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:8549-9118	WMKKAML_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:9111-9743	WMKKAML_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:9835-10398	WMKKAML_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:10436-10735	WMKKAML_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:10749-10925	WMKKAML_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:10938-11132	WMKKAML_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:11147-11371	WMKKAML_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:11368-11577	WMKKAML_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:11580-11792	WMKKAML_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:11793-12167	WMKKAML_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:12171-12356	WMKKAML_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	DNA-directed DNA polymerase	vB_OCPT_P9:12437-14791	WMKKAML_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:14784-15320	WMKKAML_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:15404-15583	WMKKAML_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:15608-16042	WMKKAML_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:16044-16439	WMKKAML_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:16432-17127	WMKKAML_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:17186-17590	WMKKAML_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:17574-17810	WMKKAML_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:17780-18103	WMKKAML_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:18126-18581	WMKKAML_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:18582-19166	WMKKAML_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:19177-19377	WMKKAML_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:19390-19821	WMKKAML_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:19898-20092	WMKKAML_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:20089-20349	WMKKAML_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:20349-20561	WMKKAML_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:20574-20792	WMKKAML_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:20782-20991	WMKKAML_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:21245-21511	WMKKAML_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:21513-21818	WMKKAML_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:21831-22136	WMKKAML_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:22883-23122	WMKKAML_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:23115-23219	WMKKAML_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:23223-23609	WMKKAML_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:23602-23976	WMKKAML_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:24054-24191	WMKKAML_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:24256-24483	WMKKAML_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:24619-25053	WMKKAML_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:25129-25449	WMKKAML_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:25601-25735	WMKKAML_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:25785-26087	WMKKAML_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:c27720-27508	WMKKAML_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:c27940-27722	WMKKAML_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:c28750-27941	WMKKAML_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:c29573-29202	WMKKAML_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:c29895-29593	WMKKAML_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:c30157-29897	WMKKAML_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:c30319-30170	WMKKAML_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:c30703-30323	WMKKAML_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:c31091-30705	WMKKAML_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:c31366-31091	WMKKAML_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:c31680-31366	WMKKAML_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	Terminase small subunit	vB_OCPT_P9:31961-32560	WMKKAML_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:32538-32918	WMKKAML_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:32937-33185	WMKKAML_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	Large terminase protein	vB_OCPT_P9:33248-34519	WMKKAML_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	Portal protein	vB_OCPT_P9:34576-36111	WMKKAML_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:36123-36878	WMKKAML_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:36989-37657	WMKKAML_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	Putative major head protein	vB_OCPT_P9:37706-38512	WMKKAML_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:38667-39107	WMKKAML_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:39167-39571	WMKKAML_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:39587-39964	WMKKAML_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:39949-40329	WMKKAML_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:40342-40776	WMKKAML_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:40797-41486	WMKKAML_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:41630-42070	WMKKAML_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:42081-42305	WMKKAML_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:42318-45203	WMKKAML_00086
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:45217-49209	WMKKAML_00087
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:49222-52248	WMKKAML_00088
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:52196-52549	WMKKAML_00089
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:52596-53309	WMKKAML_00090
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:c54021-53593	WMKKAML_00091
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:54532-55356	WMKKAML_00092
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:55409-55843	WMKKAML_00093
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:55846-56232	WMKKAML_00094
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./p9/WMKKAML_03252022:CDS	hypothetical protein	vB_OCPT_P9:56232-56432	WMKKAML_00095
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+./p9/WMKKAML_03252022:tRNA	Trp	vB_OCPT_P9:56491-56562	WMKKAML_00096
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./p9/WMKKAML_03252022:vB_OCPT_P9:Annotated using prokka 1.11 from http://www.vicbioinformatics.com
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::5 protein sequences are shorter than 50 aa.
+./p9/WMKKAML_03252022:vB_OCPT_P9_1 (length 48)
+./p9/WMKKAML_03252022:vB_OCPT_P9_50 (length 34)
+./p9/WMKKAML_03252022:vB_OCPT_P9_53 (length 45)
+./p9/WMKKAML_03252022:vB_OCPT_P9_57 (length 44)
+./p9/WMKKAML_03252022:vB_OCPT_P9_65 (length 49)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./p9/WMKKAML_03252022:vB_OCPT_P9 (length 57478)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./p9/WMKKAML_03252022:vB_OCPT_P9 (length 57478)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./p9/WMKKAML_03252022:vB_OCPT_P9 (length 57478)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./p9/WMKKAML_03252022:vB_OCPT_P9 (length 57478)
+
+DiscRep_ALL:MISSING_PROJECT::96 sequences do not include project.
+./p9/WMKKAML_03252022:vB_OCPT_P9 (length 57478)
+./p9/WMKKAML_03252022:vB_OCPT_P9_1 (length 48)
+./p9/WMKKAML_03252022:vB_OCPT_P9_2 (length 80)
+./p9/WMKKAML_03252022:vB_OCPT_P9_3 (length 83)
+./p9/WMKKAML_03252022:vB_OCPT_P9_4 (length 106)
+./p9/WMKKAML_03252022:vB_OCPT_P9_5 (length 62)
+./p9/WMKKAML_03252022:vB_OCPT_P9_6 (length 70)
+./p9/WMKKAML_03252022:vB_OCPT_P9_7 (length 314)
+./p9/WMKKAML_03252022:vB_OCPT_P9_8 (length 117)
+./p9/WMKKAML_03252022:vB_OCPT_P9_9 (length 258)
+./p9/WMKKAML_03252022:vB_OCPT_P9_10 (length 454)
+./p9/WMKKAML_03252022:vB_OCPT_P9_11 (length 250)
+./p9/WMKKAML_03252022:vB_OCPT_P9_12 (length 74)
+./p9/WMKKAML_03252022:vB_OCPT_P9_13 (length 146)
+./p9/WMKKAML_03252022:vB_OCPT_P9_14 (length 342)
+./p9/WMKKAML_03252022:vB_OCPT_P9_15 (length 111)
+./p9/WMKKAML_03252022:vB_OCPT_P9_16 (length 189)
+./p9/WMKKAML_03252022:vB_OCPT_P9_17 (length 189)
+./p9/WMKKAML_03252022:vB_OCPT_P9_18 (length 210)
+./p9/WMKKAML_03252022:vB_OCPT_P9_19 (length 187)
+./p9/WMKKAML_03252022:vB_OCPT_P9_20 (length 99)
+./p9/WMKKAML_03252022:vB_OCPT_P9_21 (length 58)
+./p9/WMKKAML_03252022:vB_OCPT_P9_22 (length 64)
+./p9/WMKKAML_03252022:vB_OCPT_P9_23 (length 74)
+./p9/WMKKAML_03252022:vB_OCPT_P9_24 (length 69)
+./p9/WMKKAML_03252022:vB_OCPT_P9_25 (length 70)
+./p9/WMKKAML_03252022:vB_OCPT_P9_26 (length 124)
+./p9/WMKKAML_03252022:vB_OCPT_P9_27 (length 61)
+./p9/WMKKAML_03252022:vB_OCPT_P9_28 (length 784)
+./p9/WMKKAML_03252022:vB_OCPT_P9_29 (length 178)
+./p9/WMKKAML_03252022:vB_OCPT_P9_30 (length 59)
+./p9/WMKKAML_03252022:vB_OCPT_P9_31 (length 144)
+./p9/WMKKAML_03252022:vB_OCPT_P9_32 (length 131)
+./p9/WMKKAML_03252022:vB_OCPT_P9_33 (length 231)
+./p9/WMKKAML_03252022:vB_OCPT_P9_34 (length 134)
+./p9/WMKKAML_03252022:vB_OCPT_P9_35 (length 78)
+./p9/WMKKAML_03252022:vB_OCPT_P9_36 (length 107)
+./p9/WMKKAML_03252022:vB_OCPT_P9_37 (length 151)
+./p9/WMKKAML_03252022:vB_OCPT_P9_38 (length 194)
+./p9/WMKKAML_03252022:vB_OCPT_P9_39 (length 66)
+./p9/WMKKAML_03252022:vB_OCPT_P9_40 (length 143)
+./p9/WMKKAML_03252022:vB_OCPT_P9_41 (length 64)
+./p9/WMKKAML_03252022:vB_OCPT_P9_42 (length 86)
+./p9/WMKKAML_03252022:vB_OCPT_P9_43 (length 70)
+./p9/WMKKAML_03252022:vB_OCPT_P9_44 (length 72)
+./p9/WMKKAML_03252022:vB_OCPT_P9_45 (length 69)
+./p9/WMKKAML_03252022:vB_OCPT_P9_46 (length 88)
+./p9/WMKKAML_03252022:vB_OCPT_P9_47 (length 101)
+./p9/WMKKAML_03252022:vB_OCPT_P9_48 (length 101)
+./p9/WMKKAML_03252022:vB_OCPT_P9_49 (length 79)
+./p9/WMKKAML_03252022:vB_OCPT_P9_50 (length 34)
+./p9/WMKKAML_03252022:vB_OCPT_P9_51 (length 128)
+./p9/WMKKAML_03252022:vB_OCPT_P9_52 (length 124)
+./p9/WMKKAML_03252022:vB_OCPT_P9_53 (length 45)
+./p9/WMKKAML_03252022:vB_OCPT_P9_54 (length 75)
+./p9/WMKKAML_03252022:vB_OCPT_P9_55 (length 144)
+./p9/WMKKAML_03252022:vB_OCPT_P9_56 (length 106)
+./p9/WMKKAML_03252022:vB_OCPT_P9_57 (length 44)
+./p9/WMKKAML_03252022:vB_OCPT_P9_58 (length 100)
+./p9/WMKKAML_03252022:vB_OCPT_P9_59 (length 70)
+./p9/WMKKAML_03252022:vB_OCPT_P9_60 (length 72)
+./p9/WMKKAML_03252022:vB_OCPT_P9_61 (length 269)
+./p9/WMKKAML_03252022:vB_OCPT_P9_62 (length 123)
+./p9/WMKKAML_03252022:vB_OCPT_P9_63 (length 100)
+./p9/WMKKAML_03252022:vB_OCPT_P9_64 (length 86)
+./p9/WMKKAML_03252022:vB_OCPT_P9_65 (length 49)
+./p9/WMKKAML_03252022:vB_OCPT_P9_66 (length 126)
+./p9/WMKKAML_03252022:vB_OCPT_P9_67 (length 128)
+./p9/WMKKAML_03252022:vB_OCPT_P9_68 (length 91)
+./p9/WMKKAML_03252022:vB_OCPT_P9_69 (length 104)
+./p9/WMKKAML_03252022:vB_OCPT_P9_70 (length 199)
+./p9/WMKKAML_03252022:vB_OCPT_P9_71 (length 126)
+./p9/WMKKAML_03252022:vB_OCPT_P9_72 (length 82)
+./p9/WMKKAML_03252022:vB_OCPT_P9_73 (length 423)
+./p9/WMKKAML_03252022:vB_OCPT_P9_74 (length 511)
+./p9/WMKKAML_03252022:vB_OCPT_P9_75 (length 251)
+./p9/WMKKAML_03252022:vB_OCPT_P9_76 (length 222)
+./p9/WMKKAML_03252022:vB_OCPT_P9_77 (length 268)
+./p9/WMKKAML_03252022:vB_OCPT_P9_78 (length 146)
+./p9/WMKKAML_03252022:vB_OCPT_P9_79 (length 134)
+./p9/WMKKAML_03252022:vB_OCPT_P9_80 (length 125)
+./p9/WMKKAML_03252022:vB_OCPT_P9_81 (length 126)
+./p9/WMKKAML_03252022:vB_OCPT_P9_82 (length 144)
+./p9/WMKKAML_03252022:vB_OCPT_P9_83 (length 229)
+./p9/WMKKAML_03252022:vB_OCPT_P9_84 (length 146)
+./p9/WMKKAML_03252022:vB_OCPT_P9_85 (length 74)
+./p9/WMKKAML_03252022:vB_OCPT_P9_86 (length 961)
+./p9/WMKKAML_03252022:vB_OCPT_P9_87 (length 1330)
+./p9/WMKKAML_03252022:vB_OCPT_P9_88 (length 1008)
+./p9/WMKKAML_03252022:vB_OCPT_P9_89 (length 117)
+./p9/WMKKAML_03252022:vB_OCPT_P9_90 (length 237)
+./p9/WMKKAML_03252022:vB_OCPT_P9_91 (length 142)
+./p9/WMKKAML_03252022:vB_OCPT_P9_92 (length 274)
+./p9/WMKKAML_03252022:vB_OCPT_P9_93 (length 144)
+./p9/WMKKAML_03252022:vB_OCPT_P9_94 (length 128)
+./p9/WMKKAML_03252022:vB_OCPT_P9_95 (length 66)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./p9/WMKKAML_03252022:vB_OCPT_P9 (length 57478)
+

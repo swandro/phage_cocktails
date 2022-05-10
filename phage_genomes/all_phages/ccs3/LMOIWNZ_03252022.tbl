@@ -1,0 +1,409 @@
+>Feature CCS3
+2	469	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A9CRA7
+			locus_tag	LMOIWNZ_00001
+			product	Putative major head protein
+624	1061	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00002
+			product	hypothetical protein
+1122	1526	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00003
+			product	hypothetical protein
+1542	1919	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00004
+			product	hypothetical protein
+1904	2284	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00005
+			product	hypothetical protein
+2297	2728	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00006
+			product	hypothetical protein
+2754	3443	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00007
+			product	hypothetical protein
+3584	4024	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00008
+			product	hypothetical protein
+4035	4259	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00009
+			product	hypothetical protein
+4272	7157	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00010
+			product	hypothetical protein
+7171	11163	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00011
+			product	hypothetical protein
+11176	14202	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00012
+			product	hypothetical protein
+14216	14503	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00013
+			product	hypothetical protein
+14550	15266	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00014
+			product	hypothetical protein
+15533	15315	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00015
+			product	hypothetical protein
+16054	15626	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00016
+			product	hypothetical protein
+16259	16056	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00017
+			product	hypothetical protein
+16758	17585	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00018
+			product	hypothetical protein
+17638	18072	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00019
+			product	hypothetical protein
+18075	18470	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00020
+			product	hypothetical protein
+18460	18660	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00021
+			product	hypothetical protein
+18897	18969	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	LMOIWNZ_00022
+			product	tRNA-Trp(cca)
+18998	19123	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00023
+			product	hypothetical protein
+19959	20123	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00024
+			product	hypothetical protein
+20136	20270	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00025
+			product	hypothetical protein
+20288	20539	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00026
+			product	hypothetical protein
+20539	20691	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00027
+			product	hypothetical protein
+20705	20893	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00028
+			product	hypothetical protein
+20905	21852	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00029
+			product	hypothetical protein
+21927	22265	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00030
+			product	hypothetical protein
+22331	23107	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00031
+			product	hypothetical protein
+23119	23652	CDS
+			EC_number	3.1.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P34081
+			locus_tag	LMOIWNZ_00032
+			product	DNA endonuclease I-HmuI
+23664	25037	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00033
+			product	hypothetical protein
+25050	25274	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00034
+			product	hypothetical protein
+25347	25799	CDS
+			EC_number	3.1.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P34081
+			locus_tag	LMOIWNZ_00035
+			product	DNA endonuclease I-HmuI
+25784	26812	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00036
+			product	hypothetical protein
+26812	27141	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00037
+			product	hypothetical protein
+27278	27712	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00038
+			product	hypothetical protein
+27709	28278	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00039
+			product	hypothetical protein
+28271	28903	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00040
+			product	hypothetical protein
+29000	29563	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00041
+			product	hypothetical protein
+29693	29887	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00042
+			product	hypothetical protein
+29902	30123	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00043
+			product	hypothetical protein
+30123	30332	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00044
+			product	hypothetical protein
+30335	30547	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00045
+			product	hypothetical protein
+30548	30931	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00046
+			product	hypothetical protein
+30931	31116	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00047
+			product	hypothetical protein
+31195	33726	CDS
+			EC_number	2.7.7.7
+			gene	5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00581
+			locus_tag	LMOIWNZ_00048
+			product	DNA-directed DNA polymerase
+33801	34202	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00049
+			product	hypothetical protein
+34199	34642	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00050
+			product	hypothetical protein
+34632	35027	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00051
+			product	hypothetical protein
+35020	35616	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00052
+			product	hypothetical protein
+35672	36136	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00053
+			product	hypothetical protein
+36133	36339	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00054
+			product	hypothetical protein
+36353	36763	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00055
+			product	hypothetical protein
+36842	37030	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00056
+			product	hypothetical protein
+37030	37287	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00057
+			product	hypothetical protein
+37287	37490	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00058
+			product	hypothetical protein
+37491	37709	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00059
+			product	hypothetical protein
+37699	37887	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00060
+			product	hypothetical protein
+37890	38198	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00061
+			product	hypothetical protein
+38191	38457	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00062
+			product	hypothetical protein
+38459	38764	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00063
+			product	hypothetical protein
+38777	39091	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00064
+			product	hypothetical protein
+39873	40100	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00065
+			product	hypothetical protein
+40223	40462	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00066
+			product	hypothetical protein
+40455	40559	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00067
+			product	hypothetical protein
+40563	40949	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00068
+			product	hypothetical protein
+40942	41316	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00069
+			product	hypothetical protein
+41396	41626	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00070
+			product	hypothetical protein
+41704	41841	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00071
+			product	hypothetical protein
+41906	42184	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00072
+			product	hypothetical protein
+42318	42542	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00073
+			product	hypothetical protein
+42643	43077	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00074
+			product	hypothetical protein
+43064	43273	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00075
+			product	hypothetical protein
+43514	43816	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00076
+			product	hypothetical protein
+45225	45103	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00077
+			product	hypothetical protein
+45561	45250	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00078
+			product	hypothetical protein
+45842	45633	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00079
+			product	hypothetical protein
+46074	45844	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00080
+			product	hypothetical protein
+46966	46067	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00081
+			product	hypothetical protein
+47742	46984	CDS
+			EC_number	3.1.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P34081
+			locus_tag	LMOIWNZ_00082
+			product	DNA endonuclease I-HmuI
+48498	48193	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00083
+			product	hypothetical protein
+48884	48495	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00084
+			product	hypothetical protein
+49144	48884	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00085
+			product	hypothetical protein
+49306	49157	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00086
+			product	hypothetical protein
+49426	49310	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00087
+			product	hypothetical protein
+49690	49463	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00088
+			product	hypothetical protein
+50081	49692	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00089
+			product	hypothetical protein
+50356	50081	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00090
+			product	hypothetical protein
+50667	50356	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00091
+			product	hypothetical protein
+50948	51544	CDS
+			gene	1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P68928
+			locus_tag	LMOIWNZ_00092
+			product	Terminase small subunit
+51559	51936	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00093
+			product	hypothetical protein
+51955	52203	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00094
+			product	hypothetical protein
+52266	53537	CDS
+			gene	2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54308
+			locus_tag	LMOIWNZ_00095
+			product	Large terminase protein
+53596	55131	CDS
+			gene	6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54309
+			locus_tag	LMOIWNZ_00096
+			product	Portal protein
+55143	55898	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00097
+			product	hypothetical protein
+56009	56677	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LMOIWNZ_00098
+			product	hypothetical protein

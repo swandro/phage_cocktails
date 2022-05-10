@@ -1,0 +1,93 @@
+>Feature vB_OCPT_Ump
+192	539	CDS
+			db_xref	SEED:fig|6666666.336396.peg.1
+			product	hypothetical protein
+			transl_table	11
+554	718	CDS
+			db_xref	SEED:fig|6666666.336396.peg.2
+			product	hypothetical protein
+			transl_table	11
+720	1889	CDS
+			db_xref	SEED:fig|6666666.336396.peg.3
+			product	Phage capsid and scaffold
+			transl_table	11
+1909	2934	CDS
+			db_xref	SEED:fig|6666666.336396.peg.4
+			product	Phage collar
+			transl_table	11
+2891	3544	CDS
+			db_xref	SEED:fig|6666666.336396.peg.5
+			product	Phage lower collar protein
+			transl_table	11
+3557	4981	CDS
+			db_xref	SEED:fig|6666666.336396.peg.6
+			product	hypothetical protein
+			transl_table	11
+4992	5786	CDS
+			db_xref	SEED:fig|6666666.336396.peg.7
+			product	hypothetical protein
+			transl_table	11
+5788	7644	CDS
+			db_xref	SEED:fig|6666666.336396.peg.8
+			product	FIG00631247: hypothetical protein
+			transl_table	11
+7656	9407	CDS
+			db_xref	SEED:fig|6666666.336396.peg.9
+			product	Phage tail fibers
+			transl_table	11
+9452	9673	CDS
+			db_xref	SEED:fig|6666666.336396.peg.10
+			product	hypothetical protein
+			transl_table	11
+9670	10584	CDS
+			db_xref	SEED:fig|6666666.336396.peg.11
+			product	Phage lysin, N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+			EC_number	3.5.1.28
+			transl_table	11
+12657	10648	CDS
+			db_xref	SEED:fig|6666666.336396.peg.12
+			product	Phage protein
+			transl_table	11
+13214	12660	CDS
+			db_xref	SEED:fig|6666666.336396.peg.13
+			product	HNH homing endonuclease # Phage intron
+			transl_table	11
+13441	13211	CDS
+			db_xref	SEED:fig|6666666.336396.peg.14
+			product	hypothetical protein
+			transl_table	11
+13656	13504	CDS
+			db_xref	SEED:fig|6666666.336396.peg.15
+			product	hypothetical protein
+			transl_table	11
+13841	13653	CDS
+			db_xref	SEED:fig|6666666.336396.peg.16
+			product	Type I restriction-modification system, restriction subunit R (EC 3.1.21.3)
+			EC_number	3.1.21.3
+			transl_table	11
+16255	13916	CDS
+			db_xref	SEED:fig|6666666.336396.peg.17
+			product	DNA polymerase (EC 2.7.7.7), phage-associated
+			EC_number	2.7.7.7
+			transl_table	11
+17526	16288	CDS
+			db_xref	SEED:fig|6666666.336396.peg.18
+			product	Phage DNA packaging
+			transl_table	11
+17997	17539	CDS
+			db_xref	SEED:fig|6666666.336396.peg.19
+			product	hypothetical protein
+			transl_table	11
+18422	18000	CDS
+			db_xref	SEED:fig|6666666.336396.peg.20
+			product	hypothetical protein
+			transl_table	11
+18830	18498	CDS
+			db_xref	SEED:fig|6666666.336396.peg.21
+			product	Single-stranded DNA-binding protein
+			transl_table	11
+			db_xref	GO:0003697
+19329	18907	CDS
+			db_xref	SEED:fig|6666666.336396.peg.22
+			product	hypothetical protein
+			transl_table	11

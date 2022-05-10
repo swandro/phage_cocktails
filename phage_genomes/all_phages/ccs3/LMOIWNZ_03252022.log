@@ -1,0 +1,90 @@
+[12:19:09] Command: --kingdom Viruses --cpus 4 CCS3.fasta --outdir ./ccs3 --force --genus Caudovirales --locustag LMOIWNZ --usegenus
+[12:19:09] Looking for 'aragorn' - found /home/swandro/miniconda3/envs/prokka/bin/aragorn
+[12:19:09] Determined aragorn version is 1.2
+[12:19:09] Looking for 'barrnap' - found /home/swandro/miniconda3/envs/prokka/bin/barrnap
+[12:19:09] Determined barrnap version is 0.9
+[12:19:09] Looking for 'blastp' - found /home/swandro/miniconda3/envs/prokka/bin/blastp
+[12:19:09] Determined blastp version is 2.2
+[12:19:09] Looking for 'cmpress' - found /home/swandro/miniconda3/envs/prokka/bin/cmpress
+[12:19:09] Determined cmpress version is 1.1
+[12:19:09] Looking for 'cmscan' - found /home/swandro/miniconda3/envs/prokka/bin/cmscan
+[12:19:09] Determined cmscan version is 1.1
+[12:19:09] Looking for 'egrep' - found /bin/egrep
+[12:19:09] Looking for 'find' - found /usr/bin/find
+[12:19:09] Looking for 'grep' - found /bin/grep
+[12:19:09] Looking for 'hmmpress' - found /home/swandro/miniconda3/envs/prokka/bin/hmmpress
+[12:19:09] Determined hmmpress version is 3.3
+[12:19:09] Looking for 'hmmscan' - found /home/swandro/miniconda3/envs/prokka/bin/hmmscan
+[12:19:09] Determined hmmscan version is 3.3
+[12:19:09] Looking for 'less' - found /usr/bin/less
+[12:19:09] Looking for 'makeblastdb' - found /home/swandro/miniconda3/envs/prokka/bin/makeblastdb
+[12:19:09] Determined makeblastdb version is 2.2
+[12:19:09] Looking for 'minced' - found /home/swandro/miniconda3/envs/prokka/bin/minced
+[12:19:09] Determined minced version is 4.2
+[12:19:09] Looking for 'parallel' - found /home/swandro/miniconda3/envs/prokka/bin/parallel
+[12:19:09] Determined parallel version is 20160622
+[12:19:09] Looking for 'prodigal' - found /home/swandro/miniconda3/envs/prokka/bin/prodigal
+[12:19:09] Determined prodigal version is 2.6
+[12:19:09] Looking for 'prokka-genbank_to_fasta_db' - found /home/swandro/miniconda3/envs/prokka/bin/prokka-genbank_to_fasta_db
+[12:19:09] Looking for 'sed' - found /bin/sed
+[12:19:09] Looking for 'tbl2asn' - found /home/swandro/miniconda3/envs/prokka/bin/tbl2asn
+[12:19:09] Determined tbl2asn version is 25.8
+[12:19:09] Using genetic code table 1.
+[12:19:09] Loading and checking input file: CCS3.fasta
+[12:19:09] Wrote 1 contigs
+[12:19:09] Predicting tRNAs and tmRNAs
+[12:19:09] Running: aragorn -gc1  -w \.\/ccs3\/LMOIWNZ_03252022\.fna
+[12:19:09] 1 tRNA-Trp [18897,18969] 34 (cca)
+[12:19:09] Found 1 tRNAs
+[12:19:09] Disabling rRNA search: --kingdom=Viruses or --norrna=0
+[12:19:09] Skipping ncRNA search, enable with --rfam if desired.
+[12:19:09] Total of 1 tRNA + rRNA features
+[12:19:09] Searching for CRISPR repeats
+[12:19:10] Found 0 CRISPRs
+[12:19:10] Predicting coding sequences
+[12:19:10] Contigs total 57118 bp, so using meta mode
+[12:19:10] Running: prodigal -i \.\/ccs3\/LMOIWNZ_03252022\.fna -c -m -g 1 -p meta -f sco -q
+[12:19:10] Found 97 CDS
+[12:19:10] Connecting features back to sequences
+[12:19:10] Skipping genus-specific proteins as can't see /home/swandro/miniconda3/envs/prokka/bin/../db/Caudovirales
+[12:19:10] Annotating CDS, please be patient.
+[12:19:10] Will use 4 CPUs for similarity searching.
+[12:19:10] There are still 97 unannotated CDS left (started with 97)
+[12:19:10] Will use blast to search against /home/swandro/miniconda3/envs/prokka/bin/../db/kingdom/Viruses/sprot with 4 CPUs
+[12:19:10] Running: cat \.\/ccs3\/sprot\.faa | parallel --gnu --plain -j 4 --block 2106 --recstart '>' --pipe blastp -query - -db /home/swandro/miniconda3/envs/prokka/bin/../db/kingdom/Viruses/sprot -evalue 1e-06 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\/ccs3\/sprot\.blast 2> /dev/null
+[12:19:11] Deleting unwanted file: ./ccs3/sprot.faa
+[12:19:11] Deleting unwanted file: ./ccs3/sprot.blast
+[12:19:11] Labelling remaining 89 proteins as 'hypothetical protein'
+[12:19:11] Found 4 unique /gene codes.
+[12:19:11] Fixed 0 colliding /gene names.
+[12:19:11] Adding /locus_tag identifiers
+[12:19:11] Assigned 98 locus_tags to CDS and RNA features.
+[12:19:11] Writing outputs to ./ccs3/
+[12:19:11] Generating annotation statistics file
+[12:19:11] Generating Genbank and Sequin files
+[12:19:11] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.11 from http://www.vicbioinformatics.com' -Z \.\/ccs3\/LMOIWNZ_03252022\.err -i \.\/ccs3\/LMOIWNZ_03252022\.fsa 2> /dev/null
+[12:19:11] Deleting unwanted file: ./ccs3/errorsummary.val
+[12:19:11] Deleting unwanted file: ./ccs3/LMOIWNZ_03252022.dr
+[12:19:11] Deleting unwanted file: ./ccs3/LMOIWNZ_03252022.fixedproducts
+[12:19:11] Deleting unwanted file: ./ccs3/LMOIWNZ_03252022.ecn
+[12:19:11] Deleting unwanted file: ./ccs3/LMOIWNZ_03252022.val
+[12:19:11] Repairing broken .GBK output that tbl2asn produces...
+[12:19:11] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < \.\/ccs3\/LMOIWNZ_03252022\.gbf > \.\/ccs3\/LMOIWNZ_03252022\.gbk
+[12:19:11] Deleting unwanted file: ./ccs3/LMOIWNZ_03252022.gbf
+[12:19:11] Output files:
+[12:19:11] ./ccs3/LMOIWNZ_03252022.err
+[12:19:11] ./ccs3/LMOIWNZ_03252022.faa
+[12:19:11] ./ccs3/LMOIWNZ_03252022.ffn
+[12:19:11] ./ccs3/LMOIWNZ_03252022.fna
+[12:19:11] ./ccs3/LMOIWNZ_03252022.fsa
+[12:19:11] ./ccs3/LMOIWNZ_03252022.gbk
+[12:19:11] ./ccs3/LMOIWNZ_03252022.gff
+[12:19:11] ./ccs3/LMOIWNZ_03252022.log
+[12:19:11] ./ccs3/LMOIWNZ_03252022.sqn
+[12:19:11] ./ccs3/LMOIWNZ_03252022.tbl
+[12:19:11] ./ccs3/LMOIWNZ_03252022.txt
+[12:19:11] Walltime used: 0.03 minutes
+[12:19:11] If you use this result please cite the Prokka paper:
+[12:19:11] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[12:19:11] Type 'prokka --citation' for more details.
+[12:19:11] Thank you, come again.

@@ -1,0 +1,4485 @@
+>Feature DP11_1
+125	1618	CDS
+			codon_start	1
+			product	Galactose-1-phosphate uridylyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:E8MF11
+			gene	galT_1
+			ID	HOCGOLEH_00001
+			locus_tag	HOCGOLEH_00001
+			label	galT_1
+			eC_number	2.7.7.12
+			Source	Prodigal:2.6
+1625	2629	CDS
+			codon_start	1
+			product	HTH-type transcriptional regulator LacR
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q7WTB0
+			gene	lacR_1
+			ID	HOCGOLEH_00002
+			locus_tag	HOCGOLEH_00002
+			label	lacR_1
+			Source	Prodigal:2.6
+2711	3205	CDS
+			codon_start	1
+			product	Thymidylate kinase
+			inference	ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_00165
+			gene	tmk_1
+			ID	HOCGOLEH_00003
+			locus_tag	HOCGOLEH_00003
+			label	tmk_1
+			eC_number	2.7.4.9
+			Source	Prodigal:2.6
+3269	3532	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00004
+			locus_tag	HOCGOLEH_00004
+			label	CDS
+			Source	Prodigal:2.6
+3605	4111	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00005
+			locus_tag	HOCGOLEH_00005
+			label	CDS
+			Source	Prodigal:2.6
+4160	4600	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00006
+			locus_tag	HOCGOLEH_00006
+			label	CDS
+			Source	Prodigal:2.6
+4793	5947	CDS
+			codon_start	1
+			product	Tetracycline resistance protein, class B
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P02980
+			gene	tetA
+			ID	HOCGOLEH_00007
+			locus_tag	HOCGOLEH_00007
+			label	tetA
+			Source	Prodigal:2.6
+6098	7414	CDS
+			codon_start	1
+			product	DNA polymerase IV
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q47155
+			gene	dinB_1
+			ID	HOCGOLEH_00008
+			locus_tag	HOCGOLEH_00008
+			label	dinB_1
+			eC_number	2.7.7.7
+			Source	Prodigal:2.6
+7419	7808	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00009
+			locus_tag	HOCGOLEH_00009
+			label	CDS
+			Source	Prodigal:2.6
+7895	8077	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00010
+			locus_tag	HOCGOLEH_00010
+			label	CDS
+			Source	Prodigal:2.6
+8095	8400	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00011
+			locus_tag	HOCGOLEH_00011
+			label	CDS
+			Source	Prodigal:2.6
+8453	8884	CDS
+			codon_start	1
+			product	Putative universal stress protein
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q7A551
+			ID	HOCGOLEH_00012
+			locus_tag	HOCGOLEH_00012
+			label	CDS
+			Source	Prodigal:2.6
+8954	9196	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00013
+			locus_tag	HOCGOLEH_00013
+			label	CDS
+			Source	Prodigal:2.6
+9566	10012	CDS
+			codon_start	1
+			product	Spermine/spermidine acetyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P39909
+			gene	bltD
+			ID	HOCGOLEH_00014
+			locus_tag	HOCGOLEH_00014
+			label	bltD
+			eC_number	2.3.1.57
+			Source	Prodigal:2.6
+10152	10865	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00015
+			locus_tag	HOCGOLEH_00015
+			label	CDS
+			Source	Prodigal:2.6
+10936	11331	CDS
+			codon_start	1
+			product	Inner membrane protein YhaH
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P64590
+			gene	yhaH
+			ID	HOCGOLEH_00016
+			locus_tag	HOCGOLEH_00016
+			label	yhaH
+			Source	Prodigal:2.6
+12938	11517	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00017
+			locus_tag	HOCGOLEH_00017
+			label	CDS
+			Source	Prodigal:2.6
+13266	16577	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00018
+			locus_tag	HOCGOLEH_00018
+			label	CDS
+			Source	Prodigal:2.6
+16581	18011	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00019
+			locus_tag	HOCGOLEH_00019
+			label	CDS
+			Source	Prodigal:2.6
+18008	19891	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00020
+			locus_tag	HOCGOLEH_00020
+			label	CDS
+			Source	Prodigal:2.6
+19985	20842	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00021
+			locus_tag	HOCGOLEH_00021
+			label	CDS
+			Source	Prodigal:2.6
+21449	21156	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00022
+			locus_tag	HOCGOLEH_00022
+			label	CDS
+			Source	Prodigal:2.6
+21646	21849	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00023
+			locus_tag	HOCGOLEH_00023
+			label	CDS
+			Source	Prodigal:2.6
+22209	22721	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00024
+			locus_tag	HOCGOLEH_00024
+			label	CDS
+			Source	Prodigal:2.6
+23498	23304	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00025
+			locus_tag	HOCGOLEH_00025
+			label	CDS
+			Source	Prodigal:2.6
+25516	23765	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00026
+			locus_tag	HOCGOLEH_00026
+			label	CDS
+			Source	Prodigal:2.6
+26337	25974	tmrna
+			product	transfer-messenger RNA, SsrA
+			inference	COORDINATES:profile:Aragorn:1.2
+			gene	ssrA
+			ID	HOCGOLEH_00027
+			locus_tag	HOCGOLEH_00027
+			label	ssrA
+			Source	Aragorn:1.2
+26781	26476	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00028
+			locus_tag	HOCGOLEH_00028
+			label	CDS
+			Source	Prodigal:2.6
+27116	28858	CDS
+			codon_start	1
+			product	Collagen adhesin
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q53654
+			gene	cna
+			ID	HOCGOLEH_00029
+			locus_tag	HOCGOLEH_00029
+			label	cna
+			Source	Prodigal:2.6
+28983	29966	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00030
+			locus_tag	HOCGOLEH_00030
+			label	CDS
+			Source	Prodigal:2.6
+30024	30578	CDS
+			codon_start	1
+			product	Multidrug resistance ABC transporter ATP-binding/permease protein BmrA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O06967
+			gene	bmrA_1
+			ID	HOCGOLEH_00031
+			locus_tag	HOCGOLEH_00031
+			label	bmrA_1
+			eC_number	3.6.3.-
+			Source	Prodigal:2.6
+30648	31382	CDS
+			codon_start	1
+			product	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+			inference	ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_01813
+			gene	ubiE
+			ID	HOCGOLEH_00032
+			locus_tag	HOCGOLEH_00032
+			label	ubiE
+			eC_number	2.1.1.163
+			Source	Prodigal:2.6
+31780	31379	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00033
+			locus_tag	HOCGOLEH_00033
+			label	CDS
+			Source	Prodigal:2.6
+33242	31890	CDS
+			codon_start	1
+			product	putative amino acid permease YvbW
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O32257
+			gene	yvbW
+			ID	HOCGOLEH_00034
+			locus_tag	HOCGOLEH_00034
+			label	yvbW
+			Source	Prodigal:2.6
+33599	33414	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00035
+			locus_tag	HOCGOLEH_00035
+			label	CDS
+			Source	Prodigal:2.6
+34085	33780	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00036
+			locus_tag	HOCGOLEH_00036
+			label	CDS
+			Source	Prodigal:2.6
+34437	35198	CDS
+			codon_start	1
+			product	Lactate utilization protein A
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O07020
+			gene	lutA
+			ID	HOCGOLEH_00037
+			locus_tag	HOCGOLEH_00037
+			label	lutA
+			Source	Prodigal:2.6
+35211	36683	CDS
+			codon_start	1
+			product	Lactate utilization protein B
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O07021
+			gene	lutB
+			ID	HOCGOLEH_00038
+			locus_tag	HOCGOLEH_00038
+			label	lutB
+			Source	Prodigal:2.6
+36676	37395	CDS
+			codon_start	1
+			product	Lactate utilization protein C
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O32259
+			gene	lutC
+			ID	HOCGOLEH_00039
+			locus_tag	HOCGOLEH_00039
+			label	lutC
+			Source	Prodigal:2.6
+37622	38164	CDS
+			codon_start	1
+			product	Signal peptidase IB
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A068
+			gene	spsB_1
+			ID	HOCGOLEH_00040
+			locus_tag	HOCGOLEH_00040
+			label	spsB_1
+			eC_number	3.4.21.89
+			Source	Prodigal:2.6
+38275	41865	CDS
+			codon_start	1
+			product	ATP-dependent helicase/deoxyribonuclease subunitB
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P23477
+			gene	addB
+			ID	HOCGOLEH_00041
+			locus_tag	HOCGOLEH_00041
+			label	addB
+			eC_number	3.1.-.-
+			Source	Prodigal:2.6
+41858	45652	CDS
+			codon_start	1
+			product	ATP-dependent helicase/nuclease subunit A
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P23478
+			gene	addA
+			ID	HOCGOLEH_00042
+			locus_tag	HOCGOLEH_00042
+			label	addA
+			eC_number	3.1.-.-
+			Source	Prodigal:2.6
+45722	46066	CDS
+			codon_start	1
+			product	HTH-type transcriptional regulator YodB
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O34844
+			gene	yodB
+			ID	HOCGOLEH_00043
+			locus_tag	HOCGOLEH_00043
+			label	yodB
+			Source	Prodigal:2.6
+46385	47431	CDS
+			codon_start	1
+			product	Phenylalanine--tRNA ligase alpha subunit
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q4L5E3
+			gene	pheS
+			ID	HOCGOLEH_00044
+			locus_tag	HOCGOLEH_00044
+			label	pheS
+			eC_number	6.1.1.20
+			Source	Prodigal:2.6
+47439	49862	CDS
+			codon_start	1
+			product	Phenylalanine--tRNA ligase beta subunit
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q5XCX3
+			gene	pheT_1
+			ID	HOCGOLEH_00045
+			locus_tag	HOCGOLEH_00045
+			label	pheT_1
+			eC_number	6.1.1.20
+			Source	Prodigal:2.6
+50725	50060	CDS
+			codon_start	1
+			product	putative glutamine ABC transporter permease protein GlnP
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O34606
+			gene	glnP_1
+			ID	HOCGOLEH_00046
+			locus_tag	HOCGOLEH_00046
+			label	glnP_1
+			Source	Prodigal:2.6
+51450	50737	CDS
+			codon_start	1
+			product	putative glutamine ABC transporter permease protein GlnM
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O34671
+			gene	glnM
+			ID	HOCGOLEH_00047
+			locus_tag	HOCGOLEH_00047
+			label	glnM
+			Source	Prodigal:2.6
+52323	51496	CDS
+			codon_start	1
+			product	Major cell-binding factor
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q0P9X8
+			gene	peb1A
+			ID	HOCGOLEH_00048
+			locus_tag	HOCGOLEH_00048
+			label	peb1A
+			Source	Prodigal:2.6
+53089	52358	CDS
+			codon_start	1
+			product	Glutamine transport ATP-binding protein GlnQ
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P27675
+			gene	glnQ_1
+			ID	HOCGOLEH_00049
+			locus_tag	HOCGOLEH_00049
+			label	glnQ_1
+			Source	Prodigal:2.6
+53360	54181	CDS
+			codon_start	1
+			product	Glutamate racemase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q836J0
+			gene	murI
+			ID	HOCGOLEH_00050
+			locus_tag	HOCGOLEH_00050
+			label	murI
+			eC_number	5.1.1.3
+			Source	Prodigal:2.6
+54174	55529	CDS
+			codon_start	1
+			product	Ribonuclease PH
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P28619
+			gene	rph
+			ID	HOCGOLEH_00051
+			locus_tag	HOCGOLEH_00051
+			label	rph
+			eC_number	2.7.7.56
+			Source	Prodigal:2.6
+55542	56054	CDS
+			codon_start	1
+			product	Phosphodiesterase YfcE
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P67095
+			gene	yfcE
+			ID	HOCGOLEH_00052
+			locus_tag	HOCGOLEH_00052
+			label	yfcE
+			eC_number	3.1.4.-
+			Source	Prodigal:2.6
+56912	56148	CDS
+			codon_start	1
+			product	HTH-type transcriptional repressor GlcR
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P94591
+			gene	glcR_1
+			ID	HOCGOLEH_00053
+			locus_tag	HOCGOLEH_00053
+			label	glcR_1
+			Source	Prodigal:2.6
+57106	58173	CDS
+			codon_start	1
+			product	putative L-ascorbate-6-phosphate lactonase UlaG
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P39300
+			gene	ulaG
+			ID	HOCGOLEH_00054
+			locus_tag	HOCGOLEH_00054
+			label	ulaG
+			eC_number	3.1.1.-
+			Source	Prodigal:2.6
+58191	58649	CDS
+			codon_start	1
+			product	Mannitol-specific cryptic phosphotransferase enzyme IIA component
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P69824
+			gene	cmtB
+			ID	HOCGOLEH_00055
+			locus_tag	HOCGOLEH_00055
+			label	cmtB
+			eC_number	2.7.1.197
+			Source	Prodigal:2.6
+58662	60149	CDS
+			codon_start	1
+			product	Ascorbate-specific PTS system EIIC component
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P39301
+			gene	ulaA_1
+			ID	HOCGOLEH_00056
+			locus_tag	HOCGOLEH_00056
+			label	ulaA_1
+			Source	Prodigal:2.6
+60164	60463	CDS
+			codon_start	1
+			product	Ascorbate-specific PTS system EIIB component
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9EXD8
+			gene	ulaB
+			ID	HOCGOLEH_00057
+			locus_tag	HOCGOLEH_00057
+			label	ulaB
+			eC_number	2.7.1.194
+			Source	Prodigal:2.6
+60477	61115	CDS
+			codon_start	1
+			product	3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P39304
+			gene	ulaD
+			ID	HOCGOLEH_00058
+			locus_tag	HOCGOLEH_00058
+			label	ulaD
+			eC_number	4.1.1.85
+			Source	Prodigal:2.6
+61120	61980	CDS
+			codon_start	1
+			product	L-ribulose-5-phosphate 3-epimerase UlaE
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q8XDI5
+			gene	ulaE
+			ID	HOCGOLEH_00059
+			locus_tag	HOCGOLEH_00059
+			label	ulaE
+			eC_number	5.1.3.22
+			Source	Prodigal:2.6
+61970	62680	CDS
+			codon_start	1
+			product	L-ribulose-5-phosphate 4-epimerase UlaF
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P39306
+			gene	ulaF
+			ID	HOCGOLEH_00060
+			locus_tag	HOCGOLEH_00060
+			label	ulaF
+			eC_number	5.1.3.4
+			Source	Prodigal:2.6
+62938	63426	CDS
+			codon_start	1
+			product	CBS domain-containing protein YkuL
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O31698
+			gene	ykuL
+			ID	HOCGOLEH_00061
+			locus_tag	HOCGOLEH_00061
+			label	ykuL
+			Source	Prodigal:2.6
+63507	64208	CDS
+			codon_start	1
+			product	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q836H8
+			gene	dapH
+			ID	HOCGOLEH_00062
+			locus_tag	HOCGOLEH_00062
+			label	dapH
+			eC_number	2.3.1.89
+			Source	Prodigal:2.6
+64287	65414	CDS
+			codon_start	1
+			product	N-acetyldiaminopimelate deacetylase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:D5E0A1
+			ID	HOCGOLEH_00063
+			locus_tag	HOCGOLEH_00063
+			label	CDS
+			eC_number	3.5.1.47
+			Source	Prodigal:2.6
+66379	65459	CDS
+			codon_start	1
+			product	putative MscS family protein YkuT
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O34897
+			gene	ykuT
+			ID	HOCGOLEH_00064
+			locus_tag	HOCGOLEH_00064
+			label	ykuT
+			Source	Prodigal:2.6
+66549	66911	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00065
+			locus_tag	HOCGOLEH_00065
+			label	CDS
+			Source	Prodigal:2.6
+66988	67812	CDS
+			codon_start	1
+			product	putative oxidoreductase YtbE
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O34678
+			gene	ytbE_1
+			ID	HOCGOLEH_00066
+			locus_tag	HOCGOLEH_00066
+			label	ytbE_1
+			eC_number	1.-.-.-
+			Source	Prodigal:2.6
+68585	67863	CDS
+			codon_start	1
+			product	Putative glutamine amidotransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O33341
+			ID	HOCGOLEH_00067
+			locus_tag	HOCGOLEH_00067
+			label	CDS
+			eC_number	2.4.2.-
+			Source	Prodigal:2.6
+69102	68728	CDS
+			codon_start	1
+			product	Lactoylglutathione lyase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0AC81
+			gene	gloA
+			ID	HOCGOLEH_00068
+			locus_tag	HOCGOLEH_00068
+			label	gloA
+			eC_number	4.4.1.5
+			Source	Prodigal:2.6
+69251	69697	CDS
+			codon_start	1
+			product	NADH pyrophosphatase
+			inference	ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_00297
+			gene	nudC
+			ID	HOCGOLEH_00069
+			locus_tag	HOCGOLEH_00069
+			label	nudC
+			eC_number	3.6.1.22
+			Source	Prodigal:2.6
+70576	69764	CDS
+			codon_start	1
+			product	Putative phosphatase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q5XD45
+			ID	HOCGOLEH_00070
+			locus_tag	HOCGOLEH_00070
+			label	CDS
+			eC_number	3.1.3.-
+			Source	Prodigal:2.6
+71965	70595	CDS
+			codon_start	1
+			product	Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+			inference	ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_01212
+			ID	HOCGOLEH_00071
+			locus_tag	HOCGOLEH_00071
+			label	CDS
+			Source	Prodigal:2.6
+72813	71962	CDS
+			codon_start	1
+			product	Lipoyl-[GcvH]:protein N-lipoyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q8Y489
+			gene	lipL
+			ID	HOCGOLEH_00072
+			locus_tag	HOCGOLEH_00072
+			label	lipL
+			eC_number	2.3.1.200
+			Source	Prodigal:2.6
+73109	73546	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00073
+			locus_tag	HOCGOLEH_00073
+			label	CDS
+			Source	Prodigal:2.6
+73623	74240	CDS
+			codon_start	1
+			product	putative DNA-directed RNA polymerase subunit delta
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q5XA09
+			gene	rpoE
+			ID	HOCGOLEH_00074
+			locus_tag	HOCGOLEH_00074
+			label	rpoE
+			Source	Prodigal:2.6
+74548	76158	CDS
+			codon_start	1
+			product	CTP synthase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O87761
+			gene	pyrG
+			ID	HOCGOLEH_00075
+			locus_tag	HOCGOLEH_00075
+			label	pyrG
+			eC_number	6.3.4.2
+			Source	Prodigal:2.6
+78578	76242	CDS
+			codon_start	1
+			product	Penicillin-binding protein 1A
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q04707
+			gene	ponA
+			ID	HOCGOLEH_00076
+			locus_tag	HOCGOLEH_00076
+			label	ponA
+			Source	Prodigal:2.6
+79237	78620	CDS
+			codon_start	1
+			product	Holliday junction resolvase RecU
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q5KXY4
+			gene	recU
+			ID	HOCGOLEH_00077
+			locus_tag	HOCGOLEH_00077
+			label	recU
+			eC_number	3.1.22.-
+			Source	Prodigal:2.6
+79300	79842	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00078
+			locus_tag	HOCGOLEH_00078
+			label	CDS
+			Source	Prodigal:2.6
+79936	80346	CDS
+			codon_start	1
+			product	Cell cycle protein GpsB
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q8Y614
+			gene	gpsB
+			ID	HOCGOLEH_00079
+			locus_tag	HOCGOLEH_00079
+			label	gpsB
+			Source	Prodigal:2.6
+81060	82223	CDS
+			codon_start	1
+			product	Ribosomal RNA large subunit methyltransferase L
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9K0V4
+			gene	rlmL
+			ID	HOCGOLEH_00080
+			locus_tag	HOCGOLEH_00080
+			label	rlmL
+			eC_number	2.1.1.173
+			Source	Prodigal:2.6
+82242	83738	CDS
+			codon_start	1
+			product	Carboxypeptidase 1
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P50848
+			gene	ypwA
+			ID	HOCGOLEH_00081
+			locus_tag	HOCGOLEH_00081
+			label	ypwA
+			eC_number	3.4.17.19
+			Source	Prodigal:2.6
+83771	84487	CDS
+			codon_start	1
+			product	DNA replication protein DnaD
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P39787
+			gene	dnaD
+			ID	HOCGOLEH_00082
+			locus_tag	HOCGOLEH_00082
+			label	dnaD
+			Source	Prodigal:2.6
+84502	85149	CDS
+			codon_start	1
+			product	Endonuclease III
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0AB83
+			gene	nth
+			ID	HOCGOLEH_00083
+			locus_tag	HOCGOLEH_00083
+			label	nth
+			eC_number	4.2.99.18
+			Source	Prodigal:2.6
+85323	86087	CDS
+			codon_start	1
+			product	HTH-type transcriptional repressor YvoA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O34817
+			gene	yvoA_1
+			ID	HOCGOLEH_00084
+			locus_tag	HOCGOLEH_00084
+			label	yvoA_1
+			Source	Prodigal:2.6
+86084	87382	CDS
+			codon_start	1
+			product	Beta-Ala-Xaa dipeptidase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P45494
+			gene	pepV_1
+			ID	HOCGOLEH_00085
+			locus_tag	HOCGOLEH_00085
+			label	pepV_1
+			eC_number	3.4.13.-
+			Source	Prodigal:2.6
+87552	88505	CDS
+			codon_start	1
+			product	N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q47898
+			ID	HOCGOLEH_00086
+			locus_tag	HOCGOLEH_00086
+			label	CDS
+			eC_number	3.5.1.26
+			Source	Prodigal:2.6
+88525	88854	CDS
+			codon_start	1
+			product	PTS system N,N'-diacetylchitobiose-specific EIIBcomponent
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P69795
+			gene	chbB
+			ID	HOCGOLEH_00087
+			locus_tag	HOCGOLEH_00087
+			label	chbB
+			eC_number	2.7.1.196
+			Source	Prodigal:2.6
+88873	90228	CDS
+			codon_start	1
+			product	Lichenan permease IIC component
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P46317
+			gene	licC_1
+			ID	HOCGOLEH_00088
+			locus_tag	HOCGOLEH_00088
+			label	licC_1
+			Source	Prodigal:2.6
+90246	90764	CDS
+			codon_start	1
+			product	Glycine reductase complex component B subunit gamma
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9R4G8
+			gene	grdB
+			ID	HOCGOLEH_00089
+			locus_tag	HOCGOLEH_00089
+			label	grdB
+			eC_number	1.21.4.2
+			Source	Prodigal:2.6
+90882	93263	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00090
+			locus_tag	HOCGOLEH_00090
+			label	CDS
+			Source	Prodigal:2.6
+93260	94225	CDS
+			codon_start	1
+			product	putative L-asparaginase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9ZLB9
+			gene	ansA
+			ID	HOCGOLEH_00091
+			locus_tag	HOCGOLEH_00091
+			label	ansA
+			eC_number	3.5.1.1
+			Source	Prodigal:2.6
+94247	94930	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00092
+			locus_tag	HOCGOLEH_00092
+			label	CDS
+			Source	Prodigal:2.6
+95441	94947	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00093
+			locus_tag	HOCGOLEH_00093
+			label	CDS
+			Source	Prodigal:2.6
+95673	96629	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00094
+			locus_tag	HOCGOLEH_00094
+			label	CDS
+			Source	Prodigal:2.6
+96832	97701	CDS
+			codon_start	1
+			product	Fructose-bisphosphate aldolase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A4S2
+			gene	fba
+			ID	HOCGOLEH_00095
+			locus_tag	HOCGOLEH_00095
+			label	fba
+			eC_number	4.1.2.13
+			Source	Prodigal:2.6
+97875	99167	CDS
+			codon_start	1
+			product	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:A0A0H2ZNL3
+			gene	murA1_1
+			ID	HOCGOLEH_00096
+			locus_tag	HOCGOLEH_00096
+			label	murA1_1
+			eC_number	2.5.1.7
+			Source	Prodigal:2.6
+99164	100456	CDS
+			codon_start	1
+			product	Transcription termination factor Rho
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0AG30
+			gene	rho
+			ID	HOCGOLEH_00097
+			locus_tag	HOCGOLEH_00097
+			label	rho
+			eC_number	3.6.4.-
+			Source	Prodigal:2.6
+100556	100825	CDS
+			codon_start	1
+			product	50S ribosomal protein L31 type B
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q88Z52
+			gene	rpmE2
+			ID	HOCGOLEH_00098
+			locus_tag	HOCGOLEH_00098
+			label	rpmE2
+			Source	Prodigal:2.6
+101142	102254	CDS
+			codon_start	1
+			product	Teichoic acid glycerol-phosphate primase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P27621
+			gene	tagB
+			ID	HOCGOLEH_00099
+			locus_tag	HOCGOLEH_00099
+			label	tagB
+			eC_number	2.7.8.-
+			Source	Prodigal:2.6
+102244	102990	CDS
+			codon_start	1
+			product	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P27620
+			gene	tagA
+			ID	HOCGOLEH_00100
+			locus_tag	HOCGOLEH_00100
+			label	tagA
+			eC_number	2.4.1.187
+			Source	Prodigal:2.6
+102991	103584	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00101
+			locus_tag	HOCGOLEH_00101
+			label	CDS
+			Source	Prodigal:2.6
+103649	104047	CDS
+			codon_start	1
+			product	Glycerol-3-phosphate cytidylyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P27623
+			gene	tagD
+			ID	HOCGOLEH_00102
+			locus_tag	HOCGOLEH_00102
+			label	tagD
+			eC_number	2.7.7.39
+			Source	Prodigal:2.6
+104186	105250	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00103
+			locus_tag	HOCGOLEH_00103
+			label	CDS
+			Source	Prodigal:2.6
+105243	105455	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00104
+			locus_tag	HOCGOLEH_00104
+			label	CDS
+			Source	Prodigal:2.6
+105682	106560	CDS
+			codon_start	1
+			product	Putative fructokinase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O05510
+			gene	gmuE
+			ID	HOCGOLEH_00105
+			locus_tag	HOCGOLEH_00105
+			label	gmuE
+			eC_number	2.7.1.4
+			Source	Prodigal:2.6
+106651	106899	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00106
+			locus_tag	HOCGOLEH_00106
+			label	CDS
+			Source	Prodigal:2.6
+107691	106957	CDS
+			codon_start	1
+			product	FMN reductase (NADPH)
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P39605
+			gene	nfrA1
+			ID	HOCGOLEH_00107
+			locus_tag	HOCGOLEH_00107
+			label	nfrA1
+			eC_number	1.5.1.38
+			Source	Prodigal:2.6
+108233	107775	CDS
+			codon_start	1
+			product	S-ribosylhomocysteine lyase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9RRU8
+			gene	luxS
+			ID	HOCGOLEH_00108
+			locus_tag	HOCGOLEH_00108
+			label	luxS
+			eC_number	4.4.1.21
+			Source	Prodigal:2.6
+108440	109507	CDS
+			codon_start	1
+			product	Aspartate-semialdehyde dehydrogenase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q04797
+			gene	asd
+			ID	HOCGOLEH_00109
+			locus_tag	HOCGOLEH_00109
+			label	asd
+			eC_number	1.2.1.11
+			Source	Prodigal:2.6
+109541	110413	CDS
+			codon_start	1
+			product	4-hydroxy-tetrahydrodipicolinate synthase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q97R25
+			gene	dapA
+			ID	HOCGOLEH_00110
+			locus_tag	HOCGOLEH_00110
+			label	dapA
+			eC_number	4.3.3.7
+			Source	Prodigal:2.6
+110444	112132	CDS
+			codon_start	1
+			product	Ribonuclease J 2
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q8K7S6
+			gene	rnj2
+			ID	HOCGOLEH_00111
+			locus_tag	HOCGOLEH_00111
+			label	rnj2
+			eC_number	3.1.-.-
+			Source	Prodigal:2.6
+112257	113639	CDS
+			codon_start	1
+			product	Trifunctional nucleotide phosphoesterase proteinYfkN
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O34313
+			gene	yfkN_1
+			ID	HOCGOLEH_00112
+			locus_tag	HOCGOLEH_00112
+			label	yfkN_1
+			Source	Prodigal:2.6
+113674	114309	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00113
+			locus_tag	HOCGOLEH_00113
+			label	CDS
+			Source	Prodigal:2.6
+114315	115085	CDS
+			codon_start	1
+			product	Acid sugar phosphatase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O32125
+			gene	yutF
+			ID	HOCGOLEH_00114
+			locus_tag	HOCGOLEH_00114
+			label	yutF
+			eC_number	3.1.3.-
+			Source	Prodigal:2.6
+115103	115726	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00115
+			locus_tag	HOCGOLEH_00115
+			label	CDS
+			Source	Prodigal:2.6
+115853	116422	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00116
+			locus_tag	HOCGOLEH_00116
+			label	CDS
+			Source	Prodigal:2.6
+116415	117275	CDS
+			codon_start	1
+			product	Fatty acid-binding protein
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9X1H9
+			ID	HOCGOLEH_00117
+			locus_tag	HOCGOLEH_00117
+			label	CDS
+			Source	Prodigal:2.6
+117429	118094	CDS
+			codon_start	1
+			product	Aquaporin Z
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P60844
+			gene	aqpZ
+			ID	HOCGOLEH_00118
+			locus_tag	HOCGOLEH_00118
+			label	aqpZ
+			Source	Prodigal:2.6
+118268	118972	CDS
+			codon_start	1
+			product	Transcriptional regulatory protein WalR
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P37478
+			gene	walR_1
+			ID	HOCGOLEH_00119
+			locus_tag	HOCGOLEH_00119
+			label	walR_1
+			Source	Prodigal:2.6
+118979	120808	CDS
+			codon_start	1
+			product	Sensor histidine kinase WalK
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q45614
+			gene	walK_1
+			ID	HOCGOLEH_00120
+			locus_tag	HOCGOLEH_00120
+			label	walK_1
+			eC_number	2.7.13.3
+			Source	Prodigal:2.6
+120805	122115	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00121
+			locus_tag	HOCGOLEH_00121
+			label	CDS
+			Source	Prodigal:2.6
+122115	122969	CDS
+			codon_start	1
+			product	Two-component system WalR/WalK regulatory protein YycI
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q45612
+			gene	yycI
+			ID	HOCGOLEH_00122
+			locus_tag	HOCGOLEH_00122
+			label	yycI
+			Source	Prodigal:2.6
+123026	123832	CDS
+			codon_start	1
+			product	Putative metallo-hydrolase YycJ
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:C0SP91
+			gene	yycJ
+			ID	HOCGOLEH_00123
+			locus_tag	HOCGOLEH_00123
+			label	yycJ
+			eC_number	3.-.-.-
+			Source	Prodigal:2.6
+124043	124957	CDS
+			codon_start	1
+			product	Putative two-component membrane permease complexsubunit SMU_747c
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q8DUY3
+			ID	HOCGOLEH_00124
+			locus_tag	HOCGOLEH_00124
+			label	CDS
+			Source	Prodigal:2.6
+124976	125842	CDS
+			codon_start	1
+			product	Putative two-component membrane permease complexsubunit SMU_746c
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q8DUY4
+			ID	HOCGOLEH_00125
+			locus_tag	HOCGOLEH_00125
+			label	CDS
+			Source	Prodigal:2.6
+126385	125894	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00126
+			locus_tag	HOCGOLEH_00126
+			label	CDS
+			Source	Prodigal:2.6
+127152	126400	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00127
+			locus_tag	HOCGOLEH_00127
+			label	CDS
+			Source	Prodigal:2.6
+127588	127857	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00128
+			locus_tag	HOCGOLEH_00128
+			label	CDS
+			Source	Prodigal:2.6
+127854	128276	CDS
+			codon_start	1
+			product	Putative pre-16S rRNA nuclease
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O34634
+			gene	yrrK
+			ID	HOCGOLEH_00129
+			locus_tag	HOCGOLEH_00129
+			label	yrrK
+			eC_number	3.1.-.-
+			Source	Prodigal:2.6
+128314	128619	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00130
+			locus_tag	HOCGOLEH_00130
+			label	CDS
+			Source	Prodigal:2.6
+129118	129966	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00131
+			locus_tag	HOCGOLEH_00131
+			label	CDS
+			Source	Prodigal:2.6
+131208	130039	CDS
+			codon_start	1
+			product	NAD-dependent malic enzyme
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P16468
+			ID	HOCGOLEH_00132
+			locus_tag	HOCGOLEH_00132
+			label	CDS
+			eC_number	1.1.1.38
+			Source	Prodigal:2.6
+132565	131240	CDS
+			codon_start	1
+			product	Citrate/malate transporter
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P94363
+			gene	cimH
+			ID	HOCGOLEH_00133
+			locus_tag	HOCGOLEH_00133
+			label	cimH
+			Source	Prodigal:2.6
+132713	134263	CDS
+			codon_start	1
+			product	Sensor histidine kinase DcuS
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0AEC8
+			gene	dcuS
+			ID	HOCGOLEH_00134
+			locus_tag	HOCGOLEH_00134
+			label	dcuS
+			eC_number	2.7.13.3
+			Source	Prodigal:2.6
+134244	134936	CDS
+			codon_start	1
+			product	Transcriptional regulatory protein DcuR
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0AD01
+			gene	dcuR
+			ID	HOCGOLEH_00135
+			locus_tag	HOCGOLEH_00135
+			label	dcuR
+			Source	Prodigal:2.6
+135122	136465	CDS
+			codon_start	1
+			product	NADH peroxidase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P37062
+			gene	npr_1
+			ID	HOCGOLEH_00136
+			locus_tag	HOCGOLEH_00136
+			label	npr_1
+			eC_number	1.11.1.1
+			Source	Prodigal:2.6
+137429	136518	CDS
+			codon_start	1
+			product	Transcriptional regulator LytR
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q02115
+			gene	lytR_1
+			ID	HOCGOLEH_00137
+			locus_tag	HOCGOLEH_00137
+			label	lytR_1
+			Source	Prodigal:2.6
+137707	139359	CDS
+			codon_start	1
+			product	Acetolactate synthase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q04789
+			gene	alsS
+			ID	HOCGOLEH_00138
+			locus_tag	HOCGOLEH_00138
+			label	alsS
+			eC_number	2.2.1.6
+			Source	Prodigal:2.6
+139371	140075	CDS
+			codon_start	1
+			product	Alpha-acetolactate decarboxylase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q8L208
+			gene	aldC
+			ID	HOCGOLEH_00139
+			locus_tag	HOCGOLEH_00139
+			label	aldC
+			eC_number	4.1.1.5
+			Source	Prodigal:2.6
+140233	141315	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00140
+			locus_tag	HOCGOLEH_00140
+			label	CDS
+			Source	Prodigal:2.6
+142149	141430	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00141
+			locus_tag	HOCGOLEH_00141
+			label	CDS
+			Source	Prodigal:2.6
+142398	142802	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00142
+			locus_tag	HOCGOLEH_00142
+			label	CDS
+			Source	Prodigal:2.6
+143010	143846	CDS
+			codon_start	1
+			product	Putrescine transport system permease protein PotH
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P31135
+			gene	potH
+			ID	HOCGOLEH_00143
+			locus_tag	HOCGOLEH_00143
+			label	potH
+			Source	Prodigal:2.6
+143839	144618	CDS
+			codon_start	1
+			product	Inner membrane ABC transporter permease protein YdcV
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0AFR9
+			gene	ydcV_1
+			ID	HOCGOLEH_00144
+			locus_tag	HOCGOLEH_00144
+			label	ydcV_1
+			Source	Prodigal:2.6
+144657	145697	CDS
+			codon_start	1
+			product	Sulfate/thiosulfate import ATP-binding protein CysA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P14788
+			gene	cysA
+			ID	HOCGOLEH_00145
+			locus_tag	HOCGOLEH_00145
+			label	cysA
+			eC_number	3.6.3.25
+			Source	Prodigal:2.6
+145724	146788	CDS
+			codon_start	1
+			product	Putrescine-binding periplasmic protein SpuD
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q02UB7
+			gene	spuD
+			ID	HOCGOLEH_00146
+			locus_tag	HOCGOLEH_00146
+			label	spuD
+			Source	Prodigal:2.6
+146809	148548	CDS
+			codon_start	1
+			product	Adenine deaminase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P39761
+			gene	adeC
+			ID	HOCGOLEH_00147
+			locus_tag	HOCGOLEH_00147
+			label	adeC
+			eC_number	3.5.4.2
+			Source	Prodigal:2.6
+148532	148666	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00148
+			locus_tag	HOCGOLEH_00148
+			label	CDS
+			Source	Prodigal:2.6
+148667	149860	CDS
+			codon_start	1
+			product	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9X034
+			gene	mtaD
+			ID	HOCGOLEH_00149
+			locus_tag	HOCGOLEH_00149
+			label	mtaD
+			eC_number	3.5.4.28
+			Source	Prodigal:2.6
+150066	150935	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00150
+			locus_tag	HOCGOLEH_00150
+			label	CDS
+			Source	Prodigal:2.6
+151155	152090	CDS
+			codon_start	1
+			product	FAD:protein FMN transferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O83774
+			gene	apbE_1
+			ID	HOCGOLEH_00151
+			locus_tag	HOCGOLEH_00151
+			label	apbE_1
+			eC_number	2.7.1.180
+			Source	Prodigal:2.6
+152117	152725	CDS
+			codon_start	1
+			product	NADH-dependent flavin reductase subunit 1
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q74HL7
+			gene	nfr1_1
+			ID	HOCGOLEH_00152
+			locus_tag	HOCGOLEH_00152
+			label	nfr1_1
+			eC_number	1.5.1.36
+			Source	Prodigal:2.6
+152744	154000	CDS
+			codon_start	1
+			product	NADH-dependent flavin reductase subunit 1
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q74HL7
+			gene	nfr1_2
+			ID	HOCGOLEH_00153
+			locus_tag	HOCGOLEH_00153
+			label	nfr1_2
+			eC_number	1.5.1.36
+			Source	Prodigal:2.6
+154412	155902	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00154
+			locus_tag	HOCGOLEH_00154
+			label	CDS
+			Source	Prodigal:2.6
+155844	156527	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00155
+			locus_tag	HOCGOLEH_00155
+			label	CDS
+			Source	Prodigal:2.6
+156548	156643	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00156
+			locus_tag	HOCGOLEH_00156
+			label	CDS
+			Source	Prodigal:2.6
+156851	157675	CDS
+			codon_start	1
+			product	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+			inference	ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_00905
+			gene	cpdA_1
+			ID	HOCGOLEH_00157
+			locus_tag	HOCGOLEH_00157
+			label	cpdA_1
+			eC_number	3.1.4.53
+			Source	Prodigal:2.6
+157967	158878	CDS
+			codon_start	1
+			product	putative multiple-sugar transport system permease YteP
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:C0SPB3
+			gene	yteP_1
+			ID	HOCGOLEH_00158
+			locus_tag	HOCGOLEH_00158
+			label	yteP_1
+			Source	Prodigal:2.6
+158893	159774	CDS
+			codon_start	1
+			product	L-arabinose transport system permease protein AraQ
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P94530
+			gene	araQ_1
+			ID	HOCGOLEH_00159
+			locus_tag	HOCGOLEH_00159
+			label	araQ_1
+			Source	Prodigal:2.6
+159792	161390	CDS
+			codon_start	1
+			product	Lipoprotein LipO
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P37966
+			gene	lipO
+			ID	HOCGOLEH_00160
+			locus_tag	HOCGOLEH_00160
+			label	lipO
+			Source	Prodigal:2.6
+161447	162040	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00161
+			locus_tag	HOCGOLEH_00161
+			label	CDS
+			Source	Prodigal:2.6
+162033	162950	CDS
+			codon_start	1
+			product	Cephalosporin-C deacetylase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9WXT2
+			gene	axeA
+			ID	HOCGOLEH_00162
+			locus_tag	HOCGOLEH_00162
+			label	axeA
+			eC_number	3.1.1.41
+			Source	Prodigal:2.6
+162931	163695	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00163
+			locus_tag	HOCGOLEH_00163
+			label	CDS
+			Source	Prodigal:2.6
+163700	165850	CDS
+			codon_start	1
+			product	Beta-glucosidase BoGH3B
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:A7LXU3
+			ID	HOCGOLEH_00164
+			locus_tag	HOCGOLEH_00164
+			label	CDS
+			eC_number	3.2.1.21
+			Source	Prodigal:2.6
+165868	169143	CDS
+			codon_start	1
+			product	1,2-beta-oligoglucan phosphorylase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q92AT0
+			ID	HOCGOLEH_00165
+			locus_tag	HOCGOLEH_00165
+			label	CDS
+			eC_number	2.4.1.333
+			Source	Prodigal:2.6
+169159	170124	CDS
+			codon_start	1
+			product	putative HTH-type transcriptional repressor ExuR
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9JMQ1
+			gene	exuR_1
+			ID	HOCGOLEH_00166
+			locus_tag	HOCGOLEH_00166
+			label	exuR_1
+			Source	Prodigal:2.6
+170708	170157	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00167
+			locus_tag	HOCGOLEH_00167
+			label	CDS
+			Source	Prodigal:2.6
+171671	170958	CDS
+			codon_start	1
+			product	HTH-type transcriptional regulator GmuR
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O05509
+			gene	gmuR
+			ID	HOCGOLEH_00168
+			locus_tag	HOCGOLEH_00168
+			label	gmuR
+			Source	Prodigal:2.6
+171914	173347	CDS
+			codon_start	1
+			product	Aryl-phospho-beta-D-glucosidase BglC
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P42403
+			gene	bglC_1
+			ID	HOCGOLEH_00169
+			locus_tag	HOCGOLEH_00169
+			label	bglC_1
+			eC_number	3.2.1.86
+			Source	Prodigal:2.6
+173372	174421	CDS
+			codon_start	1
+			product	putative oxidoreductase YhhX
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P46853
+			gene	yhhX
+			ID	HOCGOLEH_00170
+			locus_tag	HOCGOLEH_00170
+			label	yhhX
+			eC_number	1.-.-.-
+			Source	Prodigal:2.6
+174895	175353	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00171
+			locus_tag	HOCGOLEH_00171
+			label	CDS
+			Source	Prodigal:2.6
+175733	175392	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00172
+			locus_tag	HOCGOLEH_00172
+			label	CDS
+			Source	Prodigal:2.6
+176070	175807	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00173
+			locus_tag	HOCGOLEH_00173
+			label	CDS
+			Source	Prodigal:2.6
+177938	176226	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00174
+			locus_tag	HOCGOLEH_00174
+			label	CDS
+			Source	Prodigal:2.6
+178146	178817	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00175
+			locus_tag	HOCGOLEH_00175
+			label	CDS
+			Source	Prodigal:2.6
+178881	178988	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00176
+			locus_tag	HOCGOLEH_00176
+			label	CDS
+			Source	Prodigal:2.6
+179628	180617	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00177
+			locus_tag	HOCGOLEH_00177
+			label	CDS
+			Source	Prodigal:2.6
+180642	181529	CDS
+			codon_start	1
+			product	Autoinducer 2 import system permease protein LsrC
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q8ZKQ3
+			gene	lsrC
+			ID	HOCGOLEH_00178
+			locus_tag	HOCGOLEH_00178
+			label	lsrC
+			Source	Prodigal:2.6
+181526	182293	CDS
+			codon_start	1
+			product	Thiamine import ATP-binding protein ThiQ
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P31548
+			gene	thiQ
+			ID	HOCGOLEH_00179
+			locus_tag	HOCGOLEH_00179
+			label	thiQ
+			eC_number	3.6.3.-
+			Source	Prodigal:2.6
+182787	182326	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00180
+			locus_tag	HOCGOLEH_00180
+			label	CDS
+			Source	Prodigal:2.6
+183557	182799	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00181
+			locus_tag	HOCGOLEH_00181
+			label	CDS
+			Source	Prodigal:2.6
+183807	184013	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00182
+			locus_tag	HOCGOLEH_00182
+			label	CDS
+			Source	Prodigal:2.6
+184810	184031	CDS
+			codon_start	1
+			product	Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q5XAQ1
+			ID	HOCGOLEH_00183
+			locus_tag	HOCGOLEH_00183
+			label	CDS
+			Source	Prodigal:2.6
+185025	185744	CDS
+			codon_start	1
+			product	Transcriptional regulatory protein SrrA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q5HFT0
+			gene	srrA_1
+			ID	HOCGOLEH_00184
+			locus_tag	HOCGOLEH_00184
+			label	srrA_1
+			Source	Prodigal:2.6
+185744	187213	CDS
+			codon_start	1
+			product	Alkaline phosphatase synthesis sensor protein PhoR
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P23545
+			gene	phoR_1
+			ID	HOCGOLEH_00185
+			locus_tag	HOCGOLEH_00185
+			label	phoR_1
+			eC_number	2.7.13.3
+			Source	Prodigal:2.6
+187802	187251	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00186
+			locus_tag	HOCGOLEH_00186
+			label	CDS
+			Source	Prodigal:2.6
+188518	187817	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00187
+			locus_tag	HOCGOLEH_00187
+			label	CDS
+			Source	Prodigal:2.6
+190732	188624	CDS
+			codon_start	1
+			product	Lipoteichoic acid synthase 1
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q797B3
+			gene	ltaS1_1
+			ID	HOCGOLEH_00188
+			locus_tag	HOCGOLEH_00188
+			label	ltaS1_1
+			Source	Prodigal:2.6
+190990	192162	CDS
+			codon_start	1
+			product	Ribosomal RNA large subunit methyltransferase I
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P75876
+			gene	rlmI
+			ID	HOCGOLEH_00189
+			locus_tag	HOCGOLEH_00189
+			label	rlmI
+			eC_number	2.1.1.191
+			Source	Prodigal:2.6
+193146	192229	CDS
+			codon_start	1
+			product	Ribonuclease HIII
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P94541
+			gene	rnhC
+			ID	HOCGOLEH_00190
+			locus_tag	HOCGOLEH_00190
+			label	rnhC
+			eC_number	3.1.26.4
+			Source	Prodigal:2.6
+193389	195785	CDS
+			codon_start	1
+			product	putative cation-transporting ATPase E
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P9WPT1
+			gene	ctpE_1
+			ID	HOCGOLEH_00191
+			locus_tag	HOCGOLEH_00191
+			label	ctpE_1
+			eC_number	3.6.3.-
+			Source	Prodigal:2.6
+195927	197813	CDS
+			codon_start	1
+			product	Serine-aspartate repeat-containing protein E
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q99W46
+			gene	sdrE
+			ID	HOCGOLEH_00192
+			locus_tag	HOCGOLEH_00192
+			label	sdrE
+			Source	Prodigal:2.6
+198019	198492	CDS
+			codon_start	1
+			product	Ribosome maturation factor RimP
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q97S61
+			gene	rimP
+			ID	HOCGOLEH_00193
+			locus_tag	HOCGOLEH_00193
+			label	rimP
+			Source	Prodigal:2.6
+198636	199835	CDS
+			codon_start	1
+			product	Transcription termination/antitermination protein NusA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P32727
+			gene	nusA
+			ID	HOCGOLEH_00194
+			locus_tag	HOCGOLEH_00194
+			label	nusA
+			Source	Prodigal:2.6
+199856	200155	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00195
+			locus_tag	HOCGOLEH_00195
+			label	CDS
+			Source	Prodigal:2.6
+200145	200450	CDS
+			codon_start	1
+			product	putative ribosomal protein YlxQ
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P32729
+			gene	rplGA
+			ID	HOCGOLEH_00196
+			locus_tag	HOCGOLEH_00196
+			label	rplGA
+			Source	Prodigal:2.6
+200463	202859	CDS
+			codon_start	1
+			product	Translation initiation factor IF-2
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P04766
+			gene	infB
+			ID	HOCGOLEH_00197
+			locus_tag	HOCGOLEH_00197
+			label	infB
+			Source	Prodigal:2.6
+202884	203234	CDS
+			codon_start	1
+			product	Ribosome-binding factor A
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P65967
+			gene	rbfA
+			ID	HOCGOLEH_00198
+			locus_tag	HOCGOLEH_00198
+			label	rbfA
+			Source	Prodigal:2.6
+203317	203547	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00199
+			locus_tag	HOCGOLEH_00199
+			label	CDS
+			Source	Prodigal:2.6
+204080	203607	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00200
+			locus_tag	HOCGOLEH_00200
+			label	CDS
+			Source	Prodigal:2.6
+204609	204127	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00201
+			locus_tag	HOCGOLEH_00201
+			label	CDS
+			Source	Prodigal:2.6
+204826	204960	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00202
+			locus_tag	HOCGOLEH_00202
+			label	CDS
+			Source	Prodigal:2.6
+205086	205760	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00203
+			locus_tag	HOCGOLEH_00203
+			label	CDS
+			Source	Prodigal:2.6
+205779	206621	CDS
+			codon_start	1
+			product	DNA replication protein DnaC
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0AEF0
+			gene	dnaC_1
+			ID	HOCGOLEH_00204
+			locus_tag	HOCGOLEH_00204
+			label	dnaC_1
+			Source	Prodigal:2.6
+206624	206716	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00205
+			locus_tag	HOCGOLEH_00205
+			label	CDS
+			Source	Prodigal:2.6
+206709	207080	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00206
+			locus_tag	HOCGOLEH_00206
+			label	CDS
+			Source	Prodigal:2.6
+207100	207507	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00207
+			locus_tag	HOCGOLEH_00207
+			label	CDS
+			Source	Prodigal:2.6
+207753	208145	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00208
+			locus_tag	HOCGOLEH_00208
+			label	CDS
+			Source	Prodigal:2.6
+208158	208670	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00209
+			locus_tag	HOCGOLEH_00209
+			label	CDS
+			Source	Prodigal:2.6
+208703	209062	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00210
+			locus_tag	HOCGOLEH_00210
+			label	CDS
+			Source	Prodigal:2.6
+209080	209448	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00211
+			locus_tag	HOCGOLEH_00211
+			label	CDS
+			Source	Prodigal:2.6
+209438	212371	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00212
+			locus_tag	HOCGOLEH_00212
+			label	CDS
+			Source	Prodigal:2.6
+212373	213299	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00213
+			locus_tag	HOCGOLEH_00213
+			label	CDS
+			Source	Prodigal:2.6
+213312	214769	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00214
+			locus_tag	HOCGOLEH_00214
+			label	CDS
+			Source	Prodigal:2.6
+214802	216571	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00215
+			locus_tag	HOCGOLEH_00215
+			label	CDS
+			Source	Prodigal:2.6
+216595	216990	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00216
+			locus_tag	HOCGOLEH_00216
+			label	CDS
+			Source	Prodigal:2.6
+217136	218233	CDS
+			codon_start	1
+			product	Autolysin
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P06653
+			gene	lytA
+			ID	HOCGOLEH_00217
+			locus_tag	HOCGOLEH_00217
+			label	lytA
+			eC_number	3.5.1.28
+			Source	Prodigal:2.6
+218388	219308	CDS
+			codon_start	1
+			product	tRNA pseudouridine synthase B
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q97QJ3
+			gene	truB
+			ID	HOCGOLEH_00218
+			locus_tag	HOCGOLEH_00218
+			label	truB
+			eC_number	5.4.99.25
+			Source	Prodigal:2.6
+219334	220284	CDS
+			codon_start	1
+			product	Riboflavin biosynthesis protein RibF
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q59263
+			gene	ribF
+			ID	HOCGOLEH_00219
+			locus_tag	HOCGOLEH_00219
+			label	ribF
+			Source	Prodigal:2.6
+220284	220880	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00220
+			locus_tag	HOCGOLEH_00220
+			label	CDS
+			Source	Prodigal:2.6
+221030	221353	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00221
+			locus_tag	HOCGOLEH_00221
+			label	CDS
+			Source	Prodigal:2.6
+221357	221698	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00222
+			locus_tag	HOCGOLEH_00222
+			label	CDS
+			Source	Prodigal:2.6
+221724	221984	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00223
+			locus_tag	HOCGOLEH_00223
+			label	CDS
+			Source	Prodigal:2.6
+222143	223318	CDS
+			codon_start	1
+			product	putative peptidoglycan glycosyltransferase FtsW
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O07639
+			gene	ftsW_1
+			ID	HOCGOLEH_00224
+			locus_tag	HOCGOLEH_00224
+			label	ftsW_1
+			eC_number	2.4.1.129
+			Source	Prodigal:2.6
+223284	224432	CDS
+			codon_start	1
+			product	Peptidoglycan glycosyltransferase RodA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P39604
+			gene	rodA_1
+			ID	HOCGOLEH_00225
+			locus_tag	HOCGOLEH_00225
+			label	rodA_1
+			eC_number	2.4.1.129
+			Source	Prodigal:2.6
+225381	224494	CDS
+			codon_start	1
+			product	HTH-type transcriptional regulator CynR
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P27111
+			gene	cynR_1
+			ID	HOCGOLEH_00226
+			locus_tag	HOCGOLEH_00226
+			label	cynR_1
+			Source	Prodigal:2.6
+226280	225405	CDS
+			codon_start	1
+			product	HTH-type transcriptional regulator CynR
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P27111
+			gene	cynR_2
+			ID	HOCGOLEH_00227
+			locus_tag	HOCGOLEH_00227
+			label	cynR_2
+			Source	Prodigal:2.6
+226817	229477	CDS
+			codon_start	1
+			product	Magnesium-transporting ATPase, P-type 1
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P22036
+			gene	mgtB
+			ID	HOCGOLEH_00228
+			locus_tag	HOCGOLEH_00228
+			label	mgtB
+			eC_number	3.6.3.2
+			Source	Prodigal:2.6
+229685	230869	CDS
+			codon_start	1
+			product	Oxygen-independent coproporphyrinogen-III oxidase-like protein
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9CGF7
+			gene	hemN
+			ID	HOCGOLEH_00229
+			locus_tag	HOCGOLEH_00229
+			label	hemN
+			eC_number	1.3.99.-
+			Source	Prodigal:2.6
+231095	232138	CDS
+			codon_start	1
+			product	Heat-inducible transcription repressor HrcA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P30727
+			gene	hrcA
+			ID	HOCGOLEH_00230
+			locus_tag	HOCGOLEH_00230
+			label	hrcA
+			Source	Prodigal:2.6
+232193	232732	CDS
+			codon_start	1
+			product	Protein GrpE
+			inference	ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_01151
+			gene	grpE
+			ID	HOCGOLEH_00231
+			locus_tag	HOCGOLEH_00231
+			label	grpE
+			Source	Prodigal:2.6
+232792	234621	CDS
+			codon_start	1
+			product	Chaperone protein DnaK
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P17820
+			gene	dnaK
+			ID	HOCGOLEH_00232
+			locus_tag	HOCGOLEH_00232
+			label	dnaK
+			Source	Prodigal:2.6
+234913	236082	CDS
+			codon_start	1
+			product	Chaperone protein DnaJ
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O87778
+			gene	dnaJ_1
+			ID	HOCGOLEH_00233
+			locus_tag	HOCGOLEH_00233
+			label	dnaJ_1
+			Source	Prodigal:2.6
+236321	237055	CDS
+			codon_start	1
+			product	Serine/threonine-protein phosphatase 1
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P55798
+			gene	pphA
+			ID	HOCGOLEH_00234
+			locus_tag	HOCGOLEH_00234
+			label	pphA
+			eC_number	3.1.3.16
+			Source	Prodigal:2.6
+237153	239345	CDS
+			codon_start	1
+			product	30S ribosomal protein S1
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P9WH43
+			gene	rpsA
+			ID	HOCGOLEH_00235
+			locus_tag	HOCGOLEH_00235
+			label	rpsA
+			Source	Prodigal:2.6
+239348	239833	CDS
+			codon_start	1
+			product	Protein SprT-like protein
+			inference	ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_00745
+			ID	HOCGOLEH_00236
+			locus_tag	HOCGOLEH_00236
+			label	CDS
+			Source	Prodigal:2.6
+239901	239987	tRNA
+			product	tRNA-Leu(gag)
+			inference	COORDINATES:profile:Aragorn:1.2
+			ID	HOCGOLEH_00237
+			locus_tag	HOCGOLEH_00237
+			label	tRNA
+			Source	Aragorn:1.2
+240232	241449	CDS
+			codon_start	1
+			product	Glutamate-pyruvate aminotransferase AlaA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A959
+			gene	alaA
+			ID	HOCGOLEH_00238
+			locus_tag	HOCGOLEH_00238
+			label	alaA
+			eC_number	2.6.1.2
+			Source	Prodigal:2.6
+241691	241515	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00239
+			locus_tag	HOCGOLEH_00239
+			label	CDS
+			Source	Prodigal:2.6
+241869	242696	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00240
+			locus_tag	HOCGOLEH_00240
+			label	CDS
+			Source	Prodigal:2.6
+242797	243945	CDS
+			codon_start	1
+			product	N-acetylglucosamine-6-phosphate deacetylase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q84F86
+			gene	nagA_1
+			ID	HOCGOLEH_00241
+			locus_tag	HOCGOLEH_00241
+			label	nagA_1
+			eC_number	3.5.1.25
+			Source	Prodigal:2.6
+244375	243989	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00242
+			locus_tag	HOCGOLEH_00242
+			label	CDS
+			Source	Prodigal:2.6
+245048	244389	CDS
+			codon_start	1
+			product	DNA-entry nuclease
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A3S3
+			gene	endA
+			ID	HOCGOLEH_00243
+			locus_tag	HOCGOLEH_00243
+			label	endA
+			eC_number	3.1.30.-
+			Source	Prodigal:2.6
+245209	245910	CDS
+			codon_start	1
+			product	putative ABC transporter ATP-binding protein
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P9WQK1
+			ID	HOCGOLEH_00244
+			locus_tag	HOCGOLEH_00244
+			label	CDS
+			Source	Prodigal:2.6
+245920	248556	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00245
+			locus_tag	HOCGOLEH_00245
+			label	CDS
+			Source	Prodigal:2.6
+248749	249273	CDS
+			codon_start	1
+			product	putative membrane protein YuaF
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O32077
+			gene	yuaF
+			ID	HOCGOLEH_00246
+			locus_tag	HOCGOLEH_00246
+			label	yuaF
+			Source	Prodigal:2.6
+249290	250759	CDS
+			codon_start	1
+			product	Inner membrane protein YqiK
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P77306
+			gene	yqiK
+			ID	HOCGOLEH_00247
+			locus_tag	HOCGOLEH_00247
+			label	yqiK
+			Source	Prodigal:2.6
+250906	251139	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00248
+			locus_tag	HOCGOLEH_00248
+			label	CDS
+			Source	Prodigal:2.6
+251235	251317	tRNA
+			product	tRNA-Tyr(gta)
+			inference	COORDINATES:profile:Aragorn:1.2
+			ID	HOCGOLEH_00249
+			locus_tag	HOCGOLEH_00249
+			label	tRNA
+			Source	Aragorn:1.2
+251325	251398	tRNA
+			product	tRNA-Gln(ttg)
+			inference	COORDINATES:profile:Aragorn:1.2
+			ID	HOCGOLEH_00250
+			locus_tag	HOCGOLEH_00250
+			label	tRNA
+			Source	Aragorn:1.2
+251552	251731	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00251
+			locus_tag	HOCGOLEH_00251
+			label	CDS
+			Source	Prodigal:2.6
+252395	251787	CDS
+			codon_start	1
+			product	HTH-type transcriptional regulator AcrR
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0ACS9
+			gene	acrR
+			ID	HOCGOLEH_00252
+			locus_tag	HOCGOLEH_00252
+			label	acrR
+			Source	Prodigal:2.6
+252574	256821	CDS
+			codon_start	1
+			product	2-hydroxyisocaproyl-CoA dehydratase activator
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q5U925
+			gene	hadI
+			ID	HOCGOLEH_00253
+			locus_tag	HOCGOLEH_00253
+			label	hadI
+			eC_number	3.-.-.-
+			Source	Prodigal:2.6
+257028	257735	CDS
+			codon_start	1
+			product	HTH-type transcriptional repressor YvoA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O34817
+			gene	yvoA_2
+			ID	HOCGOLEH_00254
+			locus_tag	HOCGOLEH_00254
+			label	yvoA_2
+			Source	Prodigal:2.6
+258544	259398	CDS
+			codon_start	1
+			product	putative adenylyltransferase/sulfurtransferase MoeZ
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P9WMN7
+			gene	moeZ_1
+			ID	HOCGOLEH_00255
+			locus_tag	HOCGOLEH_00255
+			label	moeZ_1
+			Source	Prodigal:2.6
+259362	259967	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00256
+			locus_tag	HOCGOLEH_00256
+			label	CDS
+			Source	Prodigal:2.6
+260228	261172	CDS
+			codon_start	1
+			product	Lipopolysaccharide export system ATP-binding protein LptB
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P45073
+			gene	lptB
+			ID	HOCGOLEH_00257
+			locus_tag	HOCGOLEH_00257
+			label	lptB
+			eC_number	3.6.3.-
+			Source	Prodigal:2.6
+261150	261908	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00258
+			locus_tag	HOCGOLEH_00258
+			label	CDS
+			Source	Prodigal:2.6
+261917	262630	CDS
+			codon_start	1
+			product	ABC transporter ATP-binding protein NatA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P46903
+			gene	natA_1
+			ID	HOCGOLEH_00259
+			locus_tag	HOCGOLEH_00259
+			label	natA_1
+			Source	Prodigal:2.6
+262623	263336	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00260
+			locus_tag	HOCGOLEH_00260
+			label	CDS
+			Source	Prodigal:2.6
+264668	263358	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00261
+			locus_tag	HOCGOLEH_00261
+			label	CDS
+			Source	Prodigal:2.6
+265372	264668	CDS
+			codon_start	1
+			product	Transcriptional regulatory protein NatR
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P70955
+			gene	natR
+			ID	HOCGOLEH_00262
+			locus_tag	HOCGOLEH_00262
+			label	natR
+			Source	Prodigal:2.6
+265949	266167	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00263
+			locus_tag	HOCGOLEH_00263
+			label	CDS
+			Source	Prodigal:2.6
+266210	266380	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00264
+			locus_tag	HOCGOLEH_00264
+			label	CDS
+			Source	Prodigal:2.6
+266549	267463	CDS
+			codon_start	1
+			product	Thioredoxin reductase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P80880
+			gene	trxB_1
+			ID	HOCGOLEH_00265
+			locus_tag	HOCGOLEH_00265
+			label	trxB_1
+			eC_number	1.8.1.9
+			Source	Prodigal:2.6
+267967	267506	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00266
+			locus_tag	HOCGOLEH_00266
+			label	CDS
+			Source	Prodigal:2.6
+268664	268164	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00267
+			locus_tag	HOCGOLEH_00267
+			label	CDS
+			Source	Prodigal:2.6
+271122	268783	CDS
+			codon_start	1
+			product	putative ABC transporter ATP-binding protein YknY
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O31711
+			gene	yknY_1
+			ID	HOCGOLEH_00268
+			locus_tag	HOCGOLEH_00268
+			label	yknY_1
+			eC_number	3.6.3.-
+			Source	Prodigal:2.6
+271268	271756	CDS
+			codon_start	1
+			product	Transcriptional regulator SlyA
+			inference	ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_01819
+			gene	slyA_1
+			ID	HOCGOLEH_00269
+			locus_tag	HOCGOLEH_00269
+			label	slyA_1
+			Source	Prodigal:2.6
+272657	271794	CDS
+			codon_start	1
+			product	Maltose transport system permease protein MalG
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P68183
+			gene	malG
+			ID	HOCGOLEH_00270
+			locus_tag	HOCGOLEH_00270
+			label	malG
+			Source	Prodigal:2.6
+274004	272661	CDS
+			codon_start	1
+			product	Maltose transport system permease protein MalF
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P02916
+			gene	malF
+			ID	HOCGOLEH_00271
+			locus_tag	HOCGOLEH_00271
+			label	malF
+			Source	Prodigal:2.6
+275340	274090	CDS
+			codon_start	1
+			product	Cyclodextrin-binding protein
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O07009
+			gene	cycB
+			ID	HOCGOLEH_00272
+			locus_tag	HOCGOLEH_00272
+			label	cycB
+			Source	Prodigal:2.6
+275600	277366	CDS
+			codon_start	1
+			product	Intracellular maltogenic amylase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9R9H8
+			gene	bbmA
+			ID	HOCGOLEH_00273
+			locus_tag	HOCGOLEH_00273
+			label	bbmA
+			eC_number	3.2.1.-
+			Source	Prodigal:2.6
+277394	279019	CDS
+			codon_start	1
+			product	Glucan 1,6-alpha-glucosidase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q99040
+			gene	dexB
+			ID	HOCGOLEH_00274
+			locus_tag	HOCGOLEH_00274
+			label	dexB
+			eC_number	3.2.1.70
+			Source	Prodigal:2.6
+279021	280634	CDS
+			codon_start	1
+			product	Oligo-1,6-glucosidase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P21332
+			gene	malL_1
+			ID	HOCGOLEH_00275
+			locus_tag	HOCGOLEH_00275
+			label	malL_1
+			eC_number	3.2.1.10
+			Source	Prodigal:2.6
+280805	281386	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00276
+			locus_tag	HOCGOLEH_00276
+			label	CDS
+			Source	Prodigal:2.6
+281859	284471	CDS
+			codon_start	1
+			product	Magnesium-transporting ATPase, P-type 1
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0ABB8
+			gene	mgtA
+			ID	HOCGOLEH_00277
+			locus_tag	HOCGOLEH_00277
+			label	mgtA
+			eC_number	3.6.3.2
+			Source	Prodigal:2.6
+285070	286185	CDS
+			codon_start	1
+			product	Pyruvate dehydrogenase E1 component subunit alpha
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q820A6
+			gene	pdhA
+			ID	HOCGOLEH_00278
+			locus_tag	HOCGOLEH_00278
+			label	pdhA
+			eC_number	1.2.4.1
+			Source	Prodigal:2.6
+286188	287165	CDS
+			codon_start	1
+			product	Pyruvate dehydrogenase E1 component subunit beta
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P99063
+			gene	pdhB
+			ID	HOCGOLEH_00279
+			locus_tag	HOCGOLEH_00279
+			label	pdhB
+			eC_number	1.2.4.1
+			Source	Prodigal:2.6
+287308	288927	CDS
+			codon_start	1
+			product	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P65636
+			gene	pdhC_1
+			ID	HOCGOLEH_00280
+			locus_tag	HOCGOLEH_00280
+			label	pdhC_1
+			eC_number	2.3.1.12
+			Source	Prodigal:2.6
+288935	290341	CDS
+			codon_start	1
+			product	Dihydrolipoyl dehydrogenase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P11959
+			gene	pdhD
+			ID	HOCGOLEH_00281
+			locus_tag	HOCGOLEH_00281
+			label	pdhD
+			eC_number	1.8.1.4
+			Source	Prodigal:2.6
+291440	290454	CDS
+			codon_start	1
+			product	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P19219
+			gene	adaA_1
+			ID	HOCGOLEH_00282
+			locus_tag	HOCGOLEH_00282
+			label	adaA_1
+			eC_number	2.1.1.-
+			Source	Prodigal:2.6
+291601	292740	CDS
+			codon_start	1
+			product	Glycerol dehydrogenase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A9S5
+			gene	gldA
+			ID	HOCGOLEH_00283
+			locus_tag	HOCGOLEH_00283
+			label	gldA
+			eC_number	1.1.1.6
+			Source	Prodigal:2.6
+292753	293151	CDS
+			codon_start	1
+			product	Protein-lysine deacetylase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0DN88
+			gene	dhaM
+			ID	HOCGOLEH_00284
+			locus_tag	HOCGOLEH_00284
+			label	dhaM
+			eC_number	3.5.1.-
+			Source	Prodigal:2.6
+293152	294135	CDS
+			codon_start	1
+			product	PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9CIV8
+			gene	dhaK
+			ID	HOCGOLEH_00285
+			locus_tag	HOCGOLEH_00285
+			label	dhaK
+			eC_number	2.7.-.-
+			Source	Prodigal:2.6
+294148	294750	CDS
+			codon_start	1
+			product	PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9CIV7
+			gene	dhaL
+			ID	HOCGOLEH_00286
+			locus_tag	HOCGOLEH_00286
+			label	dhaL
+			eC_number	2.7.-.-
+			Source	Prodigal:2.6
+294889	295656	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00287
+			locus_tag	HOCGOLEH_00287
+			label	CDS
+			Source	Prodigal:2.6
+296880	295729	CDS
+			codon_start	1
+			product	Hydroxymethylglutaryl-CoA synthase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9FD71
+			gene	mvaS
+			ID	HOCGOLEH_00288
+			locus_tag	HOCGOLEH_00288
+			label	mvaS
+			eC_number	2.3.3.10
+			Source	Prodigal:2.6
+297066	299477	CDS
+			codon_start	1
+			product	putative acetyl-CoA acyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q7A7L2
+			ID	HOCGOLEH_00289
+			locus_tag	HOCGOLEH_00289
+			label	CDS
+			eC_number	2.3.1.9
+			Source	Prodigal:2.6
+300549	299497	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00290
+			locus_tag	HOCGOLEH_00290
+			label	CDS
+			Source	Prodigal:2.6
+301771	300566	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00291
+			locus_tag	HOCGOLEH_00291
+			label	CDS
+			Source	Prodigal:2.6
+302127	301927	CDS
+			codon_start	1
+			product	Cold shock-like protein CspLA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A355
+			gene	cspLA_1
+			ID	HOCGOLEH_00292
+			locus_tag	HOCGOLEH_00292
+			label	cspLA_1
+			Source	Prodigal:2.6
+303546	302425	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00293
+			locus_tag	HOCGOLEH_00293
+			label	CDS
+			Source	Prodigal:2.6
+304233	303883	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00294
+			locus_tag	HOCGOLEH_00294
+			label	CDS
+			Source	Prodigal:2.6
+304425	305858	CDS
+			codon_start	1
+			product	Riboflavin transporter RibZ
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q180E3
+			gene	ribZ_1
+			ID	HOCGOLEH_00295
+			locus_tag	HOCGOLEH_00295
+			label	ribZ_1
+			Source	Prodigal:2.6
+306063	306737	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00296
+			locus_tag	HOCGOLEH_00296
+			label	CDS
+			Source	Prodigal:2.6
+306747	308066	CDS
+			codon_start	1
+			product	Cobalt-dependent inorganic pyrophosphatase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q8XIQ9
+			ID	HOCGOLEH_00297
+			locus_tag	HOCGOLEH_00297
+			label	CDS
+			eC_number	3.6.1.1
+			Source	Prodigal:2.6
+308080	309033	CDS
+			codon_start	1
+			product	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q8DTN6
+			gene	nrnA
+			ID	HOCGOLEH_00298
+			locus_tag	HOCGOLEH_00298
+			label	nrnA
+			eC_number	3.1.-.-
+			Source	Prodigal:2.6
+309147	309485	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00299
+			locus_tag	HOCGOLEH_00299
+			label	CDS
+			Source	Prodigal:2.6
+309857	309546	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00300
+			locus_tag	HOCGOLEH_00300
+			label	CDS
+			Source	Prodigal:2.6
+310000	311181	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00301
+			locus_tag	HOCGOLEH_00301
+			label	CDS
+			Source	Prodigal:2.6
+311244	312593	CDS
+			codon_start	1
+			product	DEAD-box ATP-dependent RNA helicase CshB
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q8Y755
+			gene	cshB
+			ID	HOCGOLEH_00302
+			locus_tag	HOCGOLEH_00302
+			label	cshB
+			eC_number	3.6.4.13
+			Source	Prodigal:2.6
+313140	313823	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00303
+			locus_tag	HOCGOLEH_00303
+			label	CDS
+			Source	Prodigal:2.6
+314169	316811	CDS
+			codon_start	1
+			product	Alanine--tRNA ligase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P67011
+			gene	alaS
+			ID	HOCGOLEH_00304
+			locus_tag	HOCGOLEH_00304
+			label	alaS
+			eC_number	6.1.1.7
+			Source	Prodigal:2.6
+317014	317730	CDS
+			codon_start	1
+			product	tRNA (adenine(22)-N(1))-methyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P54471
+			gene	trmK
+			ID	HOCGOLEH_00305
+			locus_tag	HOCGOLEH_00305
+			label	trmK
+			eC_number	2.1.1.217
+			Source	Prodigal:2.6
+317714	318832	CDS
+			codon_start	1
+			product	GTP cyclohydrolase 1 type 2
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P67272
+			ID	HOCGOLEH_00306
+			locus_tag	HOCGOLEH_00306
+			label	CDS
+			Source	Prodigal:2.6
+318862	320091	CDS
+			codon_start	1
+			product	Peptidase T
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q84BV2
+			gene	pepT_1
+			ID	HOCGOLEH_00307
+			locus_tag	HOCGOLEH_00307
+			label	pepT_1
+			eC_number	3.4.11.4
+			Source	Prodigal:2.6
+320237	320503	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00308
+			locus_tag	HOCGOLEH_00308
+			label	CDS
+			Source	Prodigal:2.6
+320523	321551	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00309
+			locus_tag	HOCGOLEH_00309
+			label	CDS
+			Source	Prodigal:2.6
+321691	322266	CDS
+			codon_start	1
+			product	putative molybdenum cofactor guanylyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O67413
+			gene	mobA
+			ID	HOCGOLEH_00310
+			locus_tag	HOCGOLEH_00310
+			label	mobA
+			eC_number	2.7.7.77
+			Source	Prodigal:2.6
+322282	323106	CDS
+			codon_start	1
+			product	Nitrite transporter NirC
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0AC26
+			gene	nirC_1
+			ID	HOCGOLEH_00311
+			locus_tag	HOCGOLEH_00311
+			label	nirC_1
+			Source	Prodigal:2.6
+323096	323677	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00312
+			locus_tag	HOCGOLEH_00312
+			label	CDS
+			Source	Prodigal:2.6
+323665	324153	CDS
+			codon_start	1
+			product	NADP-reducing hydrogenase subunit HndA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q46505
+			gene	hndA
+			ID	HOCGOLEH_00313
+			locus_tag	HOCGOLEH_00313
+			label	hndA
+			eC_number	1.12.1.3
+			Source	Prodigal:2.6
+324165	325463	CDS
+			codon_start	1
+			product	NADP-reducing hydrogenase subunit HndC
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q46507
+			gene	hndC
+			ID	HOCGOLEH_00314
+			locus_tag	HOCGOLEH_00314
+			label	hndC
+			eC_number	1.12.1.3
+			Source	Prodigal:2.6
+325466	328186	CDS
+			codon_start	1
+			product	Formate dehydrogenase H
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P07658
+			gene	fdhF
+			ID	HOCGOLEH_00315
+			locus_tag	HOCGOLEH_00315
+			label	fdhF
+			eC_number	1.1.99.33
+			Source	Prodigal:2.6
+328204	329406	CDS
+			codon_start	1
+			product	Molybdopterin molybdenumtransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P12281
+			gene	moeA
+			ID	HOCGOLEH_00316
+			locus_tag	HOCGOLEH_00316
+			label	moeA
+			eC_number	2.10.1.1
+			Source	Prodigal:2.6
+329670	330179	CDS
+			codon_start	1
+			product	Cyclic pyranopterin monophosphate synthase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q5L3F4
+			gene	moaC
+			ID	HOCGOLEH_00317
+			locus_tag	HOCGOLEH_00317
+			label	moaC
+			eC_number	4.6.1.17
+			Source	Prodigal:2.6
+330185	331150	CDS
+			codon_start	1
+			product	GTP 3',8-cyclase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P30745
+			gene	moaA
+			ID	HOCGOLEH_00318
+			locus_tag	HOCGOLEH_00318
+			label	moaA
+			eC_number	4.1.99.22
+			Source	Prodigal:2.6
+331153	331587	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00319
+			locus_tag	HOCGOLEH_00319
+			label	CDS
+			Source	Prodigal:2.6
+331580	332062	CDS
+			codon_start	1
+			product	Molybdopterin adenylyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9ZL45
+			gene	mog
+			ID	HOCGOLEH_00320
+			locus_tag	HOCGOLEH_00320
+			label	mog
+			eC_number	2.7.7.75
+			Source	Prodigal:2.6
+332066	333037	CDS
+			codon_start	1
+			product	CinA-like protein
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P9WPE3
+			gene	cinA_1
+			ID	HOCGOLEH_00321
+			locus_tag	HOCGOLEH_00321
+			label	cinA_1
+			Source	Prodigal:2.6
+333056	333856	CDS
+			codon_start	1
+			product	Molybdate-binding periplasmic protein
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P45323
+			gene	modA
+			ID	HOCGOLEH_00322
+			locus_tag	HOCGOLEH_00322
+			label	modA
+			Source	Prodigal:2.6
+333865	334536	CDS
+			codon_start	1
+			product	Molybdenum transport system permease protein ModB
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0AF01
+			gene	modB
+			ID	HOCGOLEH_00323
+			locus_tag	HOCGOLEH_00323
+			label	modB
+			Source	Prodigal:2.6
+334533	335537	CDS
+			codon_start	1
+			product	Fe(3 ) ions import ATP-binding protein FbpC
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q5FA19
+			gene	fbpC
+			ID	HOCGOLEH_00324
+			locus_tag	HOCGOLEH_00324
+			label	fbpC
+			eC_number	3.6.3.30
+			Source	Prodigal:2.6
+335659	337761	CDS
+			codon_start	1
+			product	Cadmium, zinc and cobalt-transporting ATPase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O32219
+			gene	cadA
+			ID	HOCGOLEH_00325
+			locus_tag	HOCGOLEH_00325
+			label	cadA
+			eC_number	3.6.3.3
+			Source	Prodigal:2.6
+338030	338473	CDS
+			codon_start	1
+			product	Cell division protein ZapA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P94542
+			gene	zapA
+			ID	HOCGOLEH_00326
+			locus_tag	HOCGOLEH_00326
+			label	zapA
+			Source	Prodigal:2.6
+338493	339041	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00327
+			locus_tag	HOCGOLEH_00327
+			label	CDS
+			Source	Prodigal:2.6
+339152	341518	CDS
+			codon_start	1
+			product	Endonuclease MutS2
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P65496
+			gene	mutS2_1
+			ID	HOCGOLEH_00328
+			locus_tag	HOCGOLEH_00328
+			label	mutS2_1
+			eC_number	3.1.-.-
+			Source	Prodigal:2.6
+341616	341930	CDS
+			codon_start	1
+			product	Thioredoxin
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P14949
+			gene	trxA
+			ID	HOCGOLEH_00329
+			locus_tag	HOCGOLEH_00329
+			label	trxA
+			Source	Prodigal:2.6
+342095	343891	CDS
+			codon_start	1
+			product	UvrABC system protein C
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q5KWH6
+			gene	uvrC_1
+			ID	HOCGOLEH_00330
+			locus_tag	HOCGOLEH_00330
+			label	uvrC_1
+			Source	Prodigal:2.6
+344043	344300	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00331
+			locus_tag	HOCGOLEH_00331
+			label	CDS
+			Source	Prodigal:2.6
+344405	345304	CDS
+			codon_start	1
+			product	ABC transporter ATP-binding protein NatA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P46903
+			gene	natA_2
+			ID	HOCGOLEH_00332
+			locus_tag	HOCGOLEH_00332
+			label	natA_2
+			Source	Prodigal:2.6
+345297	346559	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00333
+			locus_tag	HOCGOLEH_00333
+			label	CDS
+			Source	Prodigal:2.6
+347593	346595	CDS
+			codon_start	1
+			product	Catabolite control protein A
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P46828
+			gene	ccpA_1
+			ID	HOCGOLEH_00334
+			locus_tag	HOCGOLEH_00334
+			label	ccpA_1
+			Source	Prodigal:2.6
+347735	349129	CDS
+			codon_start	1
+			product	putative 6-phospho-beta-glucosidase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P46320
+			gene	licH
+			ID	HOCGOLEH_00335
+			locus_tag	HOCGOLEH_00335
+			label	licH
+			eC_number	3.2.1.86
+			Source	Prodigal:2.6
+349589	349155	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00336
+			locus_tag	HOCGOLEH_00336
+			label	CDS
+			Source	Prodigal:2.6
+349925	351373	CDS
+			codon_start	1
+			product	ABC transporter ATP-binding protein uup
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P43672
+			gene	uup
+			ID	HOCGOLEH_00337
+			locus_tag	HOCGOLEH_00337
+			label	uup
+			Source	Prodigal:2.6
+352700	351414	CDS
+			codon_start	1
+			product	Putative thiazole biosynthetic enzyme
+			inference	ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_00304
+			ID	HOCGOLEH_00338
+			locus_tag	HOCGOLEH_00338
+			label	CDS
+			eC_number	5.3.1.29
+			Source	Prodigal:2.6
+352838	354184	CDS
+			codon_start	1
+			product	NADP-specific glutamate dehydrogenase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P31026
+			gene	gdh_1
+			ID	HOCGOLEH_00339
+			locus_tag	HOCGOLEH_00339
+			label	gdh_1
+			eC_number	1.4.1.4
+			Source	Prodigal:2.6
+354366	355715	CDS
+			codon_start	1
+			product	Glucose-6-phosphate isomerase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P81181
+			gene	pgi
+			ID	HOCGOLEH_00340
+			locus_tag	HOCGOLEH_00340
+			label	pgi
+			eC_number	5.3.1.9
+			Source	Prodigal:2.6
+355960	355781	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00341
+			locus_tag	HOCGOLEH_00341
+			label	CDS
+			Source	Prodigal:2.6
+356462	356019	CDS
+			codon_start	1
+			product	Putative NrdI-like protein
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q97T03
+			ID	HOCGOLEH_00342
+			locus_tag	HOCGOLEH_00342
+			label	CDS
+			Source	Prodigal:2.6
+356835	357158	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00343
+			locus_tag	HOCGOLEH_00343
+			label	CDS
+			Source	Prodigal:2.6
+357148	359127	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00344
+			locus_tag	HOCGOLEH_00344
+			label	CDS
+			Source	Prodigal:2.6
+359155	359628	CDS
+			codon_start	1
+			product	V-type sodium ATPase subunit K
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P43457
+			gene	ntpK
+			ID	HOCGOLEH_00345
+			locus_tag	HOCGOLEH_00345
+			label	ntpK
+			Source	Prodigal:2.6
+359645	360226	CDS
+			codon_start	1
+			product	V-type proton ATPase subunit E
+			inference	ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_00311
+			gene	atpE_1
+			ID	HOCGOLEH_00346
+			locus_tag	HOCGOLEH_00346
+			label	atpE_1
+			Source	Prodigal:2.6
+360243	361244	CDS
+			codon_start	1
+			product	V-type sodium ATPase subunit C
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P43456
+			gene	ntpC
+			ID	HOCGOLEH_00347
+			locus_tag	HOCGOLEH_00347
+			label	ntpC
+			Source	Prodigal:2.6
+361234	361545	CDS
+			codon_start	1
+			product	V-type sodium ATPase subunit G
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P43455
+			gene	ntpG
+			ID	HOCGOLEH_00348
+			locus_tag	HOCGOLEH_00348
+			label	ntpG
+			Source	Prodigal:2.6
+361563	363344	CDS
+			codon_start	1
+			product	V-type sodium ATPase catalytic subunit A
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q08636
+			gene	ntpA
+			ID	HOCGOLEH_00349
+			locus_tag	HOCGOLEH_00349
+			label	ntpA
+			eC_number	3.6.3.15
+			Source	Prodigal:2.6
+363337	364713	CDS
+			codon_start	1
+			product	V-type sodium ATPase subunit B
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q08637
+			gene	ntpB
+			ID	HOCGOLEH_00350
+			locus_tag	HOCGOLEH_00350
+			label	ntpB
+			Source	Prodigal:2.6
+364718	365353	CDS
+			codon_start	1
+			product	V-type sodium ATPase subunit D
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P43435
+			gene	ntpD
+			ID	HOCGOLEH_00351
+			locus_tag	HOCGOLEH_00351
+			label	ntpD
+			Source	Prodigal:2.6
+365428	365817	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00352
+			locus_tag	HOCGOLEH_00352
+			label	CDS
+			Source	Prodigal:2.6
+365956	366465	CDS
+			codon_start	1
+			product	ECF RNA polymerase sigma factor SigW
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q45585
+			gene	sigW
+			ID	HOCGOLEH_00353
+			locus_tag	HOCGOLEH_00353
+			label	sigW
+			Source	Prodigal:2.6
+366466	367563	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00354
+			locus_tag	HOCGOLEH_00354
+			label	CDS
+			Source	Prodigal:2.6
+368621	367674	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00355
+			locus_tag	HOCGOLEH_00355
+			label	CDS
+			Source	Prodigal:2.6
+370596	368716	CDS
+			codon_start	1
+			product	Fructose-1,6-bisphosphatase class 3
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q45597
+			gene	fbp
+			ID	HOCGOLEH_00356
+			locus_tag	HOCGOLEH_00356
+			label	fbp
+			eC_number	3.1.3.11
+			Source	Prodigal:2.6
+370812	372104	CDS
+			codon_start	1
+			product	Diaminopimelate decarboxylase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P9WIU7
+			gene	lysA
+			ID	HOCGOLEH_00357
+			locus_tag	HOCGOLEH_00357
+			label	lysA
+			eC_number	4.1.1.20
+			Source	Prodigal:2.6
+372245	373243	CDS
+			codon_start	1
+			product	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carbox ylate synthase
+			inference	ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_01660
+			gene	menH_1
+			ID	HOCGOLEH_00358
+			locus_tag	HOCGOLEH_00358
+			label	menH_1
+			eC_number	4.2.99.20
+			Source	Prodigal:2.6
+373792	373259	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00359
+			locus_tag	HOCGOLEH_00359
+			label	CDS
+			Source	Prodigal:2.6
+374078	374932	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00360
+			locus_tag	HOCGOLEH_00360
+			label	CDS
+			Source	Prodigal:2.6
+375145	375684	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00361
+			locus_tag	HOCGOLEH_00361
+			label	CDS
+			Source	Prodigal:2.6
+376126	375782	CDS
+			codon_start	1
+			product	Iron-sulfur cluster carrier protein
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P9WJN7
+			gene	mrp
+			ID	HOCGOLEH_00362
+			locus_tag	HOCGOLEH_00362
+			label	mrp
+			Source	Prodigal:2.6
+376402	377466	CDS
+			codon_start	1
+			product	Hydrophobic dipeptide epimerase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q834W6
+			ID	HOCGOLEH_00363
+			locus_tag	HOCGOLEH_00363
+			label	CDS
+			eC_number	5.1.1.-
+			Source	Prodigal:2.6
+377483	378859	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00364
+			locus_tag	HOCGOLEH_00364
+			label	CDS
+			Source	Prodigal:2.6
+378877	380529	CDS
+			codon_start	1
+			product	Dipeptide-binding protein DppE
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P26906
+			gene	dppE_1
+			ID	HOCGOLEH_00365
+			locus_tag	HOCGOLEH_00365
+			label	dppE_1
+			Source	Prodigal:2.6
+380839	381672	CDS
+			codon_start	1
+			product	Levansucrase and sucrase synthesis operon antiterminator
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P15401
+			gene	sacY
+			ID	HOCGOLEH_00366
+			locus_tag	HOCGOLEH_00366
+			label	sacY
+			Source	Prodigal:2.6
+381709	383706	CDS
+			codon_start	1
+			product	PTS system glucose-specific EIICBA component
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q7A807
+			gene	ptsG_1
+			ID	HOCGOLEH_00367
+			locus_tag	HOCGOLEH_00367
+			label	ptsG_1
+			eC_number	2.7.1.199
+			Source	Prodigal:2.6
+383947	385428	CDS
+			codon_start	1
+			product	Transcriptional regulator ManR
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O31644
+			gene	manR
+			ID	HOCGOLEH_00368
+			locus_tag	HOCGOLEH_00368
+			label	manR
+			Source	Prodigal:2.6
+385418	385870	CDS
+			codon_start	1
+			product	PTS system mannose-specific EIIBCA component
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O31645
+			gene	manP_1
+			ID	HOCGOLEH_00369
+			locus_tag	HOCGOLEH_00369
+			label	manP_1
+			Source	Prodigal:2.6
+385870	386187	CDS
+			codon_start	1
+			product	PTS system mannose-specific EIIBCA component
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O31645
+			gene	manP_2
+			ID	HOCGOLEH_00370
+			locus_tag	HOCGOLEH_00370
+			label	manP_2
+			Source	Prodigal:2.6
+386207	386656	CDS
+			codon_start	1
+			product	PTS system mannose-specific EIIBCA component
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O31645
+			gene	manP_3
+			ID	HOCGOLEH_00371
+			locus_tag	HOCGOLEH_00371
+			label	manP_3
+			Source	Prodigal:2.6
+386766	387866	CDS
+			codon_start	1
+			product	PTS system fructose-specific EIIB'BC component
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P20966
+			gene	fruA_1
+			ID	HOCGOLEH_00372
+			locus_tag	HOCGOLEH_00372
+			label	fruA_1
+			Source	Prodigal:2.6
+388004	388693	CDS
+			codon_start	1
+			product	D-allulose-6-phosphate 3-epimerase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P32719
+			gene	alsE
+			ID	HOCGOLEH_00373
+			locus_tag	HOCGOLEH_00373
+			label	alsE
+			eC_number	5.1.3.-
+			Source	Prodigal:2.6
+388984	389601	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00374
+			locus_tag	HOCGOLEH_00374
+			label	CDS
+			Source	Prodigal:2.6
+389730	392066	CDS
+			codon_start	1
+			product	putative cation-transporting ATPase E
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P9WPT1
+			gene	ctpE_2
+			ID	HOCGOLEH_00375
+			locus_tag	HOCGOLEH_00375
+			label	ctpE_2
+			eC_number	3.6.3.-
+			Source	Prodigal:2.6
+392383	394257	CDS
+			codon_start	1
+			product	DNA primase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9X4D0
+			gene	dnaG
+			ID	HOCGOLEH_00376
+			locus_tag	HOCGOLEH_00376
+			label	dnaG
+			eC_number	2.7.7.-
+			Source	Prodigal:2.6
+394378	395484	CDS
+			codon_start	1
+			product	RNA polymerase sigma factor SigA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P06224
+			gene	sigA
+			ID	HOCGOLEH_00377
+			locus_tag	HOCGOLEH_00377
+			label	sigA
+			Source	Prodigal:2.6
+395636	397741	CDS
+			codon_start	1
+			product	Mid-cell-anchored protein Z
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q8DR55
+			gene	mapZ
+			ID	HOCGOLEH_00378
+			locus_tag	HOCGOLEH_00378
+			label	mapZ
+			Source	Prodigal:2.6
+397815	398696	CDS
+			codon_start	1
+			product	Conserved virulence factor B
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q7A5Q1
+			gene	cvfB
+			ID	HOCGOLEH_00379
+			locus_tag	HOCGOLEH_00379
+			label	cvfB
+			Source	Prodigal:2.6
+398812	399261	CDS
+			codon_start	1
+			product	Ferric uptake regulation protein
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P54574
+			gene	fur
+			ID	HOCGOLEH_00380
+			locus_tag	HOCGOLEH_00380
+			label	fur
+			Source	Prodigal:2.6
+400322	399312	CDS
+			codon_start	1
+			product	Glyceraldehyde-3-phosphate dehydrogenase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q59309
+			gene	gap_1
+			ID	HOCGOLEH_00381
+			locus_tag	HOCGOLEH_00381
+			label	gap_1
+			eC_number	1.2.1.12
+			Source	Prodigal:2.6
+400610	401926	CDS
+			codon_start	1
+			product	GTPase Obg
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P20964
+			gene	obg
+			ID	HOCGOLEH_00382
+			locus_tag	HOCGOLEH_00382
+			label	obg
+			eC_number	3.6.5.-
+			Source	Prodigal:2.6
+402065	402367	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00383
+			locus_tag	HOCGOLEH_00383
+			label	CDS
+			Source	Prodigal:2.6
+402394	403692	CDS
+			codon_start	1
+			product	Lichenan permease IIC component
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P46317
+			gene	licC_2
+			ID	HOCGOLEH_00384
+			locus_tag	HOCGOLEH_00384
+			label	licC_2
+			Source	Prodigal:2.6
+403917	404456	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00385
+			locus_tag	HOCGOLEH_00385
+			label	CDS
+			Source	Prodigal:2.6
+404599	404973	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00386
+			locus_tag	HOCGOLEH_00386
+			label	CDS
+			Source	Prodigal:2.6
+405766	405017	CDS
+			codon_start	1
+			product	Putative peptidyl-prolyl cis-trans isomerase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q7A6I1
+			ID	HOCGOLEH_00387
+			locus_tag	HOCGOLEH_00387
+			label	CDS
+			eC_number	5.2.1.8
+			Source	Prodigal:2.6
+405948	407039	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00388
+			locus_tag	HOCGOLEH_00388
+			label	CDS
+			Source	Prodigal:2.6
+407234	408163	CDS
+			codon_start	1
+			product	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carbox ylate synthase
+			inference	ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_01660
+			gene	menH_2
+			ID	HOCGOLEH_00389
+			locus_tag	HOCGOLEH_00389
+			label	menH_2
+			eC_number	4.2.99.20
+			Source	Prodigal:2.6
+408333	409223	CDS
+			codon_start	1
+			product	Tyrosine recombinase XerD
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A0P0
+			gene	xerD
+			ID	HOCGOLEH_00390
+			locus_tag	HOCGOLEH_00390
+			label	xerD
+			Source	Prodigal:2.6
+409297	410082	CDS
+			codon_start	1
+			product	Segregation and condensation protein A
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P35154
+			gene	scpA
+			ID	HOCGOLEH_00391
+			locus_tag	HOCGOLEH_00391
+			label	scpA
+			Source	Prodigal:2.6
+410079	410684	CDS
+			codon_start	1
+			product	Segregation and condensation protein B
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q97NX6
+			gene	scpB
+			ID	HOCGOLEH_00392
+			locus_tag	HOCGOLEH_00392
+			label	scpB
+			Source	Prodigal:2.6
+410688	411404	CDS
+			codon_start	1
+			product	Ribosomal large subunit pseudouridine synthase B
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P35159
+			gene	rluB
+			ID	HOCGOLEH_00393
+			locus_tag	HOCGOLEH_00393
+			label	rluB
+			eC_number	5.4.99.22
+			Source	Prodigal:2.6
+411809	412414	CDS
+			codon_start	1
+			product	Riboflavin transporter FmnP
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P50726
+			gene	fmnP
+			ID	HOCGOLEH_00394
+			locus_tag	HOCGOLEH_00394
+			label	fmnP
+			Source	Prodigal:2.6
+412595	414001	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00395
+			locus_tag	HOCGOLEH_00395
+			label	CDS
+			Source	Prodigal:2.6
+414242	414024	CDS
+			codon_start	1
+			product	Ferredoxin-1
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P18324
+			gene	suaB
+			ID	HOCGOLEH_00396
+			locus_tag	HOCGOLEH_00396
+			label	suaB
+			Source	Prodigal:2.6
+414278	415312	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00397
+			locus_tag	HOCGOLEH_00397
+			label	CDS
+			Source	Prodigal:2.6
+415319	416755	CDS
+			codon_start	1
+			product	ATP-dependent DNA helicase RecQ
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P15043
+			gene	recQ_1
+			ID	HOCGOLEH_00398
+			locus_tag	HOCGOLEH_00398
+			label	recQ_1
+			eC_number	3.6.4.12
+			Source	Prodigal:2.6
+416831	417457	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00399
+			locus_tag	HOCGOLEH_00399
+			label	CDS
+			Source	Prodigal:2.6
+417694	418374	CDS
+			codon_start	1
+			product	Cytidylate kinase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q97PK6
+			gene	cmk
+			ID	HOCGOLEH_00400
+			locus_tag	HOCGOLEH_00400
+			label	cmk
+			eC_number	2.7.4.25
+			Source	Prodigal:2.6
+418488	419699	CDS
+			codon_start	1
+			product	30S ribosomal protein S1
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P38494
+			gene	ypfD
+			ID	HOCGOLEH_00401
+			locus_tag	HOCGOLEH_00401
+			label	ypfD
+			Source	Prodigal:2.6
+419873	421183	CDS
+			codon_start	1
+			product	GTPase Der
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P50743
+			gene	der_1
+			ID	HOCGOLEH_00402
+			locus_tag	HOCGOLEH_00402
+			label	der_1
+			Source	Prodigal:2.6
+421431	421706	CDS
+			codon_start	1
+			product	DNA-binding protein HU
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9XB21
+			gene	hup
+			ID	HOCGOLEH_00403
+			locus_tag	HOCGOLEH_00403
+			label	hup
+			Source	Prodigal:2.6
+422013	423053	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00404
+			locus_tag	HOCGOLEH_00404
+			label	CDS
+			Source	Prodigal:2.6
+423063	424319	CDS
+			codon_start	1
+			product	Lipopolysaccharide assembly protein B
+			inference	ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_00994
+			gene	lapB
+			ID	HOCGOLEH_00405
+			locus_tag	HOCGOLEH_00405
+			label	lapB
+			Source	Prodigal:2.6
+424329	424868	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00406
+			locus_tag	HOCGOLEH_00406
+			label	CDS
+			Source	Prodigal:2.6
+425790	424906	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00407
+			locus_tag	HOCGOLEH_00407
+			label	CDS
+			Source	Prodigal:2.6
+425914	426264	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00408
+			locus_tag	HOCGOLEH_00408
+			label	CDS
+			Source	Prodigal:2.6
+426257	427036	CDS
+			codon_start	1
+			product	4-hydroxy-tetrahydrodipicolinate reductase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P63895
+			gene	dapB
+			ID	HOCGOLEH_00409
+			locus_tag	HOCGOLEH_00409
+			label	dapB
+			eC_number	1.17.1.8
+			Source	Prodigal:2.6
+426979	428253	CDS
+			codon_start	1
+			product	CCA-adding enzyme
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q7SIB1
+			gene	cca
+			ID	HOCGOLEH_00410
+			locus_tag	HOCGOLEH_00410
+			label	cca
+			eC_number	2.7.7.72
+			Source	Prodigal:2.6
+428253	428627	CDS
+			codon_start	1
+			product	Fluoroacetyl-CoA thioesterase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q1EMV2
+			gene	flK
+			ID	HOCGOLEH_00411
+			locus_tag	HOCGOLEH_00411
+			label	flK
+			eC_number	3.1.2.29
+			Source	Prodigal:2.6
+428717	429172	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00412
+			locus_tag	HOCGOLEH_00412
+			label	CDS
+			Source	Prodigal:2.6
+429661	430527	CDS
+			codon_start	1
+			product	Shikimate dehydrogenase (NADP( ))
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q8Y9N5
+			gene	aroE
+			ID	HOCGOLEH_00413
+			locus_tag	HOCGOLEH_00413
+			label	aroE
+			eC_number	1.1.1.25
+			Source	Prodigal:2.6
+430564	431589	CDS
+			codon_start	1
+			product	Phospho-2-dehydro-3-deoxyheptonate aldolase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9WYH8
+			gene	aroF
+			ID	HOCGOLEH_00414
+			locus_tag	HOCGOLEH_00414
+			label	aroF
+			eC_number	2.5.1.54
+			Source	Prodigal:2.6
+431612	432688	CDS
+			codon_start	1
+			product	3-dehydroquinate synthase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9KNV2
+			gene	aroB
+			ID	HOCGOLEH_00415
+			locus_tag	HOCGOLEH_00415
+			label	aroB
+			eC_number	4.2.3.4
+			Source	Prodigal:2.6
+432690	433856	CDS
+			codon_start	1
+			product	Chorismate synthase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A2Y6
+			gene	aroC
+			ID	HOCGOLEH_00416
+			locus_tag	HOCGOLEH_00416
+			label	aroC
+			eC_number	4.2.3.5
+			Source	Prodigal:2.6
+433890	434984	CDS
+			codon_start	1
+			product	Prephenate dehydrogenase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O69721
+			gene	tyrA
+			ID	HOCGOLEH_00417
+			locus_tag	HOCGOLEH_00417
+			label	tyrA
+			eC_number	1.3.1.12
+			Source	Prodigal:2.6
+434997	436277	CDS
+			codon_start	1
+			product	3-phosphoshikimate 1-carboxyvinyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9S400
+			gene	aroA
+			ID	HOCGOLEH_00418
+			locus_tag	HOCGOLEH_00418
+			label	aroA
+			eC_number	2.5.1.19
+			Source	Prodigal:2.6
+436297	436803	CDS
+			codon_start	1
+			product	Shikimate kinase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q83AJ3
+			gene	aroK
+			ID	HOCGOLEH_00419
+			locus_tag	HOCGOLEH_00419
+			label	aroK
+			eC_number	2.7.1.71
+			Source	Prodigal:2.6
+436811	437659	CDS
+			codon_start	1
+			product	Prephenate dehydratase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q7TVJ6
+			gene	pheA
+			ID	HOCGOLEH_00420
+			locus_tag	HOCGOLEH_00420
+			label	pheA
+			eC_number	4.2.1.51
+			Source	Prodigal:2.6
+437803	438975	CDS
+			codon_start	1
+			product	Regulatory protein MsrR
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q7BHL7
+			gene	msrR
+			ID	HOCGOLEH_00421
+			locus_tag	HOCGOLEH_00421
+			label	msrR
+			Source	Prodigal:2.6
+439051	439899	CDS
+			codon_start	1
+			product	DegV domain-containing protein
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A0N1
+			ID	HOCGOLEH_00422
+			locus_tag	HOCGOLEH_00422
+			label	CDS
+			Source	Prodigal:2.6
+440093	440287	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00423
+			locus_tag	HOCGOLEH_00423
+			label	CDS
+			Source	Prodigal:2.6
+440299	440775	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00424
+			locus_tag	HOCGOLEH_00424
+			label	CDS
+			Source	Prodigal:2.6
+440919	441185	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00425
+			locus_tag	HOCGOLEH_00425
+			label	CDS
+			Source	Prodigal:2.6
+441221	443275	CDS
+			codon_start	1
+			product	Sodium, potassium, lithium and rubidium/H( ) antiporter
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O32212
+			gene	nhaK
+			ID	HOCGOLEH_00426
+			locus_tag	HOCGOLEH_00426
+			label	nhaK
+			Source	Prodigal:2.6
+443380	445275	CDS
+			codon_start	1
+			product	Energy-dependent translational throttle protein EttA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A9W3
+			gene	ettA
+			ID	HOCGOLEH_00427
+			locus_tag	HOCGOLEH_00427
+			label	ettA
+			Source	Prodigal:2.6
+445293	446240	CDS
+			codon_start	1
+			product	Thymidylate synthase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q834R3
+			gene	thyA
+			ID	HOCGOLEH_00428
+			locus_tag	HOCGOLEH_00428
+			label	thyA
+			eC_number	2.1.1.45
+			Source	Prodigal:2.6
+446258	446752	CDS
+			codon_start	1
+			product	Dihydrofolate reductase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P00380
+			gene	folA_1
+			ID	HOCGOLEH_00429
+			locus_tag	HOCGOLEH_00429
+			label	folA_1
+			eC_number	1.5.1.3
+			Source	Prodigal:2.6
+446776	447945	CDS
+			codon_start	1
+			product	Epoxyqueuosine reductase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P97030
+			gene	queG
+			ID	HOCGOLEH_00430
+			locus_tag	HOCGOLEH_00430
+			label	queG
+			eC_number	1.17.99.6
+			Source	Prodigal:2.6
+448579	447959	CDS
+			codon_start	1
+			product	LexA repressor
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P31080
+			gene	lexA
+			ID	HOCGOLEH_00431
+			locus_tag	HOCGOLEH_00431
+			label	lexA
+			eC_number	3.4.21.88
+			Source	Prodigal:2.6
+448730	448972	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00432
+			locus_tag	HOCGOLEH_00432
+			label	CDS
+			Source	Prodigal:2.6
+449044	451038	CDS
+			codon_start	1
+			product	Transketolase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q5XAK5
+			gene	tkt
+			ID	HOCGOLEH_00433
+			locus_tag	HOCGOLEH_00433
+			label	tkt
+			eC_number	2.2.1.1
+			Source	Prodigal:2.6
+452280	451075	CDS
+			codon_start	1
+			product	putative transporter
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9ADP8
+			ID	HOCGOLEH_00434
+			locus_tag	HOCGOLEH_00434
+			label	CDS
+			Source	Prodigal:2.6
+452635	453495	CDS
+			codon_start	1
+			product	Autolysin
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P37710
+			ID	HOCGOLEH_00435
+			locus_tag	HOCGOLEH_00435
+			label	CDS
+			eC_number	3.2.1.-
+			Source	Prodigal:2.6
+453724	454656	CDS
+			codon_start	1
+			product	Cysteine synthase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q5XAQ3
+			gene	cysK
+			ID	HOCGOLEH_00436
+			locus_tag	HOCGOLEH_00436
+			label	cysK
+			eC_number	2.5.1.47
+			Source	Prodigal:2.6
+454795	455238	CDS
+			codon_start	1
+			product	Peroxide operon regulator
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P71086
+			gene	perR
+			ID	HOCGOLEH_00437
+			locus_tag	HOCGOLEH_00437
+			label	perR
+			Source	Prodigal:2.6
+455536	456876	CDS
+			codon_start	1
+			product	NADH oxidase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P37061
+			gene	nox
+			ID	HOCGOLEH_00438
+			locus_tag	HOCGOLEH_00438
+			label	nox
+			eC_number	1.6.99.3
+			Source	Prodigal:2.6
+457535	456927	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00439
+			locus_tag	HOCGOLEH_00439
+			label	CDS
+			Source	Prodigal:2.6
+457893	458420	CDS
+			codon_start	1
+			product	Spermidine/spermine N(1)-acetyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P21340
+			gene	paiA_1
+			ID	HOCGOLEH_00440
+			locus_tag	HOCGOLEH_00440
+			label	paiA_1
+			eC_number	2.3.1.57
+			Source	Prodigal:2.6
+459293	458475	CDS
+			codon_start	1
+			product	HTH-type transcriptional activator RhaS
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P09377
+			gene	rhaS
+			ID	HOCGOLEH_00441
+			locus_tag	HOCGOLEH_00441
+			label	rhaS
+			Source	Prodigal:2.6
+459430	461178	CDS
+			codon_start	1
+			product	putative ABC transporter ATP-binding protein
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9WYC4
+			ID	HOCGOLEH_00442
+			locus_tag	HOCGOLEH_00442
+			label	CDS
+			Source	Prodigal:2.6
+461171	462949	CDS
+			codon_start	1
+			product	putative ABC transporter ATP-binding protein
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9WYC4
+			ID	HOCGOLEH_00443
+			locus_tag	HOCGOLEH_00443
+			label	CDS
+			Source	Prodigal:2.6
+463038	463463	CDS
+			codon_start	1
+			product	RNA pyrophosphohydrolase
+			inference	ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_00298
+			gene	rppH
+			ID	HOCGOLEH_00444
+			locus_tag	HOCGOLEH_00444
+			label	rppH
+			eC_number	3.6.1.-
+			Source	Prodigal:2.6
+463603	464613	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00445
+			locus_tag	HOCGOLEH_00445
+			label	CDS
+			Source	Prodigal:2.6
+464916	466352	CDS
+			codon_start	1
+			product	Vegetative catalase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P26901
+			gene	katA
+			ID	HOCGOLEH_00446
+			locus_tag	HOCGOLEH_00446
+			label	katA
+			eC_number	1.11.1.6
+			Source	Prodigal:2.6
+467998	466565	CDS
+			codon_start	1
+			product	Deoxyribodipyrimidine photo-lyase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P00914
+			gene	phrB
+			ID	HOCGOLEH_00447
+			locus_tag	HOCGOLEH_00447
+			label	phrB
+			eC_number	4.1.99.3
+			Source	Prodigal:2.6
+468976	468131	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00448
+			locus_tag	HOCGOLEH_00448
+			label	CDS
+			Source	Prodigal:2.6
+471213	469285	CDS
+			codon_start	1
+			product	PTS system beta-glucoside-specific EIIBCA component
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P08722
+			gene	bglF_1
+			ID	HOCGOLEH_00449
+			locus_tag	HOCGOLEH_00449
+			label	bglF_1
+			Source	Prodigal:2.6
+472903	471230	CDS
+			codon_start	1
+			product	Oligo-1,6-glucosidase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P29094
+			gene	malL_2
+			ID	HOCGOLEH_00450
+			locus_tag	HOCGOLEH_00450
+			label	malL_2
+			eC_number	3.2.1.10
+			Source	Prodigal:2.6
+473134	474606	CDS
+			codon_start	1
+			product	Sucrose-6-phosphate hydrolase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q04937
+			gene	scrB
+			ID	HOCGOLEH_00451
+			locus_tag	HOCGOLEH_00451
+			label	scrB
+			eC_number	3.2.1.26
+			Source	Prodigal:2.6
+474625	475605	CDS
+			codon_start	1
+			product	HTH-type transcriptional regulator DegA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P37947
+			gene	degA_1
+			ID	HOCGOLEH_00452
+			locus_tag	HOCGOLEH_00452
+			label	degA_1
+			Source	Prodigal:2.6
+475826	475665	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00453
+			locus_tag	HOCGOLEH_00453
+			label	CDS
+			Source	Prodigal:2.6
+477344	475935	CDS
+			codon_start	1
+			product	Aryl-phospho-beta-D-glucosidase BglC
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P42403
+			gene	bglC_2
+			ID	HOCGOLEH_00454
+			locus_tag	HOCGOLEH_00454
+			label	bglC_2
+			eC_number	3.2.1.86
+			Source	Prodigal:2.6
+479224	477344	CDS
+			codon_start	1
+			product	PTS system beta-glucoside-specific EIIBCA component
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P08722
+			gene	bglF_2
+			ID	HOCGOLEH_00455
+			locus_tag	HOCGOLEH_00455
+			label	bglF_2
+			Source	Prodigal:2.6
+480967	479507	CDS
+			codon_start	1
+			product	Major cardiolipin synthase ClsA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P71040
+			gene	clsA_1
+			ID	HOCGOLEH_00456
+			locus_tag	HOCGOLEH_00456
+			label	clsA_1
+			eC_number	2.7.8.-
+			Source	Prodigal:2.6
+481148	481699	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00457
+			locus_tag	HOCGOLEH_00457
+			label	CDS
+			Source	Prodigal:2.6
+482642	481758	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00458
+			locus_tag	HOCGOLEH_00458
+			label	CDS
+			Source	Prodigal:2.6
+483640	482714	CDS
+			codon_start	1
+			product	putative manganese-dependent inorganic pyrophosphatase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P65756
+			gene	ppaC
+			ID	HOCGOLEH_00459
+			locus_tag	HOCGOLEH_00459
+			label	ppaC
+			eC_number	3.6.1.1
+			Source	Prodigal:2.6
+484500	483736	CDS
+			codon_start	1
+			product	Pyruvate formate-lyase-activating enzyme
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q7A7X5
+			gene	pflA
+			ID	HOCGOLEH_00460
+			locus_tag	HOCGOLEH_00460
+			label	pflA
+			eC_number	1.97.1.4
+			Source	Prodigal:2.6
+486823	484577	CDS
+			codon_start	1
+			product	Formate acetyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q5HJF4
+			gene	pflB
+			ID	HOCGOLEH_00461
+			locus_tag	HOCGOLEH_00461
+			label	pflB
+			eC_number	2.3.1.54
+			Source	Prodigal:2.6
+489575	487113	CDS
+			codon_start	1
+			product	DNA topoisomerase 4 subunit A
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P72525
+			gene	parC
+			ID	HOCGOLEH_00462
+			locus_tag	HOCGOLEH_00462
+			label	parC
+			eC_number	5.99.1.3
+			Source	Prodigal:2.6
+491645	489588	CDS
+			codon_start	1
+			product	DNA topoisomerase 4 subunit B
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:H7C794
+			gene	parE
+			ID	HOCGOLEH_00463
+			locus_tag	HOCGOLEH_00463
+			label	parE
+			eC_number	5.99.1.3
+			Source	Prodigal:2.6
+492278	491850	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00464
+			locus_tag	HOCGOLEH_00464
+			label	CDS
+			Source	Prodigal:2.6
+492809	492366	CDS
+			codon_start	1
+			product	Ethanolamine utilization protein EutQ
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P76555
+			gene	eutQ
+			ID	HOCGOLEH_00465
+			locus_tag	HOCGOLEH_00465
+			label	eutQ
+			Source	Prodigal:2.6
+493922	492822	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00466
+			locus_tag	HOCGOLEH_00466
+			label	CDS
+			Source	Prodigal:2.6
+494198	493935	CDS
+			codon_start	1
+			product	Carbon dioxide concentrating mechanism protein CcmL
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P72759
+			gene	ccmL
+			ID	HOCGOLEH_00467
+			locus_tag	HOCGOLEH_00467
+			label	ccmL
+			Source	Prodigal:2.6
+494810	494211	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00468
+			locus_tag	HOCGOLEH_00468
+			label	CDS
+			Source	Prodigal:2.6
+495451	494825	CDS
+			codon_start	1
+			product	Phosphate propanoyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9XDN5
+			gene	pduL
+			ID	HOCGOLEH_00469
+			locus_tag	HOCGOLEH_00469
+			label	pduL
+			eC_number	2.3.1.222
+			Source	Prodigal:2.6
+496033	495464	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00470
+			locus_tag	HOCGOLEH_00470
+			label	CDS
+			Source	Prodigal:2.6
+496391	496101	CDS
+			codon_start	1
+			product	Propanediol utilization protein PduA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A1C7
+			gene	pduA
+			ID	HOCGOLEH_00471
+			locus_tag	HOCGOLEH_00471
+			label	pduA
+			Source	Prodigal:2.6
+497993	496515	CDS
+			codon_start	1
+			product	Aldehyde-alcohol dehydrogenase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A9Q7
+			gene	adhE_1
+			ID	HOCGOLEH_00472
+			locus_tag	HOCGOLEH_00472
+			label	adhE_1
+			Source	Prodigal:2.6
+498502	497984	CDS
+			codon_start	1
+			product	Major carboxysome shell protein 1C
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P45688
+			gene	csoS1C
+			ID	HOCGOLEH_00473
+			locus_tag	HOCGOLEH_00473
+			label	csoS1C
+			Source	Prodigal:2.6
+499169	498516	CDS
+			codon_start	1
+			product	Ethanolamine utilization protein EutL
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P76541
+			gene	eutL
+			ID	HOCGOLEH_00474
+			locus_tag	HOCGOLEH_00474
+			label	eutL
+			Source	Prodigal:2.6
+500094	499183	CDS
+			codon_start	1
+			product	Ethanolamine ammonia-lyase light chain
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P19636
+			gene	eutC
+			ID	HOCGOLEH_00475
+			locus_tag	HOCGOLEH_00475
+			label	eutC
+			eC_number	4.3.1.7
+			Source	Prodigal:2.6
+501476	500112	CDS
+			codon_start	1
+			product	Ethanolamine ammonia-lyase heavy chain
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0AEJ6
+			gene	eutB
+			ID	HOCGOLEH_00476
+			locus_tag	HOCGOLEH_00476
+			label	eutB
+			eC_number	4.3.1.7
+			Source	Prodigal:2.6
+502918	501494	CDS
+			codon_start	1
+			product	Cell division protein FtsA
+			inference	ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_02033
+			gene	ftsA_1
+			ID	HOCGOLEH_00477
+			locus_tag	HOCGOLEH_00477
+			label	ftsA_1
+			Source	Prodigal:2.6
+504442	503009	CDS
+			codon_start	1
+			product	putative sensor histidine kinase pdtaS
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P9WGL5
+			gene	pdtaS
+			ID	HOCGOLEH_00478
+			locus_tag	HOCGOLEH_00478
+			label	pdtaS
+			eC_number	2.7.13.3
+			Source	Prodigal:2.6
+505024	504443	CDS
+			codon_start	1
+			product	putative transcriptional regulatory protein pdtaR
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P9WGM3
+			gene	pdtaR
+			ID	HOCGOLEH_00479
+			locus_tag	HOCGOLEH_00479
+			label	pdtaR
+			Source	Prodigal:2.6
+505390	505043	CDS
+			codon_start	1
+			product	Propanediol utilization protein PduU
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A1D2
+			gene	pduU
+			ID	HOCGOLEH_00480
+			locus_tag	HOCGOLEH_00480
+			label	pduU
+			Source	Prodigal:2.6
+506680	505550	CDS
+			codon_start	1
+			product	Aldehyde-alcohol dehydrogenase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A9Q7
+			gene	adhE_2
+			ID	HOCGOLEH_00481
+			locus_tag	HOCGOLEH_00481
+			label	adhE_2
+			Source	Prodigal:2.6
+507748	507167	CDS
+			codon_start	1
+			product	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O34899
+			gene	yvqK
+			ID	HOCGOLEH_00482
+			locus_tag	HOCGOLEH_00482
+			label	yvqK
+			eC_number	2.5.1.17
+			Source	Prodigal:2.6
+508188	507745	CDS
+			codon_start	1
+			product	Propanediol utilization protein PduV
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9XDM6
+			gene	pduV
+			ID	HOCGOLEH_00483
+			locus_tag	HOCGOLEH_00483
+			label	pduV
+			Source	Prodigal:2.6
+509097	508330	CDS
+			codon_start	1
+			product	Ferric enterobactin transport ATP-binding protein FepC
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P23878
+			gene	fepC
+			ID	HOCGOLEH_00484
+			locus_tag	HOCGOLEH_00484
+			label	fepC
+			Source	Prodigal:2.6
+510101	509094	CDS
+			codon_start	1
+			product	Hemin transport system permease protein HmuU
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q56992
+			gene	hmuU_1
+			ID	HOCGOLEH_00485
+			locus_tag	HOCGOLEH_00485
+			label	hmuU_1
+			Source	Prodigal:2.6
+511053	510094	CDS
+			codon_start	1
+			product	Hemin-binding periplasmic protein HmuT
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q56991
+			gene	hmuT
+			ID	HOCGOLEH_00486
+			locus_tag	HOCGOLEH_00486
+			label	hmuT
+			Source	Prodigal:2.6
+511606	512235	CDS
+			codon_start	1
+			product	Glycerol-3-phosphate acyltransferase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A4Q0
+			gene	plsY
+			ID	HOCGOLEH_00487
+			locus_tag	HOCGOLEH_00487
+			label	plsY
+			eC_number	2.3.1.-
+			Source	Prodigal:2.6
+513152	512277	CDS
+			codon_start	1
+			product	Aldose 1-epimerase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P39840
+			gene	galM
+			ID	HOCGOLEH_00488
+			locus_tag	HOCGOLEH_00488
+			label	galM
+			eC_number	5.1.3.3
+			Source	Prodigal:2.6
+513968	513186	CDS
+			codon_start	1
+			product	GTP-sensing transcriptional pleiotropic repressor CodY
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q97PM1
+			gene	codY
+			ID	HOCGOLEH_00489
+			locus_tag	HOCGOLEH_00489
+			label	codY
+			Source	Prodigal:2.6
+515392	513989	CDS
+			codon_start	1
+			product	ATP-dependent protease ATPase subunit ClpY
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P39778
+			gene	clpY
+			ID	HOCGOLEH_00490
+			locus_tag	HOCGOLEH_00490
+			label	clpY
+			Source	Prodigal:2.6
+515955	515407	CDS
+			codon_start	1
+			product	ATP-dependent protease subunit HslV
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q81WK5
+			gene	hslV
+			ID	HOCGOLEH_00491
+			locus_tag	HOCGOLEH_00491
+			label	hslV
+			eC_number	3.4.25.2
+			Source	Prodigal:2.6
+516883	515984	CDS
+			codon_start	1
+			product	Tyrosine recombinase XerC
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P39776
+			gene	xerC_1
+			ID	HOCGOLEH_00492
+			locus_tag	HOCGOLEH_00492
+			label	xerC_1
+			Source	Prodigal:2.6
+518402	517095	CDS
+			codon_start	1
+			product	Methylenetetrahydrofolate--tRNA-(uracil-5-)-meth yltransferase TrmFO
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P39815
+			gene	trmFO
+			ID	HOCGOLEH_00493
+			locus_tag	HOCGOLEH_00493
+			label	trmFO
+			eC_number	2.1.1.74
+			Source	Prodigal:2.6
+520588	518510	CDS
+			codon_start	1
+			product	DNA topoisomerase 1
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q7A5Y5
+			gene	topA
+			ID	HOCGOLEH_00494
+			locus_tag	HOCGOLEH_00494
+			label	topA
+			eC_number	5.99.1.2
+			Source	Prodigal:2.6
+521426	520773	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			ID	HOCGOLEH_00495
+			locus_tag	HOCGOLEH_00495
+			label	CDS
+			Source	Prodigal:2.6
+522380	521517	CDS
+			codon_start	1
+			product	DNA processing protein DprA
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q8DPI7
+			gene	dprA
+			ID	HOCGOLEH_00496
+			locus_tag	HOCGOLEH_00496
+			label	dprA
+			Source	Prodigal:2.6
+523208	522441	CDS
+			codon_start	1
+			product	Ribonuclease HII
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O31744
+			gene	rnhB
+			ID	HOCGOLEH_00497
+			locus_tag	HOCGOLEH_00497
+			label	rnhB
+			eC_number	3.1.26.4
+			Source	Prodigal:2.6
+524061	523210	CDS
+			codon_start	1
+			product	Ribosome biogenesis GTPase A
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:O31743
+			gene	rbgA
+			ID	HOCGOLEH_00498
+			locus_tag	HOCGOLEH_00498
+			label	rbgA
+			Source	Prodigal:2.6
+524708	524337	CDS
+			codon_start	1
+			product	2-dehydropantoate 2-reductase
+			inference	ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A9J4
+			gene	panE_1
+			ID	HOCGOLEH_00499
+			locus_tag	HOCGOLEH_00499
+			label	panE_1
+			eC_number	1.1.1.169
+			Source	Prodigal:2.6

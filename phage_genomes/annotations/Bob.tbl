@@ -1,0 +1,1095 @@
+>Feature vB_OCPT_Bob
+58	303	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00001
+371	613	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00002
+664	870	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00003
+1204	1500	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00004
+1572	1922	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00005
+1954	2151	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00006
+2145	2357	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00007
+2386	2577	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00008
+2590	2949	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00009
+2954	3055	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00010
+3944	4144	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00011
+4417	4590	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00012
+4668	4802	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00013
+4884	5111	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00014
+5211	5519	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00015
+5587	5745	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00016
+5882	6121	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00017
+6202	6447	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00018
+6568	7263	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00019
+7370	7618	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00020
+7689	7883	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00021
+8960	8022	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00022
+9485	9201	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00023
+9819	9508	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00024
+10184	9873	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00025
+10440	10177	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00026
+10746	10441	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00027
+11156	10965	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00028
+11424	11200	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00029
+11842	11438	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00030
+12220	11843	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00031
+12429	12232	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00032
+12944	12429	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00033
+13205	12957	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00034
+13742	13218	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00035
+14135	13743	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00036
+14487	14128	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00037
+14661	14491	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00038
+15191	14649	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00039
+15658	15194	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00040
+16125	15655	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00041
+16693	16328	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00042
+16854	16690	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00043
+17401	16883	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00044
+17875	17402	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00045
+18579	17872	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00046
+18922	18608	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00047
+19286	19098	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00048
+19744	19283	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00049
+19934	19758	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00050
+20125	19931	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00051
+20529	20122	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00052
+21333	20650	CDS
+			codon_start	1
+			product	Serine/threonine-protein phosphatase
+			EC_number	3.1.3.16
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03772
+			locus_tag	FGBNBECL_00053
+21866	21387	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00054
+22052	21870	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00055
+22729	22118	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00056
+23057	22740	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00057
+23203	23087	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00058
+23429	23217	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00059
+23923	23510	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00060
+24311	23928	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00061
+25269	24568	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00062
+25459	25271	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00063
+25723	25550	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00064
+26057	25713	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00065
+26311	26057	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00066
+26546	26292	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00067
+26892	26557	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00068
+27304	26867	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00069
+27781	27320	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00070
+28001	27774	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00071
+28420	27989	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00072
+28653	28423	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00073
+29081	28650	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00074
+29237	29085	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00075
+30184	29237	CDS
+			codon_start	1
+			product	Thymidylate synthase
+			EC_number	2.1.1.45
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q4JQW2
+			locus_tag	FGBNBECL_00076
+31290	30307	CDS
+			codon_start	1
+			product	Ribonucleoside-diphosphate reductase subunit beta
+			EC_number	1.17.4.1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O64174
+			gene	bnrdF
+			locus_tag	FGBNBECL_00077
+32175	31303	CDS
+			codon_start	1
+			product	Ribonucleoside-diphosphate reductase large subunit
+			EC_number	1.17.4.1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P32984
+			gene	I4L_1
+			locus_tag	FGBNBECL_00078
+33240	32524	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00079
+34536	33406	CDS
+			codon_start	1
+			product	Ribonucleoside-diphosphate reductase large subunit
+			EC_number	1.17.4.1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P32984
+			gene	I4L_2
+			locus_tag	FGBNBECL_00080
+34781	34539	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00081
+35114	34908	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00082
+35485	35180	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00083
+35806	35576	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00084
+36094	35870	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00085
+36488	36204	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00086
+36611	36540	tRNA
+			note	tRNA-Thr(tgt)
+			product	tRNA-Thr
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	FGBNBECL_00087
+37728	36637	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00088
+38172	38099	tRNA
+			note	tRNA-Met(cat)
+			product	tRNA-Met
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	FGBNBECL_00089
+38304	38231	tRNA
+			note	tRNA-Pro(tgg)
+			product	tRNA-Pro
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	FGBNBECL_00090
+38531	38447	tRNA
+			note	tRNA-Leu(tag)
+			product	tRNA-Leu
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	FGBNBECL_00091
+39329	39254	tRNA
+			note	tRNA-Arg(tct)
+			product	tRNA-Arg
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	FGBNBECL_00092
+39883	39810	tRNA
+			note	tRNA-Trp(cca)
+			product	tRNA-Trp
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	FGBNBECL_00093
+40208	40133	tRNA
+			note	tRNA-Asp(gtc)
+			product	tRNA-Asp
+			inference	COORDINATES: profile:Aragorn:1.2
+			locus_tag	FGBNBECL_00094
+42040	41702	CDS
+			codon_start	1
+			product	Virion protein 6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85230
+			locus_tag	FGBNBECL_00095
+42448	42104	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00096
+42743	42483	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00097
+42860	43129	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00098
+43432	43860	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00099
+43860	44921	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00100
+45167	46105	CDS
+			codon_start	1
+			product	Putative endonuclease
+			EC_number	3.1.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q6QGE6
+			locus_tag	FGBNBECL_00101
+46534	46980	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00102
+47080	47868	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00103
+47973	48689	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00104
+48679	49023	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00105
+49117	49986	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00106
+50933	51277	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00107
+51370	53016	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00108
+53444	53914	CDS
+			codon_start	1
+			product	Putative major capsid protein
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85226
+			locus_tag	FGBNBECL_00109
+54383	54847	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00110
+54988	56382	CDS
+			codon_start	1
+			product	Putative major capsid protein
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85226
+			locus_tag	FGBNBECL_00111
+56487	56750	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00112
+56763	57662	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00113
+57680	58549	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00114
+58542	59165	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00115
+59169	60014	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00116
+60251	61960	CDS
+			codon_start	1
+			product	Putative tail sheath protein
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85225
+			locus_tag	FGBNBECL_00117
+62021	62443	CDS
+			codon_start	1
+			product	Virion protein 5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85229
+			locus_tag	FGBNBECL_00118
+62567	63403	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00119
+63700	64173	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00120
+64241	64816	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00121
+64861	68505	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00122
+68544	71729	CDS
+			codon_start	1
+			product	Morphogenesis protein 1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P15132
+			locus_tag	FGBNBECL_00123
+71815	77292	CDS
+			codon_start	1
+			product	Tail fiber protein
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A8E283
+			locus_tag	FGBNBECL_00124
+77392	79803	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00125
+79797	80522	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00126
+80554	80700	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00127
+80837	81526	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00128
+81530	82066	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00129
+82053	82757	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00130
+82773	83825	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00131
+84252	85244	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00132
+85416	85895	CDS
+			codon_start	1
+			product	Virion protein 3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85227
+			locus_tag	FGBNBECL_00133
+85910	89374	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00134
+89471	90424	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00135
+90582	90707	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00136
+90962	92734	CDS
+			codon_start	1
+			product	ATP-dependent DNA helicase uvsW
+			EC_number	3.6.4.12
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20703
+			gene	uvsW
+			locus_tag	FGBNBECL_00137
+92900	94390	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00138
+94423	95895	CDS
+			codon_start	1
+			product	ATP-dependent helicase 41
+			EC_number	3.6.4.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04530
+			locus_tag	FGBNBECL_00139
+95895	96950	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00140
+97066	98958	CDS
+			codon_start	1
+			product	Exonuclease subunit 2
+			EC_number	3.1.11.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04522
+			locus_tag	FGBNBECL_00141
+98967	99632	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00142
+99633	100691	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00143
+100707	101339	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00144
+101365	102249	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00145
+102252	102482	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00146
+102484	102792	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00147
+102779	103090	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00148
+103083	103454	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00149
+103474	104142	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00150
+104144	104443	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00151
+104449	104928	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00152
+105021	105815	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00153
+105808	106119	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00154
+106299	108611	CDS
+			codon_start	1
+			product	DNA polymerase
+			EC_number	2.7.7.7
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P19822
+			locus_tag	FGBNBECL_00155
+108747	109409	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00156
+109783	110262	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00157
+110547	110903	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00158
+110964	112253	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00159
+112458	113585	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00160
+113711	114025	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00161
+114744	114968	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00162
+115016	115978	CDS
+			codon_start	1
+			product	Virion protein 4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85228
+			locus_tag	FGBNBECL_00163
+115999	116442	CDS
+			codon_start	1
+			product	Virion protein 4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85228
+			locus_tag	FGBNBECL_00164
+116548	116853	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00165
+116850	117803	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00166
+118088	119140	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00167
+119152	119526	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00168
+119565	120185	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00169
+120185	120925	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00170
+120915	121421	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00171
+121435	121785	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00172
+121810	122667	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00173
+122771	123616	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00174
+123609	125246	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00175
+125556	126245	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00176
+126256	126723	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00177
+126823	129102	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00178
+129390	129896	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00179
+129968	130072	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00180
+130074	130244	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00181
+130234	130506	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00182
+130614	130865	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00183
+130878	131165	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00184
+131168	131956	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00185
+132039	133112	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00186
+133237	133539	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00187
+133541	133843	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00188
+133846	134139	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00189
+134136	134315	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00190
+134328	134681	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00191
+134708	135085	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00192
+135078	135308	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00193
+135312	135686	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00194
+135683	135910	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00195
+135928	136116	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00196
+136149	136871	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00197
+136884	137513	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00198
+137675	137833	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00199
+137848	137991	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00200
+138004	138198	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00201
+138214	138855	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00202
+138867	139310	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00203
+139462	139893	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00204
+140250	140549	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00205
+140627	140917	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00206
+141064	141276	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00207
+141372	141512	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00208
+141571	141849	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00209
+141921	142148	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00210
+142230	142523	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00211
+142630	142836	CDS
+			codon_start	1
+			product	hypothetical protein
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	FGBNBECL_00212

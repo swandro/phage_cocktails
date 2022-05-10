@@ -1,0 +1,92 @@
+[12:00:15] Command: --kingdom Viruses --cpus 4 Toy.fasta --outdir ./toy2 --force --genus Caudovirales --locustag QOFMPA --usegenus
+[12:00:15] Looking for 'aragorn' - found /home/swandro/miniconda3/envs/prokka/bin/aragorn
+[12:00:15] Determined aragorn version is 1.2
+[12:00:15] Looking for 'barrnap' - found /home/swandro/miniconda3/envs/prokka/bin/barrnap
+[12:00:15] Determined barrnap version is 0.9
+[12:00:15] Looking for 'blastp' - found /home/swandro/miniconda3/envs/prokka/bin/blastp
+[12:00:15] Determined blastp version is 2.2
+[12:00:15] Looking for 'cmpress' - found /home/swandro/miniconda3/envs/prokka/bin/cmpress
+[12:00:15] Determined cmpress version is 1.1
+[12:00:15] Looking for 'cmscan' - found /home/swandro/miniconda3/envs/prokka/bin/cmscan
+[12:00:16] Determined cmscan version is 1.1
+[12:00:16] Looking for 'egrep' - found /bin/egrep
+[12:00:16] Looking for 'find' - found /usr/bin/find
+[12:00:16] Looking for 'grep' - found /bin/grep
+[12:00:16] Looking for 'hmmpress' - found /home/swandro/miniconda3/envs/prokka/bin/hmmpress
+[12:00:16] Determined hmmpress version is 3.3
+[12:00:16] Looking for 'hmmscan' - found /home/swandro/miniconda3/envs/prokka/bin/hmmscan
+[12:00:16] Determined hmmscan version is 3.3
+[12:00:16] Looking for 'less' - found /usr/bin/less
+[12:00:16] Looking for 'makeblastdb' - found /home/swandro/miniconda3/envs/prokka/bin/makeblastdb
+[12:00:16] Determined makeblastdb version is 2.2
+[12:00:16] Looking for 'minced' - found /home/swandro/miniconda3/envs/prokka/bin/minced
+[12:00:16] Determined minced version is 4.2
+[12:00:16] Looking for 'parallel' - found /home/swandro/miniconda3/envs/prokka/bin/parallel
+[12:00:16] Determined parallel version is 20160622
+[12:00:16] Looking for 'prodigal' - found /home/swandro/miniconda3/envs/prokka/bin/prodigal
+[12:00:16] Determined prodigal version is 2.6
+[12:00:16] Looking for 'prokka-genbank_to_fasta_db' - found /home/swandro/miniconda3/envs/prokka/bin/prokka-genbank_to_fasta_db
+[12:00:16] Looking for 'sed' - found /bin/sed
+[12:00:16] Looking for 'tbl2asn' - found /home/swandro/miniconda3/envs/prokka/bin/tbl2asn
+[12:00:16] Determined tbl2asn version is 25.8
+[12:00:16] Using genetic code table 1.
+[12:00:16] Loading and checking input file: Toy.fasta
+[12:00:16] Wrote 1 contigs
+[12:00:16] Predicting tRNAs and tmRNAs
+[12:00:16] Running: aragorn -gc1  -w \.\/toy2\/QOFMPA_03252022\.fna
+[12:00:16] 1 tRNA-Trp [54595,54667] 34 (cca)
+[12:00:16] 2 tRNA-Ser [54669,54757] 35 (tga)
+[12:00:16] Found 2 tRNAs
+[12:00:16] Disabling rRNA search: --kingdom=Viruses or --norrna=0
+[12:00:16] Skipping ncRNA search, enable with --rfam if desired.
+[12:00:16] Total of 2 tRNA + rRNA features
+[12:00:16] Searching for CRISPR repeats
+[12:00:16] Found 0 CRISPRs
+[12:00:16] Predicting coding sequences
+[12:00:16] Contigs total 57304 bp, so using meta mode
+[12:00:16] Running: prodigal -i \.\/toy2\/QOFMPA_03252022\.fna -c -m -g 1 -p meta -f sco -q
+[12:00:16] Excluding CDS which overlaps existing RNA (tRNA) at TOY:54621..54911 on + strand
+[12:00:16] Found 94 CDS
+[12:00:16] Connecting features back to sequences
+[12:00:16] Skipping genus-specific proteins as can't see /home/swandro/miniconda3/envs/prokka/bin/../db/Caudovirales
+[12:00:16] Annotating CDS, please be patient.
+[12:00:16] Will use 4 CPUs for similarity searching.
+[12:00:16] There are still 94 unannotated CDS left (started with 94)
+[12:00:16] Will use blast to search against /home/swandro/miniconda3/envs/prokka/bin/../db/kingdom/Viruses/sprot with 4 CPUs
+[12:00:16] Running: cat \.\/toy2\/sprot\.faa | parallel --gnu --plain -j 4 --block 2095 --recstart '>' --pipe blastp -query - -db /home/swandro/miniconda3/envs/prokka/bin/../db/kingdom/Viruses/sprot -evalue 1e-06 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\/toy2\/sprot\.blast 2> /dev/null
+[12:00:17] Deleting unwanted file: ./toy2/sprot.faa
+[12:00:17] Deleting unwanted file: ./toy2/sprot.blast
+[12:00:17] Labelling remaining 86 proteins as 'hypothetical protein'
+[12:00:17] Found 4 unique /gene codes.
+[12:00:17] Fixed 0 colliding /gene names.
+[12:00:17] Adding /locus_tag identifiers
+[12:00:17] Assigned 96 locus_tags to CDS and RNA features.
+[12:00:17] Writing outputs to ./toy2/
+[12:00:17] Generating annotation statistics file
+[12:00:17] Generating Genbank and Sequin files
+[12:00:17] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.11 from http://www.vicbioinformatics.com' -Z \.\/toy2\/QOFMPA_03252022\.err -i \.\/toy2\/QOFMPA_03252022\.fsa 2> /dev/null
+[12:00:18] Deleting unwanted file: ./toy2/errorsummary.val
+[12:00:18] Deleting unwanted file: ./toy2/QOFMPA_03252022.dr
+[12:00:18] Deleting unwanted file: ./toy2/QOFMPA_03252022.fixedproducts
+[12:00:18] Deleting unwanted file: ./toy2/QOFMPA_03252022.ecn
+[12:00:18] Deleting unwanted file: ./toy2/QOFMPA_03252022.val
+[12:00:18] Repairing broken .GBK output that tbl2asn produces...
+[12:00:18] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < \.\/toy2\/QOFMPA_03252022\.gbf > \.\/toy2\/QOFMPA_03252022\.gbk
+[12:00:18] Deleting unwanted file: ./toy2/QOFMPA_03252022.gbf
+[12:00:18] Output files:
+[12:00:18] ./toy2/QOFMPA_03252022.err
+[12:00:18] ./toy2/QOFMPA_03252022.faa
+[12:00:18] ./toy2/QOFMPA_03252022.ffn
+[12:00:18] ./toy2/QOFMPA_03252022.fna
+[12:00:18] ./toy2/QOFMPA_03252022.fsa
+[12:00:18] ./toy2/QOFMPA_03252022.gbk
+[12:00:18] ./toy2/QOFMPA_03252022.gff
+[12:00:18] ./toy2/QOFMPA_03252022.log
+[12:00:18] ./toy2/QOFMPA_03252022.sqn
+[12:00:18] ./toy2/QOFMPA_03252022.tbl
+[12:00:18] ./toy2/QOFMPA_03252022.txt
+[12:00:18] Walltime used: 0.05 minutes
+[12:00:18] If you use this result please cite the Prokka paper:
+[12:00:18] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[12:00:18] Type 'prokka --citation' for more details.
+[12:00:18] Share and enjoy!
